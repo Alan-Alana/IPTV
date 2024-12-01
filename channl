@@ -1,4 +1,4 @@
-💓央视频道，#genre#
+💓央视频道,#genre#
 
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226016/2.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8
@@ -19,8 +19,8 @@ CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/322
 CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8
 CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8
 
-  
-💓地方频道，#genre# 
+
+💓地方频道,#genre# 
   
 北京卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8
 湖南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000523/index.m3u8
@@ -108,7 +108,7 @@ CHC家庭影院，http：//[2409：8087：3c02：0021：0000：0001：0000：100
 
 
 
-💓电视剧🔁,#genre#
+💓电视剧,#genre#
 🎞️庆余年,http://diyp.112114.xyz/douyu/7489563
 🌵庆余年,http://diyp.zxxoo.work/douyu/5062195
 🌵庆余年,https://diyp.zxyxndc.top/douyu/5062195
