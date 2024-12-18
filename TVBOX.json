@@ -1,0 +1,66 @@
+//此多仓接口列表饭太硬导航列表整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+    "urls": [		
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀饭太硬线路一"
+        },
+     		
+        
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "🚀饭太硬线路二"
+        },          
+        
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀摸鱼线路"
+        },         
+        
+        
+        {
+            "url": "https://3450.kstore.space/DEMO.json",
+            "name": "🚀小米线路"
+        },                    
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀王二小线路"
+        }, 
+        {
+            "url": "https://100km.top/0",
+            "name": "🚀纯一骚零线路"
+        },	
+        {
+            "url": "http://ok321.top/tv",
+            "name": "🚀OK吊炸天线路"
+        },    
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🚀巧技线路"
+        },		
+        {
+            "url": "https://7213.kstore.vip/吃猫的鱼",
+            "name": "🚀吃猫的鱼线路"
+        },			
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "🚀莱妮丝线路"
+        },				   					
+        {
+            "url": "http://肥猫.live",
+            "name": "🚀肥猫线路"
+        },   		
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀南风线路"
+        },   
+        {
+            "url": "http://tv.nxog.top/m/",
+            "name": "🚀欧歌线路"
+        },   
+        {
+            "url": "http://影视仓.com/",
+            "name": "🚀影视仓线路"
+        }				
+    ]
+}
