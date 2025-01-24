@@ -1,4 +1,4 @@
-央视频道IPV6,#genre#
+央视频道,#genre#
 
 CCTV-1,http://liushizupu.site:35455/gaoma/cctv1.m3u8
 CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -55,8 +55,28 @@ CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?Guar
 CCTV-4k,http://liushizupu.site:35455/gaoma/cctv4k.m3u8
 CCTV-8k,http://liushizupu.site:35455/gaoma/cctv8k_36m.m3u8
 
+代理频道,#genre#
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 
-地方频道IPV6,#genre#
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+
+
+地方频道,#genre#
   
 北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -139,7 +159,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 知否知否,http://aa3.kkwk111.top/yy.php?id=21881901
 知否知否,http://11.xmyxc.cn/api/php/yy.php?id=398312
 繁花,http://120.77.28.4:8648/huya.php?id=21059580
-延禧攻略,http://cfss.cc/cdn/hy/26355864.m3u8
+延禧攻略,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
 你是我的荣耀,http://cdn.jdshipin.com:8880/huya.php?id=11352920
 甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
 琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
@@ -267,5 +287,5 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 
 更新时间,#genre#
-元月20日,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+元月24日,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 
