@@ -13,8 +13,8 @@ CCTV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?Guard
 
 CCTV-5,http://liushizupu.site:35455/gaoma/cctv5.m3u8
 CCTV-5,http://dsm.huarunguoji.top:35455/gaoma/cctv5.m3u8
-CCTV5,http://www.terrykang.xyz:35455/gaoma/cctv5.m3u8
-CCTV5,http://wouu.net:9977/udp/239.93.1.36:8004
+CCTV-5,http://www.terrykang.xyz:35455/gaoma/cctv5.m3u8
+CCTV-5,http://wouu.net:9977/udp/239.93.1.36:8004
 
 CCTV-5+,http://liushizupu.site:35455/gaoma/cctv5p.m3u8
 CCTV-5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -288,5 +288,5 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 
 更新时间,#genre#
-元月24日,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+元月26日,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 
