@@ -59,7 +59,23 @@ CCTV16,http://www.terrykang.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 CCTV17,http://www.terrykang.xyz:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 
-
+CCTV1,http://119.91.33.253/migu.php?id=cctv1
+CCTV2,http://119.91.33.253/migu.php?id=cctv2
+CCTV3,http://119.91.33.253/migu.php?id=cctv3
+CCTV4,http://119.91.33.253/migu.php?id=cctv4
+CCTV5,http://119.91.33.253/migu.php?id=cctv5
+CCTV5+,http://119.91.33.253/migu.php?id=cctv5p
+CCTV6,http://119.91.33.253/migu.php?id=cctv6
+CCTV7,http://119.91.33.253/migu.php?id=cctv7
+CCTV8,http://119.91.33.253/migu.php?id=cctv8
+CCTV9,http://119.91.33.253/migu.php?id=cctv9
+CCTV10,http://119.91.33.253/migu.php?id=cctv10
+CCTV11,http://119.91.33.253/migu.php?id=cctv11
+CCTV12,http://119.91.33.253/migu.php?id=cctv12
+CCTV13,http://119.91.33.253/migu.php?id=cctv13
+CCTV14,http://119.91.33.253/migu.php?id=cctv14
+CCTV15,http://119.91.33.253/migu.php?id=cctv15
+CCTV17,http://119.91.33.253/migu.php?id=cctv17
 
 
 
@@ -280,470 +296,376 @@ VOA美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 半岛新闻 (1080p),https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8$LR•IPV4『线路11』
-TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
-TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0$LR•IPV4『线路5』
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视,p3p://108.181.32.169:24075/6410229e000655dd98612e41401e3e7d
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-澳门咨询,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-中天新闻,http://125.229.9.67:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-中天综合,http://125.229.9.67:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
-TVBS,http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
+凤凰中文,http://tv.groupshare.com.cn/fhtv?id=cn&prefix=86&phone=13006363606&pwd=a998998$IPV4线路1
+凤凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+凤凰资讯,http://61.163.58.154:1321/ms/IPTV.php?id=124
+凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx
+凤凰香港,http://61.163.58.154:1321/ms/IPTV.php?id=125
+凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
+翡翠台,http://61.163.58.154:1321/ms/IPTV.php?id=126
+翡翠台,http://61.163.58.154:1321/ms/IPTV.php?id=219
+翡翠台,http://61.163.58.154:1321/ms/IPTV.php?id=220
+翡翠台,http://61.163.58.154:1321/ms/IPTV.php?id=221
+翡翠台,http://61.163.58.154:1321/ms/IPTV.php?id=222
+无线新闻,http://61.163.58.154:1321/ms/IPTV.php?id=224
 
-AKTV央视,#genre#
-CCTV1,https://video.mytvsuper.xyz/live/44caed2af7aa2ac94e9a482692facb25d27e82875e6adfd2a8ffa005d1d89cc7.m3u8?token=315786223041269
-CCTV1,https://video.mytvsuper.xyz/live/d2e2908e25ea64af5cb9dc918436b3cc965aa1bf37baf1dd5c4ff9d358611a6b.m3u8?token=315786223041269
-CCTV1,https://video.mytvsuper.xyz/live/9acde9cec52032ed44c88c4275cd3a2080418ed50b07cd45cc689408d39ce372.m3u8?token=315786223041269
-CCTV1,https://video.mytvsuper.xyz/live/2cf5690dc217f9dddc36cc5114d9fa59ae4b41ad5db08f4058b187f69648e71a.m3u8?token=315786223041269
-CCTV1,https://video.mytvsuper.xyz/live/a24fd5d66557cc039c7173d42edf32463b8999f742db47b9420a3f119152f225.m3u8?token=315786223041269
-CCTV1,https://video.mytvsuper.xyz/live/722ebd309df0fbb6039656caefac2e5c9198c5b9b5571011c23f1ed81fe927f8.m3u8?token=315786223041269
-CCTV2,https://video.mytvsuper.xyz/live/d9de37a3cd0bd2489b0f801245aea39fde1611cb4f32b35744d719578892152f.m3u8?token=315786223041269
-CCTV2,https://video.mytvsuper.xyz/live/95c75488379921e6a29f19e4ea626abbade10f1d2059de102d3faeff887ef2f2.m3u8?token=315786223041269
-CCTV2,https://video.mytvsuper.xyz/live/3af405d9aa7f3e11e84501bb55530cb0a8d6a25cddad5d3ddc5aaeb453e1e4da.m3u8?token=315786223041269
-CCTV2,https://video.mytvsuper.xyz/live/364237a9e1728a846ae4b7c2fdd69d90c7d10f696fdf6945470ed246f53b4fd1.m3u8?token=315786223041269
-CCTV2,https://video.mytvsuper.xyz/live/ae97ecbed3bfa19c53ce2ea6d1af9ab8a50a2e337dfe700a66bc65fb68c74660.m3u8?token=315786223041269
-CCTV3,https://video.mytvsuper.xyz/live/bab5a7b0a3b87ccd68378ed15339cc02ebb698f357d2035416406013ed9a97d7.m3u8?token=315786223041269
-CCTV3,https://video.mytvsuper.xyz/live/94ab9a5403409b8b28b101f34323570c3e8e5219441ae26633de9debb249fce6.m3u8?token=315786223041269
-CCTV3,https://video.mytvsuper.xyz/live/532a6fbfc2f874cdde284653cab47463e40d9159f5f9b5e16c9c33a6fa2611bd.m3u8?token=315786223041269
-CCTV3,https://video.mytvsuper.xyz/live/7dda5c209484993480f17ee9707f7f2b16abe68a87d74f359b51c50bcf777c21.m3u8?token=315786223041269
-CCTV3,https://video.mytvsuper.xyz/live/8cc93196fd5f3509f0415d916dc44f43dabe7a4f5e9c89054f0afa77e9e6b1a6.m3u8?token=315786223041269
-CCTV3,https://video.mytvsuper.xyz/live/dec6612a89c4dc6b4e86cfa8661da34f52e7edf3e8620fb710fdf4ab7cb50493.m3u8?token=315786223041269
-CCTV4,https://video.mytvsuper.xyz/live/9bf4bbfe5d2b10f46a55446d7c7540dd4fc49626c621f8d6a39257e8d27ba774.m3u8?token=315786223041269
-CCTV4,https://video.mytvsuper.xyz/live/8de34241f6f564759462d74ab0a69e0589d3a86d9d4ec801212893902cdd3351.m3u8?token=315786223041269
-CCTV4,https://video.mytvsuper.xyz/live/55590b49cef6c34ec5d5371f82a0310b846e36f802d02c9ec658d75c809526d6.m3u8?token=315786223041269
-CCTV4,https://video.mytvsuper.xyz/live/36e3282dee222b5f6fa4cf5921877ecb005b7853bf5bf80a6edb57edbe31e6a9.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/2869355aee4fd6ddcea8d458c7636035beda2747814ec27af6fc81404e738693.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/024405052c95cf3b3e683c4977caf5d4c4c0e214785bf0ffde85a412f778e825.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/035b8712fa6bd8bb332cb81f4bb3363dc097ccf50ff1a491d758564deaf569a3.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/55eed6268c34b6d20a829cfd2f76c641c6f8adc37391968bb84a7141f2aa3c5c.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/a9d89c77d104903f3409fd942a52a4716cfdeca0e7e42d244485d39c3c8913ca.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/a907decaf078411385d5f8e8cd581cd434f6f8f66a179a06cec8a26fc140e2bd.m3u8?token=315786223041269
-CCTV5,https://video.mytvsuper.xyz/live/834c2a0aafac3cdc956f58a5c21a704344e02c3646b2a78e7e8d3ada8003c1f8.m3u8?token=315786223041269
-CCTV5+,https://video.mytvsuper.xyz/live/1b0e5fbbc2bacbe812f83ca23d2e7f8465ca0fd427aa21acddaa6fc89c500cee.m3u8?token=315786223041269
-CCTV5+,https://video.mytvsuper.xyz/live/7927cbd71d430e473f31dc9c4e8c2fbbd3fa7feddabe12f6160b474eb596d237.m3u8?token=315786223041269
-CCTV5+,https://video.mytvsuper.xyz/live/c6602257b36b1dfc1bb4ad7d8eabed7401c4ef3f11f45fb128cb535ffa518504.m3u8?token=315786223041269
-CCTV5+,https://video.mytvsuper.xyz/live/15b8f8cc98ea073023b3e37c1a8e592d75727fae9beb09b8b80ab8a49cac4dd7.m3u8?token=315786223041269
-CCTV5+,https://video.mytvsuper.xyz/live/795115d8c3c27ce4cfd2468918ab27cbe99af7ac1b77571c80086fde4b16be4d.m3u8?token=315786223041269
-CCTV6,https://video.mytvsuper.xyz/live/1a733b187b6877893498d2e12feee5b02c880607b7602cb10fac3fdf579253d5.m3u8?token=315786223041269
-CCTV6,https://video.mytvsuper.xyz/live/98043f84b42c947bb60249ce5ba0bb79a9f34417908da199ec29419587b06528.m3u8?token=315786223041269
-CCTV6,https://video.mytvsuper.xyz/live/91c6c5144e91d67814e02c55a375d82e7db6ad22eeea58f45704b49c67a72233.m3u8?token=315786223041269
-CCTV6,https://video.mytvsuper.xyz/live/8f1a3194fcd59097ac65db1921a5201fb91c3f41a91272e9bb2d58e8c27bae25.m3u8?token=315786223041269
-CCTV6,https://video.mytvsuper.xyz/live/c7cecdbbd3fc92814fed442e82127d82f7e4139d9e1439bd71ca0299272e1370.m3u8?token=315786223041269
-CCTV6,https://video.mytvsuper.xyz/live/349f1062d49893d14115fd6cb6f79bba29602d725e4607967c55d490679825c3.m3u8?token=315786223041269
-CCTV7,https://video.mytvsuper.xyz/live/bd1dcf15e80ecb17f67d5adde217ee205ac2050fca833ea3ba2d453dadb39c3d.m3u8?token=315786223041269
-CCTV7,https://video.mytvsuper.xyz/live/50a12812eaef15a6db8531cc924cdeec8d69cfd68f71effdf04cfdfdf02c4a45.m3u8?token=315786223041269
-CCTV7,https://video.mytvsuper.xyz/live/ed097585f5d1d976d0d0dd11fb8a5403c972cd76f7e64a519e64236a960560aa.m3u8?token=315786223041269
-CCTV7,https://video.mytvsuper.xyz/live/50c1e56523b2b56b62fa6326c194c834fa456bd090e73005aba0f3194395332c.m3u8?token=315786223041269
-CCTV7,https://video.mytvsuper.xyz/live/46b838c21ee4f54095a5b50ca8e471e09213035e4315eb6f83761521ac4451a8.m3u8?token=315786223041269
-CCTV7,https://video.mytvsuper.xyz/live/b4103c8996840636b6519cd077bc2e00afca3dfaf27932344fa6c1026aa2aeb0.m3u8?token=315786223041269
-CCTV8,https://video.mytvsuper.xyz/live/648507be761e606352d3e72f5f28a46d6c46bcbdf3596e40aa9c43871e1c6619.m3u8?token=315786223041269
-CCTV8,https://video.mytvsuper.xyz/live/00e8ecffbd1ef0ded3da1637b96c35eac96adc213848c859d78f46730be9d0c8.m3u8?token=315786223041269
-CCTV8,https://video.mytvsuper.xyz/live/2b1fa869a8b841b2db79e4382364ccab98e5843cf331443c2d127cbbcaeb356b.m3u8?token=315786223041269
-CCTV8,https://video.mytvsuper.xyz/live/a4e0d226bd5a4ea30df2edf76044e0bed5632596da16b45c54641dcf376b414d.m3u8?token=315786223041269
-CCTV8,https://video.mytvsuper.xyz/live/41210bb8b7ff66306179a0faecac3728d10e69d89d531a8b126f05f6ecfbe50d.m3u8?token=315786223041269
-CCTV8,https://video.mytvsuper.xyz/live/588e2ae82275ac9e5fb7363704936ed9885b2029d656980cb2621e32d2857684.m3u8?token=315786223041269
-CCTV9,https://video.mytvsuper.xyz/live/09ff6580e5bea13bda2a648d3e6b40fad2fb50d74d9ccad0dfae11852c972e86.m3u8?token=315786223041269
-CCTV9,https://video.mytvsuper.xyz/live/ad5441ddb6f886dddbb3101e6cc5d8557a459a8640a8192e3d02a5b6756a30ba.m3u8?token=315786223041269
-CCTV9,https://video.mytvsuper.xyz/live/b61005e7dc78b612c606b2d99364e272a4a0320432c6610793874cae0f0ce7af.m3u8?token=315786223041269
-CCTV9,https://video.mytvsuper.xyz/live/a973ca0bf773d429a71df65cb9ce9731b90696f39c1e7abbf5fc312494ca341b.m3u8?token=315786223041269
-CCTV9,https://video.mytvsuper.xyz/live/0a49b137ce854ddbf6305ddc9f56d1b9946c74a1fd3b6e7c39401a47b8dfd62f.m3u8?token=315786223041269
-CCTV10,https://video.mytvsuper.xyz/live/cf8cb180ded123757ebe5a6fdd58746b99371d22cc975ad87f165b612a3697ae.m3u8?token=315786223041269
-CCTV10,https://video.mytvsuper.xyz/live/d6ac2db0ffd3bb7d28bcadb176bcc7c6433bef382abed2ea9c4a774988dfbef9.m3u8?token=315786223041269
-CCTV10,https://video.mytvsuper.xyz/live/e586ee597f4fedaa139d264c49b6ed614d23561a771de3837fc41b732367bc18.m3u8?token=315786223041269
-CCTV10,https://video.mytvsuper.xyz/live/cb87e1414471b3253985601928b7c9dce24df76f0a29d7c0479208546db9731d.m3u8?token=315786223041269
-CCTV10,https://video.mytvsuper.xyz/live/02fd3605799e4680da957b773e26f975b3fcbf7ad3e876b51af1652a5194c414.m3u8?token=315786223041269
-CCTV10,https://video.mytvsuper.xyz/live/27098ded960e967f1fb0c84bd55f3c6c6845c2224df716b6989cb5cd44807afb.m3u8?token=315786223041269
-CCTV11,https://video.mytvsuper.xyz/live/ce3e5ab0fc8093f6a481aa928c9ce30158d7775934255c11fb6e8073ba5d6cc9.m3u8?token=315786223041269
-CCTV11,https://video.mytvsuper.xyz/live/6619c9eb3c82feac681e72203514a0590cdc078e775b58c140e42cc1d09b9ef1.m3u8?token=315786223041269
-CCTV11,https://video.mytvsuper.xyz/live/0a47b3b9411082769b2b5541aff89066b85f3b68cb9cd1af0cb832e1b147269e.m3u8?token=315786223041269
-CCTV11,https://video.mytvsuper.xyz/live/0c12d0088a62c686967ee116feaf1e79f96ecbd8213791f7004eb881e61b8e0e.m3u8?token=315786223041269
-CCTV12,https://video.mytvsuper.xyz/live/06c9fda6c45062e19b68667e71aeaf1f39e92c2cd8f1bae6832d93d0c0d0a7bb.m3u8?token=315786223041269
-CCTV12,https://video.mytvsuper.xyz/live/632a9e44ac361523e5a4a0c22e74e57bd633736c392b8026a46c556353ae74cd.m3u8?token=315786223041269
-CCTV12,https://video.mytvsuper.xyz/live/6b8ea119aa481d0cd0f44adfd4852accec62f2582c2bea79534e2032860600fc.m3u8?token=315786223041269
-CCTV12,https://video.mytvsuper.xyz/live/4a81adb7c79ba9c489ae0763a104e092ffa9ab4aa4f69404fb9ce60dfb2c082e.m3u8?token=315786223041269
-CCTV12,https://video.mytvsuper.xyz/live/7b0fb7521bf31a875402ba8ad4398ef14b3cdfcca4f9ba52550560ca1c5324e4.m3u8?token=315786223041269
-CCTV12,https://video.mytvsuper.xyz/live/b5d670eab4acca8aa94c91166a6f09946e0b9ee837cd7b6c162be923a7204e66.m3u8?token=315786223041269
-CCTV13,https://video.mytvsuper.xyz/live/58f15ece8f38190fcb4b87d3c2ed2dead3196399d33737331614148ced8348ae.m3u8?token=315786223041269
-CCTV13,https://video.mytvsuper.xyz/live/c90adf9768d2ad528d08d8b1970656e9edd12aad01c84a4597806bf681a44372.m3u8?token=315786223041269
-CCTV13,https://video.mytvsuper.xyz/live/99265996d9bb30b84e25d4a93fbf5509d934d5325b9d399e0303f75f6f39c96e.m3u8?token=315786223041269
-CCTV14,https://video.mytvsuper.xyz/live/dc37696c1f61c15c8dda6b04f45a3d1ba60a2719c41f962fbf6b9e9681cd269c.m3u8?token=315786223041269
-CCTV14,https://video.mytvsuper.xyz/live/df1c3ccaa2075c6c5796182d1fe9ad8ecd998d273179237669a0f2f1b46333e0.m3u8?token=315786223041269
-CCTV14,https://video.mytvsuper.xyz/live/a142e2e5e94f56edf05f2009cef21fd1bb91c185ba9eb854428c757f0bdb3433.m3u8?token=315786223041269
-CCTV14,https://video.mytvsuper.xyz/live/e5de6e88ce07509cb9b33507164dd7ab9c5c4cda993fc09a23544ff69acd497e.m3u8?token=315786223041269
-CCTV14,https://video.mytvsuper.xyz/live/7ae601fd32d8c3b08567ae503ecfa6b2d95c3026d631303595c07ae2a25c9f25.m3u8?token=315786223041269
-CCTV14,https://video.mytvsuper.xyz/live/0c2c6477792aeb3174790a360f393791002f1378f74b6be61de91d2252ec2a56.m3u8?token=315786223041269
-CCTV15,https://video.mytvsuper.xyz/live/782ddc803629af0ce8493a72e2782d47d9e39f08161270716bc0ed6edd288333.m3u8?token=315786223041269
-CCTV15,https://video.mytvsuper.xyz/live/8b46ced7f9862124779346879de333439f2f61100586363358f359412d4ea197.m3u8?token=315786223041269
-CCTV15,https://video.mytvsuper.xyz/live/2feec8f7b8309139a0c39cad82ad36a38d523768deaf248214ff42f86b5dd7b4.m3u8?token=315786223041269
-CCTV16,https://video.mytvsuper.xyz/live/6f24aa8f857f933da0d25318c7f1a692ebdfc838f8a8ad9d2d0098a9cae1f8d5.m3u8?token=315786223041269
-CCTV16,https://video.mytvsuper.xyz/live/6e13aa18977cb74548c11f6196e4bbbcf8709e9aa60c48ccee0d24c2ddc3f989.m3u8?token=315786223041269
-CCTV16,https://video.mytvsuper.xyz/live/cec89502d6a2e32fd5f8b36cfb4cf112635befe193befa60a0d07e4292ed7de7.m3u8?token=315786223041269
-CCTV17,https://video.mytvsuper.xyz/live/e59ea76250f8bc5c3e52a3d6091bdb67326bec3833f7e9a811af49587b5e4d26.m3u8?token=315786223041269
-CCTV17,https://video.mytvsuper.xyz/live/4e2f81593f0c7d1800e421f5c6d40ab4cc17988be3cfade156bfad740e8d1d51.m3u8?token=315786223041269
-CCTV17,https://video.mytvsuper.xyz/live/091ce424e056f2a884ec2961266808b7284e9194d37d6d0b7e8ca715a64b1d3d.m3u8?token=315786223041269
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+三立国际,http://ar-ca2.jdiptv.cc/live/slgj.m3u8?kdstime=1737449807&kdssign=7ee1ebc151efe1ff1fc8eb375dafdd82
+中天综合,http://fr-us4.jdiptv.cc/live/ztzh.m3u8?kdstime=1737433341&kdssign=e836767ada6db599f7f35ea3567579bd
+中天综合,http://fr-us4.jdiptv.cc/live/ztzh.m3u8?kdstime=1737444617&kdssign=8bd18293ce82f467d9f32e02938b5a8c
+中天综合,http://fr-us4.jdiptv.cc/live/ztzh.m3u8?kdstime=1737448909&kdssign=c3902783fff12cf92a7182033223fd40
+民视第一,http://fr-us1.jdiptv.cc/live/ftvdy.m3u8?kdstime=1737435428&kdssign=582e15b4c00d9051adcacdfa335938e2
+民视第一,http://fr-us1.jdiptv.cc/live/ftvdy.m3u8?kdstime=1737450104&kdssign=76f5e02ab7b24b9be5dfb780175d73f9
+年代新闻,http://cc-us2.jdiptv.cc/live/ndxw.m3u8?kdstime=1737436605&kdssign=6d0dbe04ae00744dce7d84b07f6a57f3
+年代新闻,http://co-sg2.jdiptv.cc/live/ndmuch.m3u8?kdstime=1737450373&kdssign=aec1fab77656ab0e2d3d99d0491c8151
+ELTA综合,http://fr-us2.jdiptv.cc/live/eltazh.m3u8?kdstime=1737437196&kdssign=f4cdb388114b9889aa36ce7464593966
+东森洋片,http://fr-us3.jdiptv.cc/live/dsyp.m3u8?kdstime=1737433549&kdssign=c35e87dabf6b3dc85f2e7075d50743af
+东森洋片,http://fr-us3.jdiptv.cc/live/dsyp.m3u8?kdstime=1737450591&kdssign=8acb9ce5578a14aa858c4f595a3fdc01
+东森电影,http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737433427&kdssign=416985ca059a814ad31f35a12b0217cc
+东森电影,http://fr-us3.jdiptv.cc/live/dsdy.m3u8?kdstime=1737450697&kdssign=d8fe96622d0887ad8766910568845af3
+非凡新闻,http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737433680&kdssign=916861d6844d49d9893d2f5a1a2fcaf1
+非凡新闻,http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737451033&kdssign=ace6ecbd266473242a51a7e8c32fb4a3
+龙华电影,http://fr-us2.jdiptv.cc/live/lxsdgj.m3u8?kdstime=1737437873&kdssign=ac6ecdbfbdf23f09f91457ed539a69c3
+AMC电影,http://fr-us4.jdiptv.cc/live/amcdy.m3u8?kdstime=1737449420&kdssign=31a9c6a861a9a6f9337278fe81269c9b
+TVBS亚洲,http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737433860&kdssign=5296fd9bfefcfa44bf13f477f80bfe92
+TVBS亚洲,http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737451648&kdssign=b486cdd371a70b689ef7d1c67df172b4
+TVBS亚洲,http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737030712&kdssign=081aaee108c1103adb025326342d5388
+壹新闻,http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737436537&kdssign=b3caa780c3dc3130438bc98da0eeab52
+壹新闻,http://al-us3.jdiptv.cc/live/yxw.m3u8?kdstime=1737451397&kdssign=de36328e85c87a8a6964db682d94aa85
+非凡新闻,http://fr-us4.jdiptv.cc/live/ffxw.m3u8?kdstime=1737447338&kdssign=3fa949dddc08e3a958eab243b7088ff5
+HOY78,http://61.163.58.154:1321/ms/IPTV.php?id=146
+RHK32,http://61.163.58.154:1321/ms/IPTV.php?id=150
 
-AKTV地方,#genre#
+游戏,#genre#
+「B站」热门赛事,http://dns.yiandrive.com:15907/bilibili/10
+「B站」CS 2,http://dns.yiandrive.com:15907/bilibili/21622811
+「虎牙」CS 2,http://dns.yiandrive.com:15907/huya/483917
+「B站」英雄联盟,http://dns.yiandrive.com:15907/bilibili/6
+「虎牙」英雄联盟 𝟙,http://dns.yiandrive.com:15907/huya/660000
+「虎牙」英雄联盟 𝟚,http://dns.yiandrive.com:15907/huya/660001
+「斗鱼」英雄联盟 𝟙,http://dns.yiandrive.com:15907/douyu/288016
+「斗鱼」英雄联盟 𝟚,http://dns.yiandrive.com:15907/douyu/424559
+「B站」英雄联盟•手游,http://dns.yiandrive.com:15907/bilibili/23138275
+「B站」王者荣耀 𝟙,http://dns.yiandrive.com:15907/bilibili/55
+「B站」王者荣耀 𝟚,http://dns.yiandrive.com:15907/bilibili/21654762
+「虎牙」王者荣耀 𝟙,http://dns.yiandrive.com:15907/huya/660002
+「虎牙」王者荣耀 𝟚,http://dns.yiandrive.com:15907/huya/660164
+「斗鱼」王者荣耀 𝟙,http://dns.yiandrive.com:15907/douyu/1863767
+「斗鱼」王者荣耀 𝟚,http://dns.yiandrive.com:15907/douyu/1984839
+「B站」绝地求生,http://dns.yiandrive.com:15907/bilibili/98
+「虎牙」绝地求生 𝟙,http://dns.yiandrive.com:15907/huya/660004
+「虎牙」绝地求生 𝟚,http://dns.yiandrive.com:15907/huya/660005
+「斗鱼」绝地求生,http://dns.yiandrive.com:15907/douyu/100
+「虎牙」和平精英,http://dns.yiandrive.com:15907/huya/660006
+「斗鱼」和平精英,http://dns.yiandrive.com:15907/douyu/999
+「虎牙」金铲铲之战,http://dns.yiandrive.com:15907/huya/660579
+「斗鱼」金铲铲之战,http://dns.yiandrive.com:15907/douyu/9715241
+「虎牙」DOTA2,http://dns.yiandrive.com:15907/huya/660118
+「斗鱼」DOTA2,http://dns.yiandrive.com:15907/douyu/3811559
+「斗鱼」云顶之弈,http://dns.yiandrive.com:15907/douyu/522423
+「虎牙」永劫无间,http://dns.yiandrive.com:15907/huya/660115
+「斗鱼」永劫无间,http://dns.yiandrive.com:15907/huya/9662891
+「B站」使命召唤•手游,http://dns.yiandrive.com:15907/bilibili/22741849
+「虎牙」使命召唤•手游,http://dns.yiandrive.com:15907/huya/11718629
+「斗鱼」使命召唤•手游,http://dns.yiandrive.com:15907/douyu/9223245
+「虎牙」穿越火线,http://dns.yiandrive.com:15907/huya/660101
+「斗鱼」穿越火线 𝟙,http://dns.yiandrive.com:15907/douyu/605964
+「斗鱼」穿越火线 𝟚,http://dns.yiandrive.com:15907/douyu/5388537
+「虎牙」穿越火线•手游,http://dns.yiandrive.com:15907/huya/660102
+「B站」第五人格,http://dns.yiandrive.com:15907/bilibili/5555
+「虎牙」第五人格,http://dns.yiandrive.com:15907/huya/idvesports
+「斗鱼」第五人格,http://dns.yiandrive.com:15907/douyu/3226194
+「虎牙」逆战,http://dns.yiandrive.com:15907/huya/nsl2021
+「B站」无畏契约,http://dns.yiandrive.com:15907/bilibili/22908869
+「虎牙」无畏契约,http://dns.yiandrive.com:15907/huya/660679
+「斗鱼」无畏契约,http://dns.yiandrive.com:15907/douyu/4585645
+「斗鱼」原神,http://dns.yiandrive.com:15907/douyu/10853239
+「B站」QQ飞车•手游,http://dns.yiandrive.com:15907/bilibili/21743919
+「斗鱼」QQ飞车•手游,http://dns.yiandrive.com:15907/douyu/5040227
+「斗鱼」梦幻西游·手游,http://dns.yiandrive.com:15907/huya/9163712
+「斗鱼」街霸,http://dns.yiandrive.com:15907/huya/11437
+「B站」JJ斗地主,http://dns.yiandrive.com:15907/bilibili/22021983
+「斗鱼」JJ斗地主,http://dns.yiandrive.com:15907/douyu/488743
+「斗鱼」我的世界,http://dns.yiandrive.com:15907/douyu/738878
+「斗鱼」FIFA,http://dns.yiandrive.com:15907/douyu/7692166
+「斗鱼」火影忍者,http://dns.yiandrive.com:15907/douyu/1997723
+「斗鱼」跑跑卡丁车,http://dns.yiandrive.com:15907/douyu/7722576
+「斗鱼」跑跑卡丁车•手游,http://dns.yiandrive.com:15907/douyu/6672862
 
-安徽卫视,https://video.mytvsuper.xyz/live/efe31d75ec2c1ec2dff51a24d3f339b5581f01b9706c6b86829945c76621bf25.m3u8?token=315786223041269
-安徽卫视,https://video.mytvsuper.xyz/live/33dda63ec1fb97a4b9f5385d985b4af4b23f0c994d030c1ec966a1b67671d5f3.m3u8?token=315786223041269
-安徽卫视,https://video.mytvsuper.xyz/live/10f910f44fc6a7468085ef2d50ebf5d286103f8fdb5e29da1871228ce4afcf7f.m3u8?token=315786223041269
-安徽卫视,https://video.mytvsuper.xyz/live/d3280d69989c3548fb28ac5a7c6906f306b79c282b2411746b5fd7d223d3abd3.m3u8?token=315786223041269
-安徽卫视,https://video.mytvsuper.xyz/live/61aa9c586c6ad79881f04803ed105eac562db302deda3221cdfd7119e3563cfd.m3u8?token=315786223041269
-安徽卫视,https://video.mytvsuper.xyz/live/20fd28d69909c6d6962744c6a00a109be1b49b73f54bba1ef3f3d90764ef9f85.m3u8?token=315786223041269
-纪实科教,https://video.mytvsuper.xyz/live/90b70cb649df771b31e5fa3adce95e9e00583bd33b60c5698ebbf2d4c867d2bc.m3u8?token=315786223041269
-纪实科教,https://video.mytvsuper.xyz/live/5d41f82bf2dc89e9cc62bbfa4ffe26c95be9fd18bbe5c1e421446186a59f7ff4.m3u8?token=315786223041269
-纪实科教,https://video.mytvsuper.xyz/live/0a3cda354c5d7e1da2b589499993b517bd7025832c474d7ee8d07b335f159f0d.m3u8?token=315786223041269
-纪实科教,https://video.mytvsuper.xyz/live/b734155c2c8b33354c175a38c8cb0f74a0964e4b9fbc525b26168e3f36c05335.m3u8?token=315786223041269
-纪实科教,https://video.mytvsuper.xyz/live/0984d7b12aad53d84e8106ac78fc76434f0e2c18e78cdcbffba6db9c890bbf00.m3u8?token=315786223041269
-纪实科教,https://video.mytvsuper.xyz/live/f31a264ecb8b9e378fbafdfbc7a2f1bf3cd71c71617049d9da1048ace75a0a7b.m3u8?token=315786223041269
-卡酷少儿,https://video.mytvsuper.xyz/live/27688b2ac465c5922ed52481c35023ef22d4aedf4a5a7bfdffca88dbb067989f.m3u8?token=315786223041269
-卡酷少儿,https://video.mytvsuper.xyz/live/30e0f672e7906eb3cce1b058c8f7abc85a84fd349944dd843137a960b35d0d3f.m3u8?token=315786223041269
-卡酷少儿,https://video.mytvsuper.xyz/live/15e58511df11e1e117d4b565443ec9c2ddddf0405dccaae32a669bb79cafa17a.m3u8?token=315786223041269
-北京卫视,https://video.mytvsuper.xyz/live/05880f4514858e86c4f48df235db61908bd3c46458bbea7bf564bd137e4be5a4.m3u8?token=315786223041269
-北京卫视,https://video.mytvsuper.xyz/live/0caec312dbaae75495d61b5b9811dd43984543d39aedceef770268eb29c9a893.m3u8?token=315786223041269
-北京卫视,https://video.mytvsuper.xyz/live/a02e5433e9a44012f74bc14d35928b218e19b049c85613323819e7fd926c08b6.m3u8?token=315786223041269
-北京卫视,https://video.mytvsuper.xyz/live/871d9b09a9ad13810cfce3a1d12530be69790645f6326a0a7bdcde408275a10b.m3u8?token=315786223041269
-北京卫视,https://video.mytvsuper.xyz/live/e1c7f0ea16b58a3c4ee2d975b65b79f6aac51908315669c31be2d13758768c2a.m3u8?token=315786223041269
-北京卫视,https://video.mytvsuper.xyz/live/d895148ef1f5560a65be5e2a7c17274080c48e398e243e8c3c86fe653fbc954b.m3u8?token=315786223041269
-兵团卫视,https://video.mytvsuper.xyz/live/efce0e61252326a321cdea29d6276e298667934ed7c4814c4bac8b53ab0b4436.m3u8?token=315786223041269
-兵团卫视,https://video.mytvsuper.xyz/live/8cdeceabe2dd9d1861ab390eaf92904575f96011419efa60c690991bd19c4c03.m3u8?token=315786223041269
-东南卫视,https://video.mytvsuper.xyz/live/be521bf220786bd34bfe77fba34aae36ff3130d632963d1d821173cd63e34467.m3u8?token=315786223041269
-东南卫视,https://video.mytvsuper.xyz/live/02bceaea48454617ec9fcff02eed2d9c05c698ebe5fcd65bd9702edb43434c35.m3u8?token=315786223041269
-东南卫视,https://video.mytvsuper.xyz/live/7821093e8937b63251458e4a6ae6b93a069038d28e28a5b57e568fee969c7856.m3u8?token=315786223041269
-东南卫视,https://video.mytvsuper.xyz/live/c840df291b2143db8cfffabb5894005d33ab8c91aec8e1f219fb4b8bbaaaa98d.m3u8?token=315786223041269
-甘肃卫视,https://video.mytvsuper.xyz/live/482f37266ac335773cfde2c2cea8c66e235d159b008aa86d6055671107f471bb.m3u8?token=315786223041269
-甘肃卫视,https://video.mytvsuper.xyz/live/636afbfbb35914785335342d97dedb011a3181b85e7ec2fdbfab71946490f760.m3u8?token=315786223041269
-甘肃卫视,https://video.mytvsuper.xyz/live/0b2e041622f0bba0e0e41ab1149a31d686d3ee90295ac7c102d0e6258b48c4d3.m3u8?token=315786223041269
-大湾区卫视,https://video.mytvsuper.xyz/live/f9b8563918a36672a8d0db0cafedfcfb80f0d25a2a51c5d678745f331ef6c57c.m3u8?token=315786223041269
-大湾区卫视,https://video.mytvsuper.xyz/live/d993ac072e0cadb5582f9212ac454de9349d03b34c187e72171597ad3bf8ffe8.m3u8?token=315786223041269
-嘉佳卡通,https://video.mytvsuper.xyz/live/97d8c274796539e50d81a8a27981841f678c382e3b740737396acba2c939992b.m3u8?token=315786223041269
-嘉佳卡通,https://video.mytvsuper.xyz/live/1f826b754b93345370a0679fe4292d58082814e0507aa32e32e428e7304cab6c.m3u8?token=315786223041269
-广东卫视,https://video.mytvsuper.xyz/live/1efd2ef3780b3a77ffb0fdcfd1cd38b606bb90443fddff662799320733f780a8.m3u8?token=315786223041269
-广东卫视,https://video.mytvsuper.xyz/live/cfc5b1a516a152ed3a2f36c617fc61cbea289b1322a4d71d83eb07fd79b4bc9e.m3u8?token=315786223041269
-广东卫视,https://video.mytvsuper.xyz/live/33ae46b1a31482ee54f2f0278a6da9d21a75bb06534972c08255ae59ffe7f948.m3u8?token=315786223041269
-广东卫视,https://video.mytvsuper.xyz/live/259fdc33b7e4cf701bede808814c61bedf4572f3ad66bf24dc30f105b1c71455.m3u8?token=315786223041269
-广东卫视,https://video.mytvsuper.xyz/live/c4915bf0c68cfb71ee878f9993c6b3fbc0929f85d6ebbbfb58551c53c47c4d31.m3u8?token=315786223041269
-广东卫视,https://video.mytvsuper.xyz/live/98cdb011a17796efd0ba18e23efcabf670a5ecddd44e13b8499252fd2b5e32ad.m3u8?token=315786223041269
-广东珠江,https://video.mytvsuper.xyz/live/8f4252fe1658a54ce1c6bfae28d5e256fe61922bf187d0f700893d4cea214ea5.m3u8?token=315786223041269
-广东珠江,https://video.mytvsuper.xyz/live/cbd634f0c6b328fe7331b0a30b333a8d8ac8dbaab4bb054cfa98f54b65620842.m3u8?token=315786223041269
-广西卫视,https://video.mytvsuper.xyz/live/36379496e44085aebe148b0eebc301b1e286a534e631f8d12479fefe46fd2d80.m3u8?token=315786223041269
-广西卫视,https://video.mytvsuper.xyz/live/23a9fcb464771d5787709945cfcfc1b88f5064a8d17001de7c03d6ed34482baa.m3u8?token=315786223041269
-广西卫视,https://video.mytvsuper.xyz/live/a788b45d9c68e112dd22c31bdc618b9d6048748189f95fd9d78ca087859b810c.m3u8?token=315786223041269
-贵州卫视,https://video.mytvsuper.xyz/live/50111e743f3995ded996d293379019893913f2b7d937b2c22dd7098782d4b845.m3u8?token=315786223041269
-贵州卫视,https://video.mytvsuper.xyz/live/4014b9cd8fcc91562f5a9ee685454943caccf1179beeac8e29544a691ed91f27.m3u8?token=315786223041269
-海南卫视,https://video.mytvsuper.xyz/live/8ab4a3c8848fc1f69ddaeb5d400b5e6d5e6b626c3e2cc39f8d197ee501ef8571.m3u8?token=315786223041269
-海南卫视,https://video.mytvsuper.xyz/live/4f29bb36c669355fa09904a80ffd831f79775bb3050e49a190dbf3c7886d3cdc.m3u8?token=315786223041269
-河北卫视,https://video.mytvsuper.xyz/live/4dd806a2af3a7833e455094e662db20d3982dca78d5d83bd44137b4a4d0907e9.m3u8?token=315786223041269
-河北卫视,https://video.mytvsuper.xyz/live/7fa696ff6d4b897e8928c7a03908442dd149dae36d295e80ed8d0a6645cfe14b.m3u8?token=315786223041269
-河南卫视,https://video.mytvsuper.xyz/live/263ef84c921f8709ebd96fbc51c1b9a3b5c3abec546f831b367a8816bc3f822d.m3u8?token=315786223041269
-河南卫视,https://video.mytvsuper.xyz/live/486f0c72415caf9961009ae9de8fb64ae313869776a19c7aed6817db2f9c2632.m3u8?token=315786223041269
-河南卫视,https://video.mytvsuper.xyz/live/cb48ba5d631f1484f6edbd607ab140994ca2600285981eb01b83ff73ec6e6906.m3u8?token=315786223041269
-黑龙江卫视,https://video.mytvsuper.xyz/live/e3627d7a83d90c1c946cdcd4b508d727f719626165ae201a5240894bdf530556.m3u8?token=315786223041269
-黑龙江卫视,https://video.mytvsuper.xyz/live/2b249da54464412d54b33c7288c623268067dedd0e116184ee41254071fc4f0b.m3u8?token=315786223041269
-黑龙江卫视,https://video.mytvsuper.xyz/live/f9239a28d643c3312ab21030f238bf3ed42ad736c5ab183cdffc9076479f49c6.m3u8?token=315786223041269
-黑龙江卫视,https://video.mytvsuper.xyz/live/0c237dd4d52b1355fc3218972bc8eacd879c9a5f91c1d8f06f65c6f2ea67b7e0.m3u8?token=315786223041269
-黑龙江卫视,https://video.mytvsuper.xyz/live/2f813326022b43ce7592099d993cc6200bc09b7728b8703ce42eb4ca0e7102cc.m3u8?token=315786223041269
-黑龙江卫视,https://video.mytvsuper.xyz/live/491713329db81d81c791930aa69f50272c053d1757fa23dfa2b5114eee8520e6.m3u8?token=315786223041269
-湖北卫视,https://video.mytvsuper.xyz/live/f435e1324d37431cebd6c27d310db999ef104380ffb7b49c9af2d21a87333b0b.m3u8?token=315786223041269
-湖北卫视,https://video.mytvsuper.xyz/live/e77f824f4e6dc56d3601b251c02a7d7d557d16de5552e30a8454e0006bb73ba3.m3u8?token=315786223041269
-湖北卫视,https://video.mytvsuper.xyz/live/66cccb1c193cde639aafcf859608b1f5c5abe27fbf8082cb4dbcbbbbfc235157.m3u8?token=315786223041269
-湖北卫视,https://video.mytvsuper.xyz/live/39660ca6b18900b7a6f3fc37866ad89d1c882f417175240dff29191c23b572a4.m3u8?token=315786223041269
-湖北卫视,https://video.mytvsuper.xyz/live/5fc97e082c99386bb48d01f4f7e37907c3b7611225605003b48f9fd1ba457b14.m3u8?token=315786223041269
-湖北卫视,https://video.mytvsuper.xyz/live/075dffd22c483ffb547fba13cf7d57858e84b8361443338ef67f373b63b38da0.m3u8?token=315786223041269
-湖南卫视,https://video.mytvsuper.xyz/live/c09f4ae85132a29433e4deb866404033be90b3ee7015b567674e033aa4309d17.m3u8?token=315786223041269
-湖南卫视,https://video.mytvsuper.xyz/live/d820711832fe96d74dbc4958b30fbdf3c4076115481768d9f6f5900ea41c5893.m3u8?token=315786223041269
-湖南卫视,https://video.mytvsuper.xyz/live/e6e2d823796153543cc9abb5189dbf4caebd94a49bd497cd93fe2be5c3af4f93.m3u8?token=315786223041269
-湖南卫视,https://video.mytvsuper.xyz/live/13d3aa6d8109660395f55131a1d26c2c740c4d2a3d1a12ecb85eab132f9a085f.m3u8?token=315786223041269
-湖南卫视,https://video.mytvsuper.xyz/live/8a31ddf9facf29b90fb34413cfa5e23f81563b53eea770f7e54775eaaa5a8e8b.m3u8?token=315786223041269
-湖南卫视,https://video.mytvsuper.xyz/live/bfc8863fd8e280f65e227fb71da2b481a2e7be8417622eb2d1a6330161362b69.m3u8?token=315786223041269
-吉林卫视,https://video.mytvsuper.xyz/live/384e57ef2bc06dd2e5e1c736526c8b6f8c8da988f3be13255f8ae611eb107e93.m3u8?token=315786223041269
-吉林卫视,https://video.mytvsuper.xyz/live/489c20dc9db5dbcb683b3923d9d9bec2971ee0f1908e938e20b4a094e2bd8fd6.m3u8?token=315786223041269
-吉林卫视,https://video.mytvsuper.xyz/live/f444c8041dacdb4f2471dc6848e03d83680f586822eb156fd811b1adda513f3a.m3u8?token=315786223041269
-延边卫视,https://video.mytvsuper.xyz/live/b5fc9ebbeee91af2c73a1e711d68fbd4f96d82ce5514f76f1a0da4252e835d85.m3u8?token=315786223041269
-延边卫视,https://video.mytvsuper.xyz/live/5f1406cbc625c8ea8b90e78cb366f26d4f1c8d15a95dcbe7c4fc1449a47f380a.m3u8?token=315786223041269
-江苏卫视,https://video.mytvsuper.xyz/live/d1c9b3a72a6f39aa6f7aacc6c7bb9b12985d1433026d10236d7fa81a05d1f5ef.m3u8?token=315786223041269
-江苏卫视,https://video.mytvsuper.xyz/live/56deffce391636e3e02280056c444a5e188d3e221902eb350e22c1d4c106b880.m3u8?token=315786223041269
-江苏卫视,https://video.mytvsuper.xyz/live/1526fe2fc4865cf417138d4863a93b7009970fceaf73b45ee0c8abd5038b0574.m3u8?token=315786223041269
-江苏卫视,https://video.mytvsuper.xyz/live/60d0506d53a8efcd57593d51d90dc8eda18f317e0b1cca301d6cb1d14f20c04e.m3u8?token=315786223041269
-江苏卫视,https://video.mytvsuper.xyz/live/873082e284fbbd366462a30deba50b4a69235ee5e1b0f05174b58dc43ec277ef.m3u8?token=315786223041269
-江苏卫视,https://video.mytvsuper.xyz/live/79e27b47c8b18478d619050ec5c047e26f4f70bd2d17304ad21968e7a9c54278.m3u8?token=315786223041269
-优漫卡通,https://video.mytvsuper.xyz/live/cd3e784ce766d2984714a733c29358711982eff3e0c013667ffd14719e0fa23b.m3u8?token=315786223041269
-优漫卡通,https://video.mytvsuper.xyz/live/47029be88b8297e5260922ee545b892332dfdf3f7570257606a4483532fe5478.m3u8?token=315786223041269
-江西卫视,https://video.mytvsuper.xyz/live/660d5ea22c99d6a1ce81edcba57962a837dbfcaeb6628aee35d69f7433bb6525.m3u8?token=315786223041269
-江西卫视,https://video.mytvsuper.xyz/live/67e9944fe83150d4a0ece1e1e4349ee205606a56b7eb557beaf507be2ce6aa88.m3u8?token=315786223041269
-江西卫视,https://video.mytvsuper.xyz/live/547f06d0e8ae273ced4fe01c20d8059f7489f7d0f56ca6f3372c53aad42b66d5.m3u8?token=315786223041269
-江西卫视,https://video.mytvsuper.xyz/live/c3cd0740a8e68fe469c1dd2f47c98ab5152e6329f450e434478de06cacf5bbf4.m3u8?token=315786223041269
-江西卫视,https://video.mytvsuper.xyz/live/6ba85817986e8a01c8001151c46312a0ac7c17cdf4481932d2a7526e076d8f4c.m3u8?token=315786223041269
-辽宁卫视,https://video.mytvsuper.xyz/live/82d5be76cc8fd589b01c44cbe3bb199a91e6aad0cfe0f1b1d750f53f5f9851a3.m3u8?token=315786223041269
-辽宁卫视,https://video.mytvsuper.xyz/live/1679b91e268dfdf3f5c97153e44684f52d530d09645210caa7fac39b219e1ecd.m3u8?token=315786223041269
-辽宁卫视,https://video.mytvsuper.xyz/live/78daa3ee19f2862593d718a6ba2df75c894083bb5b8ca6bf4173fbeb00d268d1.m3u8?token=315786223041269
-辽宁卫视,https://video.mytvsuper.xyz/live/e308f13b2432c09ce7b3d4721b8e26a8745972e5a0bc4737a61d7be18d33a307.m3u8?token=315786223041269
-辽宁卫视,https://video.mytvsuper.xyz/live/525a64f0b7071f71ebf3ed06baf6b4a55457f4c6c6c8a28f654a3c5b1ce57f32.m3u8?token=315786223041269
-内蒙古卫视,https://video.mytvsuper.xyz/live/4f2307e22684ab1b118d7a923fd082a29aa4e2a71d8467394dd991f008588b7b.m3u8?token=315786223041269
-宁夏卫视,https://video.mytvsuper.xyz/live/11fffce70ed79511a6c4a92298e7291779e9b00c33266aea66a4175581c13583.m3u8?token=315786223041269
-宁夏卫视,https://video.mytvsuper.xyz/live/73b813faa27bb7fd2af1b86cbb6d2ffa3fcedf60df25a35ba0e7b7aab4117392.m3u8?token=315786223041269
-安多卫视,https://video.mytvsuper.xyz/live/e220b4043384b1c108cdc4b7c87caeb63de421dc648e49ad859efc00cd127321.m3u8?token=315786223041269
-安多卫视,https://video.mytvsuper.xyz/live/805b47b7538213e7f3b64f59f8c65dbf0debeabcb0b8093920c172849f859f97.m3u8?token=315786223041269
-青海卫视,https://video.mytvsuper.xyz/live/52fb6baba7c2297f3eba04e776050741d0b2d7ecca1a2f1d7a54b64371256105.m3u8?token=315786223041269
-青海卫视,https://video.mytvsuper.xyz/live/1cce9ef76b556b384a8bc3f007617bdff7598fb96bead987fa74bcd476836d72.m3u8?token=315786223041269
-厦门卫视,https://video.mytvsuper.xyz/live/54e05718902801f287de9615dab40b5ee02dc02b940d13548adbab2abb014910.m3u8?token=315786223041269
-山东教育,https://video.mytvsuper.xyz/live/35c50f41779f24871a229d669023bd8da6f89901ae1069da4bb1f357709c34bf.m3u8?token=315786223041269
-山东教育,https://video.mytvsuper.xyz/live/71fb9c27fad77507fc9a131f3638d533da6ab0518602a8121f9d268cc718e9c0.m3u8?token=315786223041269
-山东卫视,https://video.mytvsuper.xyz/live/30e06c442c1a6adb3de096307ff54e025d3a5c98ad15c03c024008e8c2a686ea.m3u8?token=315786223041269
-山东卫视,https://video.mytvsuper.xyz/live/3c7ec4fd0b45d5062a8e8d744f37072b948534a4cf4109211dfa43021b6e6ad7.m3u8?token=315786223041269
-山东卫视,https://video.mytvsuper.xyz/live/cd87dbfc94b501af729bca2cfe98d26d3d6f3368174dc2fa6f9653e6ec7a87cb.m3u8?token=315786223041269
-山东卫视,https://video.mytvsuper.xyz/live/e2c55551c0355a55acecada082694ad3a799010bb9485db4803dde4b0ee2a26c.m3u8?token=315786223041269
-山东卫视,https://video.mytvsuper.xyz/live/552ea742fe79ec0be211b6f58c05c319b875527946792e824d32f8207bcbbac3.m3u8?token=315786223041269
-山东卫视,https://video.mytvsuper.xyz/live/bfd990e45b4fc6714d5222cb95ed96bdee722887a15af54cbff37f3555e543a4.m3u8?token=315786223041269
-山西卫视,https://video.mytvsuper.xyz/live/3acb1315aace24d81ff3012d4d611b298fe4524ffaaf1322048eb4331129fe64.m3u8?token=315786223041269
-山西卫视,https://video.mytvsuper.xyz/live/908196fe254a342430ba07a0d32c8a9d59370d330dac75b02676d5668b831f7e.m3u8?token=315786223041269
-农林卫视,https://video.mytvsuper.xyz/live/047dbe9ff14b562308b03c9094a0b17877df4c26e89dd0c412666add7b6a75cf.m3u8?token=315786223041269
-农林卫视,https://video.mytvsuper.xyz/live/d6325ae00e956d9b348a90d37e8aab197d5a5455b40e0d83b1573fabb2ee977d.m3u8?token=315786223041269
-陕西卫视,https://video.mytvsuper.xyz/live/118748d952ec052b0735de95ef175fd90eccbc21e70105a7d2c3ff641100bfec.m3u8?token=315786223041269
-陕西卫视,https://video.mytvsuper.xyz/live/ce70f80a75fc7cf85aad2cb17ef9efcce3b6c1958466a3e46ea26c8a414f2ec5.m3u8?token=315786223041269
-上海ICS外语,https://video.mytvsuper.xyz/live/bee8269e1f7629c7921f1ff7d89c434204f30b65554e2ae0cea003e28232e8ca.m3u8?token=315786223041269
-上海ICS外语,https://video.mytvsuper.xyz/live/8866b5c77a559c0c45e33507211a38d4bca51eadb7180954c2ad536c0ebd35d2.m3u8?token=315786223041269
-第一财经,https://video.mytvsuper.xyz/live/7812a0f3eaca4dc8ae364412f3dd79ff65346051251dbe7934e0f0170b2cb269.m3u8?token=315786223041269
-第一财经,https://video.mytvsuper.xyz/live/c85fd9e93c95bf7010e41640673ff31801057d0c482f240042770c360c001d8b.m3u8?token=315786223041269
-东方财经,https://video.mytvsuper.xyz/live/98ba581f54a928726566a21d00d4a1577a34badb02d2310b7772989cfc3c0747.m3u8?token=315786223041269
-东方财经,https://video.mytvsuper.xyz/live/28028f7983a93b166b99af77e056f75dff8459a655ea64acba37eb69545bf129.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/3d7a3d25c5ba1e71ca71c1695d965a2c0b81f4c8f705ab4af98b48794d7b4066.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/8d73d1b143374ae3b3150c3bdf5845ec1417b27bb7dd0225a310c334c4042c48.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/4c40393634f9db1b415382584f59094345569f3d435e029b1882541267c1114b.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/d38a7af777b9df53851b9a5cf0ca3351f06fe58da1cfef96ccffcec642576fd6.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/31078b8f2947550aeb270bac1a5f7544250cb7a3d3c2e25b708a1f5d7ba6c918.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/343df69d67f5627bf4e5b8d94325a49313cb5ecdc9aa995cd3030258ba086219.m3u8?token=315786223041269
-东方卫视,https://video.mytvsuper.xyz/live/f54854e907ffe63dc51345c2180d2e610ec5d12b8b35483649177248dc75a865.m3u8?token=315786223041269
-上海东方影视,https://video.mytvsuper.xyz/live/7235dbe6b71cf602d157d8348feb2aa737baeb1e439f62b2c73fd4a405552d3c.m3u8?token=315786223041269
-上海东方影视,https://video.mytvsuper.xyz/live/4284dc5b706da2e32b65ec02dbf501fa3c738780e6ce94903b0a1e32f654844b.m3u8?token=315786223041269
-上海都市,https://video.mytvsuper.xyz/live/40a2552afcb8d736a09f3b7ff30aa445fa49b6b983ddc2daa76796990541cbad.m3u8?token=315786223041269
-上海都市,https://video.mytvsuper.xyz/live/3fc49ed7629083668c18b680d50e03ceadf48646b17495d7b665eacc0a809af7.m3u8?token=315786223041269
-法治天地,https://video.mytvsuper.xyz/live/458db991533e59ccb084480651b4d33170dd0e27ee79827020d59197867d8515.m3u8?token=315786223041269
-哈哈炫动,https://video.mytvsuper.xyz/live/158f2283b58e1bd2b9fe2b08538d95ea3e73415fd27e3b9a37fb47be5f4d7ca8.m3u8?token=315786223041269
-哈哈炫动,https://video.mytvsuper.xyz/live/ee1d385b5991fc555d38af169be5f31231c1cccc9c52805cb3ae2893335007c0.m3u8?token=315786223041269
-哈哈炫动,https://video.mytvsuper.xyz/live/7a1c4861c215788a567a927d9509eabec83b3c9f9acf76531d3271ad37774b14.m3u8?token=315786223041269
-纪实人文,https://video.mytvsuper.xyz/live/122b2cc79913b3224f486bcd34ffc8d9933d4bdfb1a1d8b1148dae5801a16104.m3u8?token=315786223041269
-纪实人文,https://video.mytvsuper.xyz/live/c10562380bfcad882c28fdee637fd00c6286e500140c9ad502263f41b556b978.m3u8?token=315786223041269
-纪实人文,https://video.mytvsuper.xyz/live/11ac891e8a8bc14970eea210ff05266ad56a3862c1f05468ca57ccc5bad74fff.m3u8?token=315786223041269
-纪实人文,https://video.mytvsuper.xyz/live/ddc9b0d4c57c4e93a76044793ef3e20e420daeeb3d74a8969437a1255e8f30ef.m3u8?token=315786223041269
-纪实人文,https://video.mytvsuper.xyz/live/d145597f503c0ad573ed8f4c46e866b56b14a594b0b341345c7446a61c16ea24.m3u8?token=315786223041269
-上海五星体育,https://video.mytvsuper.xyz/live/7b14c2accd3d0a552f0a3d0954aba9527c9e9fdc5c02a89b41398e176b9c0b01.m3u8?token=315786223041269
-上海五星体育,https://video.mytvsuper.xyz/live/c4772dc79eb9956f2e748d02847f0de9ef605ff9cfe23d7f32546fd7a7dae365.m3u8?token=315786223041269
-上海新闻综合,https://video.mytvsuper.xyz/live/31ca59ddf98cc5ea1027841db1a6eda4846123f719dfea0be0e7fb09c139f55f.m3u8?token=315786223041269
-上海新闻综合,https://video.mytvsuper.xyz/live/4904eb8755e9ddfbcb4c0ce4143bf6fdae756c355bf0866fac30cfdfc7200515.m3u8?token=315786223041269
-深圳卫视,https://video.mytvsuper.xyz/live/94ad79fedf1965f12ffad872ffc77b69651ac13748fe54b60f0ddda855b05199.m3u8?token=315786223041269
-深圳卫视,https://video.mytvsuper.xyz/live/115597375a527b1f102124cb6eeb63060b9968df5f3111ad377aeedb0c95e61b.m3u8?token=315786223041269
-深圳卫视,https://video.mytvsuper.xyz/live/33a7746d573d60798664003f115e83dd99246a258c78cc14a3bc6a0e26c38bd4.m3u8?token=315786223041269
-深圳卫视,https://video.mytvsuper.xyz/live/1fa68282b91cf901f1b67c247da9d248af295377c0a0f24dbd0a2a5f52e4df65.m3u8?token=315786223041269
-深圳卫视,https://video.mytvsuper.xyz/live/910434cc1835d97b7d950deb9ecd4117c3ddb6a749ab8202aab03d0cc17049d0.m3u8?token=315786223041269
-深圳卫视,https://video.mytvsuper.xyz/live/6c161d8d59cfe56c0a72f6f7007b73057086259a90e7c9c4ef0d9f5dde642cc9.m3u8?token=315786223041269
-康巴卫视,https://video.mytvsuper.xyz/live/ab15cd05116bec743fc0e7b1e2856e080108310cd7f60004053f60be9bfb516b.m3u8?token=315786223041269
-康巴卫视,https://video.mytvsuper.xyz/live/34b07a7a1ad85e2affdc12dab87e2a005bd9d67d2c58648dde8308da9139cf3c.m3u8?token=315786223041269
-四川卫视,https://video.mytvsuper.xyz/live/25c4431c14a87175e835200e5a031f7c39b048d2a043a6ebf09e4e8fc2810c5d.m3u8?token=315786223041269
-四川卫视,https://video.mytvsuper.xyz/live/a554fdd66007b764fedd7e40bd7deccb39fa118e2d834e2fb32a043f3099e483.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/41125ac8d2a091b1ca4bacb68877edf934ab65eade0b20ddd8a03db9a4ae55c6.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/3ab6318c4ccb4bca556349e0cc0246f4a69dd670d80dd5d84f50e10369136ca5.m3u8?token=315786223041269
-天津卫视,https://video.mytvsuper.xyz/live/f7854e9ca0ddb1d53e2bf388e3bdcca92b574bf3f889f17db4b2c3fe64d431fa.m3u8?token=315786223041269
-天津卫视,https://video.mytvsuper.xyz/live/1fcd41236eb14c6da30f20af31d03f6dc8fef41e8767168b03acd8affc86f8c0.m3u8?token=315786223041269
-天津卫视,https://video.mytvsuper.xyz/live/a7daf9a0f96708ef29fcc010490bd390145b3f7fbb2f85610f235672d8072463.m3u8?token=315786223041269
-天津卫视,https://video.mytvsuper.xyz/live/f2299bdfff10e4a64248e163ee5edd2a12a2c227008a6c2b8e5c8799f3294098.m3u8?token=315786223041269
-天津卫视,https://video.mytvsuper.xyz/live/50f467e1e0fc293b915b0688788d9f04cce72fc6197230428037091e35adfde5.m3u8?token=315786223041269
-天津卫视,https://video.mytvsuper.xyz/live/3fa1303fd1f6a21098a3024adcee4aa6e7239737100ea9186e7e76023635ad05.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/ac942ed75b7dfbf7aa7f65a78054c5ee13c2a696a731320eff0682f3c27d8c44.m3u8?token=315786223041269
-西藏卫视,https://video.mytvsuper.xyz/live/38ad228e2851398a720df202e609affccceb4b636d2083a403ebd417a2968010.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/4202ef4601b4ce6206c8d9fd48b9f37923c01e9084fdbd365c978cf19633067d.m3u8?token=315786223041269
-新疆卫视,https://video.mytvsuper.xyz/live/10187153db2d52383c3ab5dd7c39a44e88cad72fe842a0ded4e2a8aa8ab90e74.m3u8?token=315786223041269
-新疆卫视,https://video.mytvsuper.xyz/live/b07ffdddabdb864cff956de8e28b4c6fd8a2420469ae078183a068dc4ea3cb33.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/511470c1c7c83f5d22699a9d6fa2b5516dbf3e5ce5509efc4c1e7c989252769a.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/101d8d3903d722cfc134ab7296fb6509014a75add21d7b2a14d72cc6e72f0d64.m3u8?token=315786223041269
-云南卫视,https://video.mytvsuper.xyz/live/d99fd08c8d7b4b65b59288c94e5a9e4fd2b058d25d7a17300e8445e70fdb95d5.m3u8?token=315786223041269
-云南卫视,https://video.mytvsuper.xyz/live/61f264df5c3b93676b568213fe0b5397e86e559f38bbf22f7b7e1c70b56553ce.m3u8?token=315786223041269
-云南卫视,https://video.mytvsuper.xyz/live/22f3aeed785584f189041978014f6459a8e8db8d105a8f8d9d4e4be598c8ef3b.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/8bc5688fa6880225a8c9855160816b774b62de507120c60b8d799105a5588859.m3u8?token=315786223041269
-浙江卫视,https://video.mytvsuper.xyz/live/9ce34be341ccc98a8fea35c611c687314519d9b9294594bcaae59b682cb41e60.m3u8?token=315786223041269
-浙江卫视,https://video.mytvsuper.xyz/live/3d19e7860d0fa3c89f6c9b3f242aed5bad98f1a45c4b1030045baa1728b3da38.m3u8?token=315786223041269
-浙江卫视,https://video.mytvsuper.xyz/live/0871908392f6fdbb6f79ef087ffb8404398c4f95e0ad39392538857dfcdeee74.m3u8?token=315786223041269
-浙江卫视,https://video.mytvsuper.xyz/live/af2d8e1dc065d3a81e844d1ceb48947b576e5bdf257686603f40cac3eb157dce.m3u8?token=315786223041269
-浙江卫视,https://video.mytvsuper.xyz/live/36cc2af65aeed8196b5c1f0e49baacfe38deaa959eb219d2d1631b7c8d3f852b.m3u8?token=315786223041269
-浙江卫视,https://video.mytvsuper.xyz/live/509d367f3b97a707311f5a8ebce92bfcf928b8d2771f38d2780347fdad6213b6.m3u8?token=315786223041269
-重庆卫视,https://video.mytvsuper.xyz/live/d77aa04ab57e07712cd45b62886abfd3bb1761c75e219c7901c14dc2f0409658.m3u8?token=315786223041269
-重庆卫视,https://video.mytvsuper.xyz/live/ddf551fcdf0887a63fa0012a8f34f7535b51b5ead210eb16ac9e7bfd0f9b33af.m3u8?token=315786223041269
-重庆卫视,https://video.mytvsuper.xyz/live/38106d94bbe7e992ebe0591e38713cb4443352cce017494c1056745f551e8197.m3u8?token=315786223041269
-重庆卫视,https://video.mytvsuper.xyz/live/b11ba16ff0457f93aba0cc4783116c51a2e8e16b24dfe0856406bbf04ab2e21c.m3u8?token=315786223041269
-CETV1,https://video.mytvsuper.xyz/live/0a24e9bd15a023374f4ffd94c24bbb55a5a57e9b318ca7c482c39d8060ccadfc.m3u8?token=315786223041269
-CETV1,https://video.mytvsuper.xyz/live/d914ff1f6851892309ecb3b72f947569fc839f1eca53ace6bcc3b72893d38c87.m3u8?token=315786223041269
-CETV1,https://video.mytvsuper.xyz/live/d50707ccd5bc710a7bb504297b8a3a0c1dacb71c449b744391e8ef583ce78181.m3u8?token=315786223041269
-CETV2,https://video.mytvsuper.xyz/live/3ace80b0d63e784a10e862f990515bc8000044806ad934b55cff18d52e98d650.m3u8?token=315786223041269
-CETV2,https://video.mytvsuper.xyz/live/e03ff561c5d9610feb7f68e6964040ec4e886ae1ee028ea825fd8a34a69eabf5.m3u8?token=315786223041269
-CETV2,https://video.mytvsuper.xyz/live/c8fc9be8bf522600c03be219b31021363d0ae03046e91a4b3455c4294efdd0e3.m3u8?token=315786223041269
-CETV4,https://video.mytvsuper.xyz/live/828feb76f147b576cfa3b1e2d6c9ab70336e9708dafba79f3612f764a993a6e6.m3u8?token=315786223041269
-CETV4,https://video.mytvsuper.xyz/live/4ff04a179f39ab4c17f6a89fe7a4af67c7fee5855821d240ad38acfaa9afc016.m3u8?token=315786223041269
-CETV4,https://video.mytvsuper.xyz/live/a10b2b5e405ab92c21ed653cea4dc9a1f321078ff235e89096c495f719a28c2d.m3u8?token=315786223041269
-CETV4,https://video.mytvsuper.xyz/live/17b2476f3619a24321cf03e209df475a632f07dea3309c38e96147550c1998c0.m3u8?token=315786223041269
+P2p源,#genre#
+BBC Lifestyle,P2p://starvod.xyz:19806/27347d1bc804406482a87d2bab2669c9
+民视,P2p://starvod.xyz:19806/ce8fdea4216b40b09befe57f0d6e8d6c
+台视,P2p://starvod.xyz:19806/de04cba8e0804860b496f890a8c67c58
+Lifetime,P2p://starvod.xyz:19806/aa88bec22a9c492285d5767d3d18ad16
+大爱,P2p://starvod.xyz:19806/afb1b710812641ba9d3305db731357f4
+KLT-靖天国际台,P2p://starvod.xyz:19806/8d39d7cfe6d74224bc839477118b0675
+中视,P2p://starvod.xyz:19806/5377922caae64099b359685e49a2be94
+霹雳台湾台,P2p://starvod.xyz:19806/b5b764e44079436fa9f811fae65582bf
+HGTV居家乐活频道,P2p://starvod.xyz:19806/757d2271d10a46eba1301b5883f27cff
+华视,P2p://starvod.xyz:19806/7704edacec12476cac8bb31cc156aa54
+Love Nature,P2p://starvod.xyz:19806/d624948eccc54d84895767aaf7fda7e7
+公视,P2p://starvod.xyz:19806/a632b1799d814ec8a92eaf6dcac5dfcf
+美食星球,P2p://starvod.xyz:19806/810a4aeb30374147bb7c8c34ad663d2c
+亚洲美食频道,P2p://starvod.xyz:19806/599768848e21404ea43b2e2687427383
+好消息,P2p://starvod.xyz:19806/c70f224d9b884b55b12d262666ec065d
+亚洲旅游台,P2p://starvod.xyz:19806/9655708b3d9b449c8d5ade6b2aa430db
+EYE TV旅游台,P2p://starvod.xyz:19806/df2b42398f4043edba6e11ab10e2d837
+原住民电视台,P2p://starvod.xyz:19806/9966b797990f47119693c1db494c74a6
+好消息2台,P2p://starvod.xyz:19806/4f880566f5264d9fb2ad5526ad787581
+三立综合台,P2p://starvod.xyz:19806/7f86a0ccab984fb29a3785a624d77be2
+靖天资讯台,P2p://starvod.xyz:19806/c22f367801064d0eb7528287c995ac7b
+靖天综合台,P2p://starvod.xyz:19806/26931c6d1850461797b37822e1aefa92
+靖天育乐台,P2p://starvod.xyz:19806/f2afeb5eee634fce849341d664b66e84
+中视经典台,P2p://starvod.xyz:19806/0def3e81f17a40339853a8adbc580160
+中视菁采台,P2p://starvod.xyz:19806/8991dbb4bf954e5d943c2e164c3e9bae
+客家电视台,P2p://starvod.xyz:19806/2beee535dd694ae89c67c9d477f21079
+TVBS精采台,P2p://starvod.xyz:19806/25b73767a8b24341a0405db75d4c6387
+壹电视综合,P2p://starvod.xyz:19806/30fea66a771c466a9b673cb21e101d8e
+纬来精采,P2p://starvod.xyz:19806/4294e1fdac314ecdb22c0658735772e4
+ETtoday综合台,P2p://starvod.xyz:19806/77e9cf51197747038b515fcc0ebe5e6a
+台视综合台,P2p://starvod.xyz:19806/f73785a5a23d44e49480362553669faa
+民视第一台,P2p://starvod.xyz:19806/546bb2e3696a47cf909539a20cf5dd72
+民视台湾台,P2p://starvod.xyz:19806/8271759565c04b34a44c1717457182de
+Nice TV靖天欢乐台,P2p://starvod.xyz:19806/7113ebf6b4f244528ac15f03aa455842
+探索频道,P2p://starvod.xyz:19806/6bf686a8e3514b75b38fe7a4dbb813af
+八大优频道,P2p://starvod.xyz:19806/a0295dd3cc36418097d62066aae1a01c
+三立戏剧台,P2p://starvod.xyz:19806/77b3538a8215427497b3129f4373b81d
+龙华戏剧,P2p://starvod.xyz:19806/d194f3a991764a108841750dc81457ef
+靖天戏剧台,P2p://starvod.xyz:19806/4228fbd2137245b88e3d7062f2558322
+靖洋戏剧台,P2p://starvod.xyz:19806/515748f902854ef59250c303ebbdec12
+靖天日本台,P2p://starvod.xyz:19806/960a48c767ce416496ad510aa76057fe
+i-Fun动漫台,P2p://starvod.xyz:19806/7479b61608a2491babe648fa88b2910d
+韩国娱乐台,P2p://starvod.xyz:19806/015d929dae8140209fa5ec350dbe5181
+达文西频道,P2p://starvod.xyz:19806/856e50e9a7c249c0b3829cc952d7a04e
+动物星球,P2p://starvod.xyz:19806/e1b236b5a086437e9c190716425bd94e
+ROCK Extreme,P2p://starvod.xyz:19806/03b062ab2ce140aaa6afb20291f8ed64
+中视新闻台,P2p://starvod.xyz:19806/daddc13b4fdb48ed97eb3cff4979c570
+寰宇新闻台,P2p://starvod.xyz:19806/cadbcac691e049b3b0264413a6c24fef
+华视新闻,P2p://starvod.xyz:19806/bec268beeb064f84ad28d2eb07f164e1
+CN卡通频道,P2p://starvod.xyz:19806/7bb3d3e11e994c76a04b865e0aa939c1
+NHK新闻资讯台,P2p://starvod.xyz:19806/d8369af40473434397889cd5c271b3b6
+美亚电影台HD,P2p://starvod.xyz:19806/c160feecc40d442b8ab7d78e36fa32bd
+龙华电影,P2p://starvod.xyz:19806/dee6cc2dcb05467490c3ea5fa5335f6b
+Smart知识台,P2p://starvod.xyz:19806/7011a97983e74739a72c0b5259dd62a7
+靖天映画,P2p://starvod.xyz:19806/d7458b40801b4e09b10863b4e5b738c6
+MOMO亲子台,P2p://starvod.xyz:19806/b5c3d6a78d3e4d1c9d55bc898c06c297
+靖天电影台,P2p://starvod.xyz:19806/84b05eb1eedd4403adf456b9f21e10cc
+WARNER TV,P2p://starvod.xyz:19806/beac9d55fe9e4cde8c311c1f4ddc9722
+公视台语台,P2p://starvod.xyz:19806/26a7c760340c4fdda70978cb1df56fa9
+amc电影台,P2p://starvod.xyz:19806/b1a9ce70773442a09a7d48086cc87c36
+东森幼幼台,P2p://starvod.xyz:19806/712c05eb73ea47258ae6d0fd6f4c0647
+HBO Family,P2p://starvod.xyz:19806/550a15f859854dde86c5e0eb8f59aab6
+CatchPlay电影台,P2p://starvod.xyz:19806/35ccbbfe058f49d8a8797b8626751283
+CinemaWorld,P2p://starvod.xyz:19806/d99fc28633cc48abb18753c7b669b35d
+壹电视电影台,P2p://starvod.xyz:19806/0651dd087dde4e379add5f6e4e508f7c
+纬来综合台,P2p://starvod.xyz:19806/754447be82054b969c202786cf51ac72
+采昌影剧台,P2p://starvod.xyz:19806/826843b6efa4482f8dfbf23f0c46403e
+八大第一台,P2p://starvod.xyz:19806/2f86e55ef1ab414abee91c3091108d32
+佛卫慈悲台,P2p://starvod.xyz:19806/a85b40e681db4f99a2d063f22644d6c9
+八大综合台,P2p://starvod.xyz:19806/affc6203c9c4465291b8c5a11490bc85
+三立台湾台,P2p://starvod.xyz:19806/f0d2f7aa43bb4168927109b5ab7c802d
+三立都会台,P2p://starvod.xyz:19806/463b0a5ef8b84c6ba3ecab67a0d529cd
+东森综合台,P2p://starvod.xyz:19806/49ebde7b61f24404a020b421b1b8e381
+超视,P2p://starvod.xyz:19806/16a5b2a7cfdc453f98d665921b8221ec
+中天综合台,P2p://starvod.xyz:19806/d10034d952ad45aeb0e0bce47d197db3
+中天娱乐台,P2p://starvod.xyz:19806/388b574a22e14a17a5c241d467065029
+东森戏剧台,P2p://starvod.xyz:19806/3ec8e0d8b6404523951bb824aefa1e30
+八大戏剧台,P2p://starvod.xyz:19806/5831732de21640f68bf8dcb35e4fc6b6
+TVBS欢乐台,P2p://starvod.xyz:19806/d593cdf74e8e47798f7f6c23ebe338a4
+纬来戏剧台,P2p://starvod.xyz:19806/50b222848a47400098b820c6fa619abd
+高点综合台,P2p://starvod.xyz:19806/27fe3138f6674d8a8fdcd47b20759b98
+Bloomberg TV,P2p://starvod.xyz:19806/712f24e740244820a103847493e77ae8
+HITS,P2p://starvod.xyz:19806/d702858c1e4f43739a01d63b99c25ff3
+壹电视新闻台,P2p://starvod.xyz:19806/7d0175cfd00b434490fadd0669e98c82
+东森新闻台,P2p://starvod.xyz:19806/66292b30096b4454a0f6fd971cf5bf44
+中天新闻台,P2p://starvod.xyz:19806/3d9a34e6a2fc40e994d6c4866d380804
+民视新闻台,P2p://starvod.xyz:19806/926721ae54a84f18a2704749da847df2
+三立新闻台,P2p://starvod.xyz:19806/c24aefac23f1449081118a116630d484
+TVBS新闻台,P2p://starvod.xyz:19806/8d04636e0a7e4a03801641d680b57917
+TVBS,P2p://starvod.xyz:19806/3753e2c4ff31478c84bbde0e93e1fb0e
+东森财经新闻台,P2p://starvod.xyz:19806/1ef68fe1e1cc4e078f6c0eddea59fea0
+非凡新闻台,P2p://starvod.xyz:19806/6dd2e2dfddc14417a8e17e09fa560034
+MOMO综合台,P2p://starvod.xyz:19806/65ec2552e4c34c56a16d326ad4bc39bb
+东森电影台,P2p://starvod.xyz:19806/b59a828c6615442f8e84a92f98f2a639
+纬来电影台,P2p://starvod.xyz:19806/1fe860684a4a4bdba10241a0d875cec2
+龙祥电影,P2p://starvod.xyz:19806/28d63cf498464e80b5878ccf7c27f9ed
+HBO,P2p://starvod.xyz:19806/8001ad8f9cef4014b5a42c3565b94d5a
+东森洋片台,P2p://starvod.xyz:19806/a1cff1d8503f49dfbc5c69dbbe56ac3d
+AXN,P2p://starvod.xyz:19806/24b68d9ea90c45f0bb479d94a6cd864a
+好莱坞电影台,P2p://starvod.xyz:19806/d8cb07c40ca0491a8df79a4ff8d8f240
+CINEMAX,P2p://starvod.xyz:19806/a42505fa7901405f9840d25bf596f626
+纬来育乐台,P2p://starvod.xyz:19806/0210b5121f1b4e84a025f357bfa1e7db
+纬来体育台,P2p://starvod.xyz:19806/cb745d56b29746389196e8a9d70aa713
+DAZN 1,P2p://starvod.xyz:19806/41934b50bf4c4257a8aeeaf3dec9993a
+JET综合台,P2p://starvod.xyz:19806/328a45e71eaa413ea193a365c8483f91
+国兴卫视,P2p://starvod.xyz:19806/017d28d9a6e14623be7ec320af3a28c7
+Z频道,P2p://starvod.xyz:19806/4c5efc113a1e45f981a451621fa850d9
+Animax,P2p://starvod.xyz:19806/0010b46e0a6f44ac9cfcd38d8a5c4051
+人间卫视,P2p://starvod.xyz:19806/da038bb8efac463484d79e388dfa54fa
+尼克儿童频道,P2p://starvod.xyz:19806/6338ff418737400890c8ed76771b23e7
+八大娱乐台,P2p://starvod.xyz:19806/4c3181482fb046feb46902f29efe3edb
+三立iNEWS,P2p://starvod.xyz:19806/4adf9f965029490bb58cf8603413c212
+龙华偶像,P2p://starvod.xyz:19806/a34a52e630064e30bcb84e19f349cc8e
+tvN,P2p://starvod.xyz:19806/16b6a05036c34fe0b401ffbaa80782ce
+France24,P2p://starvod.xyz:19806/53794c7a8e44448fb9b8463f98eb419a
+非凡商业台,P2p://starvod.xyz:19806/ae8ee061dee047da98d4e753e3c31712
+公视3台,P2p://starvod.xyz:19806/26447a717eb7455db5da4db6b5b66afe
+大爱2台,P2p://starvod.xyz:19806/9d78143d086642b7bf8bbb9775481715
+ELTV生活英语台,P2p://starvod.xyz:19806/961fbccf107640299c0d771384d72203
+靖洋卡通Nice Bingo,P2p://starvod.xyz:19806/cea23629d2be4b57a0a6bd7bd41cef25
+靖天卡通台,P2p://starvod.xyz:19806/0198c0e2e5364fa2a1b7505b3b88d52d
+Nick Jr.,P2p://starvod.xyz:19806/0f5b1be36f394e1faf807e113b0d1d5e
+Mezzo Live,P2p://starvod.xyz:19806/69a484234c8a4880bd3977c54743d33e
+CLASSICA 古典乐,P2p://starvod.xyz:19806/2579ea34e7384a3a851e4106db5192a1
+爱尔达体育1台(备),P2p://starvod.xyz:19806/609def8d0f114476830f4d0fbf9232fa
+爱尔达体育2台,P2p://starvod.xyz:19806/b8016431fa4149bba983243dc1bc93bd
+TRACE Sport Stars,P2p://starvod.xyz:19806/da2cea39b9c5401fb0e667429acb1423
+博斯高球,P2p://starvod.xyz:19806/555435039c85446db7e6a6dd0412139a
+博斯高球二台,P2p://starvod.xyz:19806/78d1bfbf2e694df39fcfd2671732257a
+博斯网球台,P2p://starvod.xyz:19806/5840f4001425418fb95b857be4062c9e
+博斯魅力网,P2p://starvod.xyz:19806/140dc1a23c914b9eaa69a5e59da8d8d6
+博斯无限台,P2p://starvod.xyz:19806/c27117ba47a54497b21a3e87d128d18a
+博斯无限二台,P2p://starvod.xyz:19806/dab27ef8334d45aaa23ed36bf71e0238
+博斯运动,P2p://starvod.xyz:19806/c35478967e7c482a8b71974e2ea837e8
+DAZN 2,P2p://starvod.xyz:19806/1872d7245447487788babe62db52ee45
+智林体育台,P2p://starvod.xyz:19806/b1f593f9121b47f6afcb7bd48fba64de
+博斯运动二台,P2p://starvod.xyz:19806/76b2c9ef9ffb4a818122bbf843ed1dc1
+HBO强档巨献,P2p://starvod.xyz:19806/0e1f3763c81b4129abbe07590c4c8e17
+HBO原创巨献,P2p://starvod.xyz:19806/d99641dc9e24460ab5209a760947b893
+BBC Earth,P2p://starvod.xyz:19806/3971cd0f3c7a4e8f8cf180a28c32db74
+Discovery Asia,P2p://starvod.xyz:19806/d07aa520d12d4998acf7f0483453fd94
+Discovery科学频道,P2p://starvod.xyz:19806/568dd96a990d41eb882e444e886548ad
+DMAX,P2p://starvod.xyz:19806/3609a24123ad423aa2af1149262a0334
+EVE,P2p://starvod.xyz:19806/a793ed8cc9d947be8e27bcf870747daa
+历史频道,P2p://starvod.xyz:19806/af5f9d7165964b1396cae33aa32e8371
+罪案侦缉频道,P2p://starvod.xyz:19806/e7ee71b7e20b41f0bedd86fb81ca3c69
+EYE TV戏剧台,P2p://starvod.xyz:19806/48d5552976144f7c8d43075cbb55f0fe
+台视新闻台,P2p://starvod.xyz:19806/08bbe86c8d4148e2b9a58b9d4e1cac4b
+寰宇新闻台湾台,P2p://starvod.xyz:19806/9d323a7c10594e408473082989a087b0
+台视财经台,P2p://starvod.xyz:19806/83dc28880d16492f8be4a34da7ab6537
+纬来日本,P2p://starvod.xyz:19806/50efc289084b498f9ce6cf3176a6c092
+爱尔达影剧台,P2p://starvod.xyz:19806/2c2af02e0d5a4fdab3e93a55baf0cf48
+影迷数位电影台,P2p://starvod.xyz:19806/fef728c9e1c548e2ac126b37cda494b1
+爱尔达体育1台,P2p://starvod.xyz:19806/aa5aa81fbe7d4c7daae116a35c321948
+爱尔达体育3台,P2p://starvod.xyz:19806/9e665630abc0455a87e23f321d47af0e
+爱尔达体育4台,P2p://starvod.xyz:19806/8d0b0ffee633497d986144d7d636fe3d
+镜新闻,P2p://starvod.xyz:19806/1b5e4d624d9c4a06ae73c61d9d354b6b
+东森购物1台,P2p://starvod.xyz:19806/50e83fdd8a814dc4948599a17c64c219
+东森购物2台,P2p://starvod.xyz:19806/025c1848c3914848afd2d6b043f3e6cc
+TechStorm,P2p://starvod.xyz:19806/3ecd80281514495bbc4adb297da6fe6a
+年代新闻,P2p://starvod.xyz:19806/57e990049b8e4c27806ae7654afb621c
+中天新闻台(备),P2p://starvod.xyz:19806/e938ce7207b94725920970b72d1db8a5
+东风卫视,P2p://starvod.xyz:19806/564c69615f704251a67586ef2f1a0852
+东森新闻台(备),P2p://starvod.xyz:19806/ded042b8bc444459b0b2ff357c71c32f
+爱尔达体育2台(备),P2p://starvod.xyz:19806/0453a412e18545ffa1694fb136335069
+爱尔达体育3台(备),P2p://starvod.xyz:19806/661615a74d454268923b4125bad4195d
 
-AKTV其他,#genre#
+CCTV1,P2p://starvod.xyz:19806/9ceaa547a0a940f9b4525825ccc94d17
+CCTV2,P2p://starvod.xyz:19806/4e77234901bf4800b387710bac2a9da6
+CCTV3,P2p://starvod.xyz:19806/63d134b8dd5e4e1c856d612cf58b9d00
+CCTV4,P2p://starvod.xyz:19806/7dc071c6b7e4494b8f396aeb47392763
+CCTV5,P2p://starvod.xyz:19806/75ea87ba60d44befa39571a56cb7c759
+CCTV5+,P2p://starvod.xyz:19806/0287cdee4ad24d9f8ded436cce0b0e0b
+CCTV6,P2p://starvod.xyz:19806/312db12514924cde944294871e5a7cf0
+CCTV7,P2p://starvod.xyz:19806/84ba2a3bd64f4d00854dc9eb06ab791b
+CCTV8,P2p://starvod.xyz:19806/4777cd73565743f4865090cde3769013
+CCTV9,P2p://starvod.xyz:19806/f739319fda194167867fdfce3f5bc0c0
+CCTV10,P2p://starvod.xyz:19806/b0b19b905c9e4e079856754ce7607eb9
+CCTV11,P2p://starvod.xyz:19806/b2a6121c23264b3b902a86311451f14a
+CCTV12,P2p://starvod.xyz:19806/00ed762e9d6f49248b605aa75820ec04
+CCTV13,P2p://starvod.xyz:19806/63fe10e97134413486f02e407839a647
+CCTV14,P2p://starvod.xyz:19806/78ca5fe33cbd44b6853f6ecb15b7b9e9
+CCTV15,P2p://starvod.xyz:19806/95e3d3ac1c3341b5be12d9602035ac3b
+北京卫视,P2p://starvod.xyz:19806/fbdf3e15cbb8417ca7563d2c838a4e2a
+天津卫视,P2p://starvod.xyz:19806/68128f688d8c47ce83d0aebce06f41ae
+河北卫视,P2p://starvod.xyz:19806/1118bbdc4c424501a24c76b5c754ae3e
+黑龙江卫视,P2p://starvod.xyz:19806/463e078f0ca94c5e84fbbd38502fd295
+辽宁卫视,P2p://starvod.xyz:19806/e4be6b865bf44113bfde93506fa8b8e6
+东方卫视,P2p://starvod.xyz:19806/f368263ec2ea4c6cbbf010f3956192ef
+江苏卫视,P2p://starvod.xyz:19806/672a23d10003c2dcccdfb146480b660a
+浙江卫视,P2p://starvod.xyz:19806/0afbcf21e62442f2a94f312409a3195c
+江西卫视,P2p://starvod.xyz:19806/dded7059146b4b1e8ec7e9769350076a
+山东卫视,P2p://starvod.xyz:19806/5fe5206252964bfc9fdb316183bc8707
+厦门卫视,P2p://starvod.xyz:19806/12d74cdf62234e92b2c799d7f8c4f3d1
+湖北卫视,P2p://starvod.xyz:19806/277622ba85884bc0acf1bf921b867192
+湖南卫视,P2p://starvod.xyz:19806/0a573c0d4bd74d249f16441c9f7716e0
+深圳卫视,P2p://starvod.xyz:19806/44ba12b0797b4b1683314574906f8179
+广东卫视,P2p://starvod.xyz:19806/200112957e7944769dd5f3b8df0dd014
+广西卫视,P2p://starvod.xyz:19806/1cf5b21d6de54c14aa80dc3c32d16197
+重庆卫视,P2p://starvod.xyz:19806/7a7b8112b2f34da6842b7c1cd3afcf0f
+云南卫视,P2p://starvod.xyz:19806/dba7f874ca3f470ea247b32336166781
+星空卫视,P2p://starvod.xyz:19806/9dfa4962760b47fa8be31e485e95a3bb
+大湾区卫视,P2p://starvod.xyz:19806/54dc89e3cb80450ba9ec6432af9bb8a8
+珠江台,P2p://starvod.xyz:19806/9948514cd9b54740907358241b8ff64e
+快乐垂钓,P2p://starvod.xyz:19806/a7e27ad037af4ed0a424de1fe4c7bbaa
+魅力足球,P2p://starvod.xyz:19806/50e970cc587c4cb5bb910b1d255bb1d0
+新视觉体育,P2p://starvod.xyz:19806/556b6ade571940f9a5f0f824d93a3b57
+广东体育,P2p://starvod.xyz:19806/a65b1740e49747d6ac675765eb4ee0d2
+广东民生,P2p://starvod.xyz:19806/209f0a9e29ca457db4bab644191160a8
+私人影院,P2p://starvod.xyz:19806/3c441307542940208f361c935501e643
+深圳电视剧,P2p://starvod.xyz:19806/23fd527ab5484a22b456efeb613defd1
+风云足球,P2p://starvod.xyz:19806/5a2bb8458dbb4f5aaa5af0e1d2c4018e
+广州综合,P2p://starvod.xyz:19806/67210bab000ce3b2a9595f2751324544
+广州新闻,P2p://starvod.xyz:19806/fa252ca3e738423ca06f9d13315a759d
+深圳都市,P2p://starvod.xyz:19806/143f596db0fb452dbd7f6785a69e8d4f
+Channel [V],P2p://starvod.xyz:19806/edc83685418a4e4ead0484f13f6439fa
+CHC动作电影,P2p://starvod.xyz:19806/f26cea79629640ab93ea728d6fbcf383
+广东影视,P2p://starvod.xyz:19806/4277b6beae57445388c33a0d1999fb68
+CHC高清电影,P2p://starvod.xyz:19806/78bcfd70e99742caa9cbe9a5d0068a30
+CHC家庭影院,P2p://starvod.xyz:19806/fa9f578c3c094a1b9a17102f1889fadf
+五星体育,P2p://starvod.xyz:19806/34f5c73f6f4649249cb608ab704d7b1f
+CCTV16,P2p://starvod.xyz:19806/e8166678ff764d84a9ef288956e0b541
+CCTV17,P2p://starvod.xyz:19806/f251d017879545038ac4d2fc2caa4b4d
+重温经典频道,P2p://starvod.xyz:19806/81b5be9e62d74f3fb1c20a3907c5de05
 
-哒啵电竞,https://video.mytvsuper.xyz/live/ce7729b979db287e6d825a53a69d0688e7209dc0080963c2806eb07317f77cea.m3u8?token=315786223041269
-哒啵电竞,https://video.mytvsuper.xyz/live/088189aae3ee79ef74b7c6bc0808aae9ccdb0a9e0d2bcc0e99b307852e975cfd.m3u8?token=315786223041269
-哒啵赛事,https://video.mytvsuper.xyz/live/f1ca9b5e0d1ac2c9b8f6a0691e8973c1b3435c5cfada2ebf23e055f054132a95.m3u8?token=315786223041269
-哒啵赛事,https://video.mytvsuper.xyz/live/cf662d68b8f02f2d1f46dfb2a8bafa7f5989f4ff6a815c8694512258efbce397.m3u8?token=315786223041269
-哒啵赛事,https://video.mytvsuper.xyz/live/6f5f199bf717038c98d29385ea1623f64b1b057a8412cdff75ae03eab460411f.m3u8?token=315786223041269
-哒啵赛事,https://video.mytvsuper.xyz/live/cddb81591404688c847dca7ac5fdc4b099e2d27871de6bc71257ea46ed9321b3.m3u8?token=315786223041269
-哒啵赛事,https://video.mytvsuper.xyz/live/6fee5fd34542587062fd4da6a6552be84d42d716f3d3ea432b2a99a562e0308f.m3u8?token=315786223041269
+P3p源,#genre#
+CCTV-01,p3p://108.181.32.169:64012/6794c86f000d02a1772744cf38ed5c13
+CCTV-02,p3p://108.181.32.169:64012/64260c83000b5f74edfa64604fe67a12
+CCTV-03,p3p://108.181.32.169:64012/64260c9b0000ca3dedfabf6a10b00144
+CCTV-04,p3p://108.181.32.169:64012/64260ca5000de050edfae9d444575946
+CCTV-05,p3p://108.181.32.169:64012/64260cb0000afd53edfb140f10811127
+CCTV-5+,p3p://108.181.32.169:64012/64260cbc00081417edfb42307c984dd4
+CCTV-06,p3p://108.181.32.169:64012/64260cc800087ffdedfb712c61a06569
+CCTV-07,p3p://108.181.32.169:64012/64260cd9000ba7ebedfbb46356b665a0
+CCTV-08,p3p://108.181.32.169:64012/64260ce50007141fedfbe217161d5245
+CCTV-09,p3p://108.181.32.169:64012/64260cef0008fa21edfc09a37d024704
+CCTV-10,p3p://108.181.32.169:64012/64260d0a000e81f1edfc74866d9b5c0f
+CCTV-11,p3p://108.181.32.169:64012/64260dce0000aea8edff6e9d426b2704
+CCTV-12,p3p://108.181.32.169:64012/64260e37000ca83aee010bd5707e0fea
+CCTV-13,p3p://108.181.32.169:64012/64260e45000ccab2ee01428e6da4043d
+CCTV-14,p3p://108.181.32.169:64012/64260e4f0007169bee0168271778447e
+CCTV-15,p3p://108.181.32.169:64012/64260e5a000a63ffee0193f872fa5767
+北京卫视,p3p://108.181.32.169:64012/64260fe100097b88ee078b124b8f3f9d
+东方卫视,p3p://108.181.32.169:64012/64260ef600069de1ee03f45f41e9710e
+浙江卫视,p3p://108.181.32.169:64012/64260fec0004b10aee07b4d0681c628b
+江苏卫视,p3p://108.181.32.169:64012/64260e700008a9f5ee01e97667ca7d36
+江苏备视,p3p://108.181.32.169:64012/64260e7d000134abee021a56268d6ac1
+湖南卫视,p3p://108.181.32.169:64012/64260ee40007c511ee03ae5a4aed536d
+广东卫视,p3p://108.181.32.169:64012/64260f9d0003bfdeee067ffb753744c8
+深圳卫视,p3p://108.181.32.169:64012/64261082000a8e12ee0a00412f96293c
+安徽卫视,p3p://108.181.32.169:64012/64260fd5000d5883ee075d2f7d6a48e2
+山东卫视,p3p://108.181.32.169:64012/64260f89000475c3ee06320a031a7286
+河南卫视,p3p://108.181.32.169:64012/64260fb100056a93ee06ce871c2e5071
+海南卫视,p3p://108.181.32.169:64012/64260fc10002a54fee070c525d0d5e83
+东南卫视,p3p://108.181.32.169:64012/64260fcb00035aa0ee0733907e64579c
+江西卫视,p3p://108.181.32.169:64012/64260f920000727aee06542a02064fce
+陕西卫视,p3p://108.181.32.169:64012/642610c3000df7f5ee0aff0975881941
+湖北卫视,p3p://108.181.32.169:64012/64260ed500091677ee0374195121319b
+重庆卫视,p3p://108.181.32.169:64012/642610b9000df973ee0ad7f9779b6483
+黑龙江视,p3p://108.181.32.169:64012/64260fa7000c1330ee06a92c52724886
+广东湾区,p3p://108.181.32.169:64012/64261096000de036ee0a4f3b523d603e
+广东珠江,p3p://108.181.32.169:64012/642610780008a811ee09d8b561021b45
+广东嘉佳,p3p://108.181.32.169:64012/642610a2000b33ebee0a7d6c26c160b2
 
-黑莓电影,https://video.mytvsuper.xyz/live/4adcc7caf646e4c558220280db3f69fa8bfb35f0dba1beb259f03e6528c6d560.m3u8?token=315786223041269
-黑莓电影,https://video.mytvsuper.xyz/live/343b7e851650fca1b7d71ab49084ed0cd220a2cd73f5d847306049aec8c83f33.m3u8?token=315786223041269
-黑莓动画,https://video.mytvsuper.xyz/live/a8215613e2a992117bce3c99d6409ee4bcfc15bbd46f1f85b57772b65bd91964.m3u8?token=315786223041269
-黑莓动画,https://video.mytvsuper.xyz/live/02029922fbbb3f8af39a94bc30cab3cd80b7e94c93d3d39dbb746baf6059fea8.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/b4b99ed8e4405355fa1de0b09d65d91e6b7bb74ba0b923df25e9848664c0feca.m3u8?token=315786223041269
-精彩影视,https://video.mytvsuper.xyz/live/0ef48cd9afdf44f8c0f43f4eb1a08f19ea3fb08dc62a9af2823a5a0730b9f099.m3u8?token=315786223041269
-精彩影视,https://video.mytvsuper.xyz/live/11a08e48b54622337dd2ebaa9050e108153348a3ea91fbe85914389bb5412f9a.m3u8?token=315786223041269
-聚鲨环球精选,https://video.mytvsuper.xyz/live/834f952b2dc961708b5659be3b69a1453f2040166541707e1ddaf45228629258.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/dde9b5dcda04bf3cd579c9f961367f608e5971405f62a9f530dd9959f5a5fb3c.m3u8?token=315786223041269
-,https://video.mytvsuper.xyz/live/e6fb9622201d05ee404a6c16eae589216c757932663957a0329fa132f3c9fcfc.m3u8?token=315786223041269
-纯享4K,https://video.mytvsuper.xyz/live/1d4169fa3f40b2c220faf6367c0ff3f670daa240486c4c684c5e1c19f9bc592b.m3u8?token=315786223041269
-CCTV16,https://video.mytvsuper.xyz/live/8d1653d167e1e3c4952a0d8aded76c0f6474acb6647fcef6127d2230b16c7143.m3u8?token=315786223041269
-欢笑剧场4K,https://video.mytvsuper.xyz/live/6abed61e5f7d7231843a3ee0b4b4b6bbdd4edda3ebac11126231278175c909ee.m3u8?token=315786223041269
-华数4K,https://video.mytvsuper.xyz/live/8db5bbcf3cbc9d01e2168f05c4eedfa50fb5e3f477ba55a133e09076edc88b91.m3u8?token=315786223041269
-华数4K,https://video.mytvsuper.xyz/live/24663f742cd2f830338bd9c85222101f09960fd69de57ec73fbabb7f0a8991d4.m3u8?token=315786223041269
-CGTN,https://video.mytvsuper.xyz/live/ce903a06282afd377665f61e62a093d318edc14a09679d81f9677cf8dc948c5d.m3u8?token=315786223041269
-CGTN,https://video.mytvsuper.xyz/live/1148f4f46247203ea79dd9f84970912e7f53acdb65b21346106486826bffc618.m3u8?token=315786223041269
-CGTN阿拉伯语,https://video.mytvsuper.xyz/live/9b338acb213b5750648f7401384af78fdb5266ce9c60225f3994167b58ebd29c.m3u8?token=315786223041269
-CGTN俄语,https://video.mytvsuper.xyz/live/e57d3d7113bc41ac319182b8fdebf4f28cfb7ae95e793b79e1e6fb9ce6031b26.m3u8?token=315786223041269
-CGTN法语,https://video.mytvsuper.xyz/live/21be87bfbb9845ab80dd8d621324553319a07157dc4b15d6422168cdce0dca2f.m3u8?token=315786223041269
-CGTN,https://video.mytvsuper.xyz/live/168092140d968966acb0ea203ade6463a73d7c60b66efc81e2a67a1eca0d4f10.m3u8?token=315786223041269
-CGTN西班牙语,https://video.mytvsuper.xyz/live/ceeb96a646911498df371bb23120cb65c48a076c498c1d980b4b2e82059bd462.m3u8?token=315786223041269
-
-NewTV爱情喜剧,https://video.mytvsuper.xyz/live/c2bb9b07ce10bd4ce6c5823839f825f01e2b540a7615f36c890bc85204a4f8df.m3u8?token=315786223041269
-NewTV超级电视剧,https://video.mytvsuper.xyz/live/0517dcde91f413994da918960706d3bd7bfdd622004b57fb5ee7ac7b56584821.m3u8?token=315786223041269
-NewTV超级电视剧,https://video.mytvsuper.xyz/live/72d339cc8daed95083da494426ed8ba64b8e1eaa7ceed21b15a650c8d336f24c.m3u8?token=315786223041269
-NewTV超级电视剧,https://video.mytvsuper.xyz/live/375ff1962ce52f4f71b668606ca2050354f2915604568db4ebf677de3aa9bb30.m3u8?token=315786223041269
-NewTV超级电视剧,https://video.mytvsuper.xyz/live/11617366b1ab8f01a47b8486a061cd8edc3ef77f376493b2d201860e414b34aa.m3u8?token=315786223041269
-NewTV超级电影,https://video.mytvsuper.xyz/live/f77cd542917309bf66df5fe2607f52f5ba2894d7b539daaddbc0c86cff608076.m3u8?token=315786223041269
-NewTV超级电影,https://video.mytvsuper.xyz/live/f47d37c62e1fb884e5030274839772c876141b63e17288ec364e107651beaf3b.m3u8?token=315786223041269
-NewTV超级电影,https://video.mytvsuper.xyz/live/0192da17558247cf7c0aed9b8428f3e7a09521eff87428ec42126d4c6033879c.m3u8?token=315786223041269
-NewTV超级电影,https://video.mytvsuper.xyz/live/b6a79a5307d27e700276f75b587e6f7b6872fb8993ffb5df1932f51c0e454c18.m3u8?token=315786223041269
-NewTV超级体育,https://video.mytvsuper.xyz/live/5632e5548bd48a201a002df38f60a9fe1ba0bead079b1b61f7343d9f38cd4e2e.m3u8?token=315786223041269
-NewTV超级体育,https://video.mytvsuper.xyz/live/21be9c55ee777ca7585095426fe9200673ab43e173ed740e665e06f061a01d56.m3u8?token=315786223041269
-NewTV超级体育,https://video.mytvsuper.xyz/live/389ad698b5a141f43b39597d4b745e7569a09d1a2d5475608ab2d13ca7020e73.m3u8?token=315786223041269
-NewTV超级体育,https://video.mytvsuper.xyz/live/1d941d0e41c911ab7bdeab6af47e16945addf582fff97bb43be72216963ec6a0.m3u8?token=315786223041269
-NewTV超级综艺,https://video.mytvsuper.xyz/live/33d16bf7e2f8012a175c98377c8e21a1fbd77d988667f8d5cd13431211951da0.m3u8?token=315786223041269
-NewTV超级综艺,https://video.mytvsuper.xyz/live/e0b5990d4a2d7711e86af83eda20ced4b13da9fedd36304cf2dc704438286230.m3u8?token=315786223041269
-NewTV超级综艺,https://video.mytvsuper.xyz/live/d496cf7333ad104210bd2d8f54c24450075873f9068dd09a2537f27a34f6856c.m3u8?token=315786223041269
-NewTV超级综艺,https://video.mytvsuper.xyz/live/46fd84e29ce71808def5c54eb09ab559e2e5fb33c02450adb94a0dbba31d6410.m3u8?token=315786223041269
-NewTV潮妈辣婆,https://video.mytvsuper.xyz/live/dd1cb8645151f28b3f1494cd273eb4cbe07283f42f95f3dbf1a65f53f9d752c3.m3u8?token=315786223041269
-NewTV东北热剧,https://video.mytvsuper.xyz/live/edb788947fb49fe26f96841c8cb9f3fc55e7d3163b1db0dbcba07ebb3596cdf1.m3u8?token=315786223041269
-NewTV东北热剧,https://video.mytvsuper.xyz/live/6c529d6c4e3643c7639a84f31edeb10f28d2e0811b3cc1618c37277111cb8101.m3u8?token=315786223041269
-NewTV动作电影,https://video.mytvsuper.xyz/live/9f8f68628743f5c8abf803468fa1c1e652074615a73dc9054c6bd4d493e8411d.m3u8?token=315786223041269
-NewTV动作电影,https://video.mytvsuper.xyz/live/0ab29e571171a1e5cc83918ef7ee9eb9c003db9e521ed4d68726c4966cc1e626.m3u8?token=315786223041269
-NewTV古装剧场,https://video.mytvsuper.xyz/live/fc56686ffcdd7b84a5fe2bd8e42a2d574c3ece80080c355b3da22ec7037d1b5b.m3u8?token=315786223041269
-NewTV欢乐剧场,https://video.mytvsuper.xyz/live/3807985fce2c8cc01f15adcfde9c24f15d6d697747a8c9c518e40a7f33522281.m3u8?token=315786223041269
-NewTV欢乐剧场,https://video.mytvsuper.xyz/live/a4bacb793f10758cc0e674e486c3fa22405870615cdc977bc4ba0e35b28da831.m3u8?token=315786223041269
-NewTV家庭剧场,https://video.mytvsuper.xyz/live/9575167cd651020f6ceff24252c9604360883f8edf3043bf0c941d016c749848.m3u8?token=315786223041269
-NewTV家庭剧场,https://video.mytvsuper.xyz/live/d2e377f63fdac6ff26801d7b34d8baa1c6fe8d51fc0fb7e45dd390b46676e744.m3u8?token=315786223041269
-NewTV金牌综艺,https://video.mytvsuper.xyz/live/7956201aac68acb3a897ceae7c5bdc12531ab648aba41d7e0b0e767230832fd4.m3u8?token=315786223041269
-NewTV金牌综艺,https://video.mytvsuper.xyz/live/3747876ade7b33e8017c70d34b87ec8177145de7c59f95f5cd07a02e0f3ab143.m3u8?token=315786223041269
-NewTV惊悚悬疑,https://video.mytvsuper.xyz/live/8f53e57512a08e8a422be58b7bab015eeebc5987e4d755186a2bf9afc10fb581.m3u8?token=315786223041269
-NewTV惊悚悬疑,https://video.mytvsuper.xyz/live/6a8d97d9db19d35972af5c16a6dbf0212e7f1eb88d759e9e7bdc1e7afe36bb14.m3u8?token=315786223041269
-NewTV精品大剧,https://video.mytvsuper.xyz/live/86b1ca7cc39aba6005ab72d8c2a52c5359989e1ef2cec44e73b17fe613ad3efb.m3u8?token=315786223041269
-NewTV精品大剧,https://video.mytvsuper.xyz/live/0f5b6380bd3a209ed5f45ccde79875d8c22adf3f9a4bbc0c2fdac511ca98477d.m3u8?token=315786223041269
-NewTV精品纪录,https://video.mytvsuper.xyz/live/8d1fc4eebc73cc8578a20818c32f28352ec92cdf193c2a31a83863aaedff4ad8.m3u8?token=315786223041269
-NewTV,https://video.mytvsuper.xyz/live/5ca7d513c587acf27a75e61b08ffc744b83ad8764d1b78926c365eb1f6896ea9.m3u8?token=315786223041269
-NewTV精品萌宠,https://video.mytvsuper.xyz/live/364cd4517e87ed09ebe8d8bd428094335d228ec379d943d7e993f3c1ab24f355.m3u8?token=315786223041269
-NewTV精品萌宠,https://video.mytvsuper.xyz/live/add18d0259225d9e8d097a77a56e9dd4a0c3bb9d355054a1f09fd4bafd126fb0.m3u8?token=315786223041269
-NewTV精品体育,https://video.mytvsuper.xyz/live/35a1838339c6c93dd111a39764972b3dbe1170f0bd5afaef1f9991ae2349923a.m3u8?token=315786223041269
-NewTV精品体育,https://video.mytvsuper.xyz/live/664f216edbce7e40053faea154f014115b24b605c655d2e1afd522f1d4f84ac5.m3u8?token=315786223041269
-NewTV,https://video.mytvsuper.xyz/live/95715e439238fe37c51fd91891b7eeec9e9b5679789756bc9144e7ff9b65ea5c.m3u8?token=315786223041269
-NewTV,https://video.mytvsuper.xyz/live/3f84a926fe53fa4069d8299f421a4c91444d0146fa7e681d1c61e0d8f46b3431.m3u8?token=315786223041269
-NewTV军旅剧场,https://video.mytvsuper.xyz/live/9e5a49a60cc1a1a20d4f05a1235ff003d3527ce801b6bfdd17a19c34f6e0d6a7.m3u8?token=315786223041269
-NewTV军事评论,https://video.mytvsuper.xyz/live/1b8ebfa4fe2ab853917fae9af7146db792db1d357c23c979f730fca1dfc59ad2.m3u8?token=315786223041269
-NewTV魅力潇湘,https://video.mytvsuper.xyz/live/e86f80ec6372b9e481fe3a17324f42db0fe6b616c3b2bcb3c7d4bea263f7859f.m3u8?token=315786223041269
-NewTV魅力潇湘,https://video.mytvsuper.xyz/live/8c90e7049fa18e7bd26bc061c886148f7b5819ebcced14535161583c623ecaf9.m3u8?token=315786223041269
-NewTV魅力潇湘,https://video.mytvsuper.xyz/live/bd4b63494521ba79f042e3436d6e1996c133f381ed709b0138405a8bea25c625.m3u8?token=315786223041269
-NewTV明星大片,https://video.mytvsuper.xyz/live/ed5b4001385f55432c132fc7e0fe850b99fc4a849643cf704938c1a6226dfb17.m3u8?token=315786223041269
-NewTV农业致富,https://video.mytvsuper.xyz/live/f5e3f831f359e8e007772b4e98537a987f02a88cfd98498d1de2ecaf2d9b60cb.m3u8?token=315786223041269
-NewTV武搏世界,https://video.mytvsuper.xyz/live/325276389d501690c4a74d43a8f67715cd3fbc83b94f2400e7b718533e343445.m3u8?token=315786223041269
-NewTV炫舞未来,https://video.mytvsuper.xyz/live/4b77293d4ed0bd55c5fd8ea1d87cab23fd96c4d96f5ebb68f2f61cf3991acdb3.m3u8?token=315786223041269
-NewTV炫舞未来,https://video.mytvsuper.xyz/live/d126bde47e666dd3cf8151ba32260760ccf9a567546b044dc4fbde4bdeb1337a.m3u8?token=315786223041269
-NewTV怡伴健康,https://video.mytvsuper.xyz/live/ba2af3bf421aeca1eaebdbb701f40685d0c7dc94a7534a2a59cb3ebe845aeac6.m3u8?token=315786223041269
-NewTV怡伴健康,https://video.mytvsuper.xyz/live/d137743a22ea2e2f3dc68e4731901bba5c9ee91d586135a7601d84d151914b3a.m3u8?token=315786223041269
-NewTV中国功夫,https://video.mytvsuper.xyz/live/ee5858aaad2e0881925badf1c3d06f04b6e72c615c1ad8cb5744433402ea5fed.m3u8?token=315786223041269
-动漫秀场,https://video.mytvsuper.xyz/live/11a03e8866b731402ff1fdb8dc0e2c5ab226271a2d02e74f4b0e9fccc593f51d.m3u8?token=315786223041269
-动漫秀场,https://video.mytvsuper.xyz/live/01231d1cb93354e5add5f668fd377ec3414f1482662576bd6e4742d5a40d61e4.m3u8?token=315786223041269
-动漫秀场,https://video.mytvsuper.xyz/live/47bbe5664d63975448070d225c1ded9a8bdcf61a6d46e70cf7a9d276ecd62c87.m3u8?token=315786223041269
-都市剧场,https://video.mytvsuper.xyz/live/348c90c3868c7c6ee91fb5e9528ada30e2ff49d8de60fb389c574ba0eb90249b.m3u8?token=315786223041269
-都市剧场,https://video.mytvsuper.xyz/live/29326b71507b82cc1acb1fcdfed40b7325ae7a07424e2e1bbfefba1f70cfa504.m3u8?token=315786223041269
-都市剧场,https://video.mytvsuper.xyz/live/355a4d0caf756239217d70f81188cafa43d1a40cfd2da47adb4cb5e81128bb28.m3u8?token=315786223041269
-法治天地,https://video.mytvsuper.xyz/live/850dc09fbed59354a0c6f791333a29f7754309d72547e444640bedbaea605cd1.m3u8?token=315786223041269
-欢笑剧场,https://video.mytvsuper.xyz/live/f6bb5e0c9deba8f21fd46b5f391ffe4021b66c3c9e1bc234169373772c1e579d.m3u8?token=315786223041269
-欢笑剧场,https://video.mytvsuper.xyz/live/cb7e68cd00a279e0ba04517ebb6887f0784af38268c086c090bce671c481c890.m3u8?token=315786223041269
-金色学堂,https://video.mytvsuper.xyz/live/ed43811ae619321d3fcfbe973142fdabbf51b56bb20df75ef3da1cd00d612365.m3u8?token=315786223041269
-金色学堂,https://video.mytvsuper.xyz/live/9a4c424cdffd8416ee6e8fd569e407a59588614eac132a1e6ebf2da845e8919a.m3u8?token=315786223041269
-劲爆体育,https://video.mytvsuper.xyz/live/4700e78b1559ac8b0d5861003316a57d4b230aa0709b72f54975302ce51f151e.m3u8?token=315786223041269
-劲爆体育,https://video.mytvsuper.xyz/live/06097d54859ed1e473c48e951515246ce5e1591aca6d8f00521ce728ea90416a.m3u8?token=315786223041269
-乐游,https://video.mytvsuper.xyz/live/faa598cf20a9d016dbb038e0b698eea8502b600879c80055082073ecca68b1a4.m3u8?token=315786223041269
-乐游,https://video.mytvsuper.xyz/live/a3b57d801dee7081a8a151beb7bd1d2fbc5c0a0324911714a867ec3dd985fdf6.m3u8?token=315786223041269
-乐游,https://video.mytvsuper.xyz/live/aae914656604d995cbaf99dfabba03d0c59b99430ea52083ae948814cd31df0c.m3u8?token=315786223041269
-乐游,https://video.mytvsuper.xyz/live/c5e0672ae36173e65a2203ea182f3bca96fddb00c6bdf13755cf4c3fe21285ff.m3u8?token=315786223041269
-魅力足球,https://video.mytvsuper.xyz/live/ed51e500ce4dd934f338e8a6460e2df20ac4b98843075264744c57d9d4cbb378.m3u8?token=315786223041269
-魅力足球,https://video.mytvsuper.xyz/live/51e99ceb134fc1fb745bfdd851b8ea7c7f2e3cad992f0264dede1ac2a26fd010.m3u8?token=315786223041269
-七彩戏剧,https://video.mytvsuper.xyz/live/ceaf35b2ee8f84de1191ed9b1b5453afcc0d40499e99753a961fc4c936635983.m3u8?token=315786223041269
-七彩戏剧,https://video.mytvsuper.xyz/live/2850147436e70758d314d1290999a8ca87049c923aa28c40512c4f7401e96f00.m3u8?token=315786223041269
-生活时尚,https://video.mytvsuper.xyz/live/0e8480a371dc56755515deb360da7fcbdbc8f49588c8f13fc5ea13dd14c4ef00.m3u8?token=315786223041269
-生活时尚,https://video.mytvsuper.xyz/live/8ec0c1ff1ce640fb073111e039c45b1d1ab867df914128946438878458fc0123.m3u8?token=315786223041269
-游戏风云,https://video.mytvsuper.xyz/live/bd3918814a4ea59fb8f86e21dd5664eaa3c8fa47bc41a066e7f9636b1223286e.m3u8?token=315786223041269
-游戏风云,https://video.mytvsuper.xyz/live/18298293a02463c1fdc223f86e516d711b75462f1eb6fb64f9a873bfb2c0a8a6.m3u8?token=315786223041269
-游戏风云,https://video.mytvsuper.xyz/live/2d38eba21d3e8924b539c5c0718a9343097c405e846d72d4e063dc4f4e734668.m3u8?token=315786223041269
-iHOT爱谍战,https://video.mytvsuper.xyz/live/f39b6b4ca0c9cf4f7b6da348bf8cc0ce6f5c4f70917d94fb78aa108c66ba8a37.m3u8?token=315786223041269
-iHOT爱谍战,https://video.mytvsuper.xyz/live/7ff290b7531150af4e9b7fcaea5f0f0372010a5a70e6ec8ff344c283c4739640.m3u8?token=315786223041269
-iHOT爱动漫,https://video.mytvsuper.xyz/live/376cbff6f1ba1c9ed147fe425f6de0f29d95d97f9970c01dc7f22d0a9903767f.m3u8?token=315786223041269
-iHOT爱动漫,https://video.mytvsuper.xyz/live/31c45d3c979d90c126543495207eefd259c1fea4ee0119e50be9df2fd223dad1.m3u8?token=315786223041269
-iHOT爱都市,https://video.mytvsuper.xyz/live/ad1b5739a1f5f46f0debb6d1d1b717c63daad299d309d57a8179126d73b11163.m3u8?token=315786223041269
-iHOT爱怀旧,https://video.mytvsuper.xyz/live/6a29f7df99a641f158dec472c7235d19ffdf02b92ecb3ccbda8a9e2c5647ca26.m3u8?token=315786223041269
-iHOT爱经典,https://video.mytvsuper.xyz/live/8d27701873ad9adf20a9507ef820da186108a0a136992e40d74deeff80a6a8d0.m3u8?token=315786223041269
-iHOT爱科幻,https://video.mytvsuper.xyz/live/d6474687764bf74954e0d0cde3621f7d6261547b5317cb7ed723e6da61eede66.m3u8?token=315786223041269
-iHOT爱科幻,https://video.mytvsuper.xyz/live/66c91176671937371cefbdfe2c688567c1f3eff13429e9dd89a7cd524a6c3659.m3u8?token=315786223041269
-iHOT爱科学,https://video.mytvsuper.xyz/live/4972d48340fe2257458b1e24116fa71233cd31552dd7b8145ead31f4dc2ba1a9.m3u8?token=315786223041269
-iHOT爱科学,https://video.mytvsuper.xyz/live/3feeced94fcb349a4c8d209e3a174860d86880166660a1eefe50de6d157e4110.m3u8?token=315786223041269
-iHOT爱浪漫,https://video.mytvsuper.xyz/live/c5150c9942346d82bbbe8dcb661499448a65a33d26546b850da57045195ed0c9.m3u8?token=315786223041269
-iHOT爱浪漫,https://video.mytvsuper.xyz/live/4b51cff798aed5dd18c6be1ea8b54355bbdd8a7aa96eff026010ebd4b352a221.m3u8?token=315786223041269
-iHOT爱历史,https://video.mytvsuper.xyz/live/f4c29f55bccb789673ebfe62f9ce2476f0a95a3c443437e060cbfddbdb25077b.m3u8?token=315786223041269
-iHOT爱历史,https://video.mytvsuper.xyz/live/914b6c9634b9b9d41f5b16c5a1d7b5c9f34ccb8130384c116ce5ead20eb5823e.m3u8?token=315786223041269
-iHOT爱旅行,https://video.mytvsuper.xyz/live/0b32f7ce2cf07cd8c11f6b2501890c20d11260da3066b2e9534c45fc02fcc874.m3u8?token=315786223041269
-iHOT爱旅行,https://video.mytvsuper.xyz/live/c1fc7a2a2d5b9b9e15f2bac31b0a5cb8bc3be0db58ded938030e9b7f671b5fdf.m3u8?token=315786223041269
-iHOT爱奇谈,https://video.mytvsuper.xyz/live/dde9a17dbd2bdabf34a0f0f246c199d92bd9a9a60fd4fb51d426a1f346a0566b.m3u8?token=315786223041269
-iHOT爱奇谈,https://video.mytvsuper.xyz/live/b42d13094b9c2f4801ad9fc4d242785ff5b004bdeb5815ea9287a2bcf069fb32.m3u8?token=315786223041269
-iHOT爱青春,https://video.mytvsuper.xyz/live/a7e0d3d2d6f5b4b4ffa2b87f2bda23a1157bb448bb56d6fa771cf25889abbab5.m3u8?token=315786223041269
-iHOT爱赛车,https://video.mytvsuper.xyz/live/6c3e681e51f3211943712a377674a4b2b8af87bbef8e19b853a404c15b69c1d9.m3u8?token=315786223041269
-iHOT爱赛车,https://video.mytvsuper.xyz/live/66958fd1aa1cc3a2c8f3d0a3d4ae9de91aeca83fbd33e8769944d400a972e312.m3u8?token=315786223041269
-iHOT爱体育,https://video.mytvsuper.xyz/live/101894adc10aa8511bc566c9e4b9204470dabc7452731d046825bcccd8d5d303.m3u8?token=315786223041269
-iHOT爱体育,https://video.mytvsuper.xyz/live/0f85123624174ff38d59df6bc95a0a0017ed38b488146cf1669196ba1fc113a2.m3u8?token=315786223041269
-iHOT爱玩具,https://video.mytvsuper.xyz/live/e33af5e184791ec952a08d97391c8d96a5f3045f1fdd2dff7daf7627219ec318.m3u8?token=315786223041269
-iHOT爱玩具,https://video.mytvsuper.xyz/live/9c8cca4f399747f327bdbcefc4c627d8a7605237299aeb6a8266f58b3db68b5d.m3u8?token=315786223041269
-iHOT爱喜剧,https://video.mytvsuper.xyz/live/9111edc2b7b9cf32143d28d3226f1aa2b79fd99299f0abe59130101a21cfd0e5.m3u8?token=315786223041269
-iHOT爱喜剧,https://video.mytvsuper.xyz/live/be2262891d6c56c5d0f97d719dfda7bbdf86577dce706e2e3ab978362859e5ed.m3u8?token=315786223041269
-iHOT爱悬疑,https://video.mytvsuper.xyz/live/ea30f4d91eea7467ac6d34fa90478e9ad771b575d5f6c7787d0da34c1a949c25.m3u8?token=315786223041269
-iHOT爱悬疑,https://video.mytvsuper.xyz/live/8aac8b1526a0f11b120f35e62b7fabb0bd33b7f9436b55048a148eb21a279618.m3u8?token=315786223041269
-iHOT爱幼教,https://video.mytvsuper.xyz/live/85831d794746cf64543da82fb3b081eb02c7a3535bb54a4d24886e8d9257b1af.m3u8?token=315786223041269
-iHOT爱幼教,https://video.mytvsuper.xyz/live/1bf1c1906cca9546861774c4946dc116c1c20d13df5ea7ee6143ee152e9daec7.m3u8?token=315786223041269
-iHOT爱院线,https://video.mytvsuper.xyz/live/fc9af6658a5c5ce8d9180eb1f7e4e8478d93f7ef82c996447302e16da1e306af.m3u8?token=315786223041269
-iHOT爱院线,https://video.mytvsuper.xyz/live/40edb2ab4679bd885ae62b712a53bbba26fa803655ee1d615f487fa62b21389f.m3u8?token=315786223041269
 
 
 
 更新时间,#genre#
-元月31日,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+2月5日,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 
