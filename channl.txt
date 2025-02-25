@@ -1,100 +1,55 @@
 王元修爱看的,#genre#
-上港VS新鹏城,https://hls.yjjcfw.com/live/948937015.m3u8?hwSecret=1fd068e8824e86e33caec592b4100f988ffd97c08816631c5561961871cec55e&hwTime=67BB08DF
-亚洲杯,https://hwplay.55a10.net/live/6102_1740308542.flv?auth_key=1740321747-0-0-5d16d0bb467e6931a72ba501240b0c18
-
-CCTV1,http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
-CCTV2,http://tv.20191209.xyz:37377/migu/631780532.m3u8?migutoken=862217ff2cffee0a741039e700509cb8f9a8b1920fe6cee55afb89ef1551eba3ecc744e93cf8e52cd8b4bf1a27c7a074745b640058072bfa4ad145917cdeb959261218d7b78174684a74ae78
-CCTV3,http://tv.20191209.xyz:37377/migu/624878271.m3u8?migutoken=6bf1444e1fd674ffdba5c57e719cecb87358abd9dfd0059ccfaceb24503ca14f393ec4b44fc2a4b2b5eded13d1f30a2052d85600414a1274345fcd95bd9848cf13bffeef1945f996928f0095
-CCTV4,http://tv.20191209.xyz:37377/migu/631780421.m3u8?migutoken=40b6a739d50c9611ac1bd3d6237cc8012f7bd8bd06945da894d03e393a3af480e950d8dc5e1a28cc2b74626afd48a747c2298114358e3f95be67743f3627ea5c2b12422eb6f434b52d57ce8c
-CCTV5,http://tv.20191209.xyz:37377/migu/641886683.m3u8?migutoken=81d12cec2983a402e950068a320720875c9b84d86ead50b7ee5cc3d407f55f3d85a8e298762710bc211027e047162ea27025e20dda4ac4921a6c1d8b950dbe297e15174889d5122c0e3462d0
-CCTV5+,http://tv.20191209.xyz:37377/migu/641886773.m3u8?migutoken=dfc218ce4c1ff00475c0aef03e0b883bf8a277b36671d5ca1eb7cc5f7ce7919d01ee050351170891d6e103aa7adea25827c13c901ccf6cdf4a8a370e7fd90c8b198dcb1e8814bbf2ed4fb0c8
-CCTV6,http://tv.20191209.xyz:37377/migu/624878396.m3u8?migutoken=14b6f481c50ac947cd74bf4b212c490bc99f4bebefd4ce18011c9eb269208a0ce9740af370135e855763df734bac8f57f36721ae54b6afc81829420e84f46c65a2de80938b057c6ec23459eb
-CCTV7,http://tv.20191209.xyz:37377/migu/673168121.m3u8?migutoken=76fbb50f9a12de455452a0b92fde921c6a9a596f2e4035246492270152653570a478746ff105876f101081cb38974e61faa26aebb018bef93a4d7b8a840fa3beb2b478fdb581d84460caa867
-CCTV8,http://tv.20191209.xyz:37377/migu/624878356.m3u8?migutoken=9d347588ab808559db972d3c94b0d970ec130153e4a6dde98c4466f1d3f85f58de23d16994f2f0ed903aa6727a7282cb17103e67b69c8e3f31d253bb78039a4df119e2cfeba6916d123a8003
-CCTV10,http://tv.20191209.xyz:37377/migu/624878405.m3u8?migutoken=06cf776d6a6cbe5cb707174dfad937c2164030bf7ce5f589493870891966f9cdaa5f56bad6e7874d683d5b1e3d9a6e59d0f7c78276d5ec47d979ae42b67833e261a2dda0118f3edcabd6a85b
-CCTV11,http://tv.20191209.xyz:37377/migu/667987558.m3u8?migutoken=d3962834d5d359e6f7f25a8880b73dac381a999ef87ba6b7f0f985bb5308a73061bbf5a9abdf873debb3b83b31eb7eff72f410c853c86f404b3f3ef269aeb631982e338f1400adcaf902fff7
-CCTV12,http://tv.20191209.xyz:37377/migu/673168185.m3u8?migutoken=3d92babc7a67aec41de5c1dc227d2bd8fd9aa5b6b3edb965f88dd9646adaa606101488515fe666e97721c2225a097e6a0f713f1e60f7427247164488ed52f9ec583d71d650f5382f878e71aa
-CCTV13,http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e776bcf238bb9088879a2b71a25a424b0d80d5e71375315cda109c5aab5c79693c4324d45ad012e70208234f659abbe606a595a03d29e06ce931ed56f129fbc95a505ab84f72c
-CCTV14,http://tv.20191209.xyz:37377/migu/624878440.m3u8?migutoken=d84c14c00275d7fa951be2b0a959b0c1af15c62e7f86732fa2306e3a92f447f5b841e0cc26645dc89e70e970812e2c07c2fe24ae5c02b854544ed8c99d6c6d668a402d58cf351e77b5311afd
-CCTV15,http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
-CCTV16,https://stream1.freetv.fun/ipv6-cctv16-52.m3u8
-CCTV17,http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
-
-CCTV4欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8
-CCTV4欧洲,http://tv.20191209.xyz:37377/migu/608807419.m3u8?migutoken=f623911f12100eda47f646cc2a14f2c4563e5d65f3e99dd30284493de9b5ff8389ee51ba62d51bb0a92235ccb1109e54ab6b1b5fe401fe4f60d18b1ccc51f92aa29b70fba7a400ff9058fdf8
-CCTV4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b
-CCTV4美洲,http://tv.20191209.xyz:37377/migu/608807416.m3u8?migutoken=3e58d508ab4bf069dc535fdfc6330dfccfc52c3bb391b5b5602cff12f0acbb883fa9280c7422a00e84eba6fd1e2ddb27dc888d6e63e914595ce9fb917d9462307140d2558dac1fb322c2a85b
-
-央视IPV6,#genre#
-
-CCTV1[ipv6],https://stream1.freetv.fun/ipv6-cctv1-28.m3u8
-CCTV3[ipv6],https://stream1.freetv.fun/ipv6-cctv3-15.m3u8
-CCTV4[ipv6],https://stream1.freetv.fun/ipv6-cctv4-1.m3u8
-CCTV5[ipv6],https://stream1.freetv.fun/ipv6-cctv5-50.m3u8
-CCTV5+[ipv6],https://stream1.freetv.fun/ipv6-cctv5-plus-14.m3u8
-CCTV7[ipv6],https://stream1.freetv.fun/ipv6-cctv7-66.m3u8
-CCTV8[ipv6],https://stream1.freetv.fun/ipv6-cctv8-64.m3u8
-CCTV10[ipv6],https://stream1.freetv.fun/ipv6-cctv10-85.m3u8
-CCTV11[ipv6],https://stream1.freetv.fun/ipv6-cctv11-54.m3u8
-CCTV12[ipv6],https://stream1.freetv.fun/ipv6-cctv12-16.m3u8
-CCTV13[ipv6],https://stream1.freetv.fun/ipv6-cctv13-11.m3u8
-CCTV14[ipv6],https://stream1.freetv.fun/ipv6-cctv14-52.m3u8
-CCTV15[ipv6],https://stream1.freetv.fun/ipv6-cctv15-93.m3u8
-CCTV16[ipv6],https://stream1.freetv.fun/ipv6-cctv16-52.m3u8
+中国女足vs墨西哥女足,https://hwplay.55a10.net/live/66210_1740451264.m3u8?auth_key=1740462960-0-0-cc835dbf54ac4d8cf9e97d2c033cefbe
+中国女足vs墨西哥女足,https://hwplay.55a10.net/live/66210_1740451264.flv?auth_key=1740463028-0-0-00d8d9eb28acf3776aeaa0d0f275635e
+CCTV1,https://stream1.freetv.fun/132a9fd62e230e69c0903efffd87d4cc94d427095062cd2797364d89f478034b.m3u8
+CCTV2,https://stream1.freetv.fun/168b88ec9bef56433abeed33488f73f6971f2d5667506068ef7c2ebcff851ff2.m3u8
+CCTV3,https://stream1.freetv.fun/f6050a738e50fe4359bff4d11319d5500f0b432a463ad0d314fb904ca0f97e3b.m3u8
+CCTV4,https://stream1.freetv.fun/3608077903f414206083459a194ad0afafbbc87556755b042a0d675e387be6c7.m3u8
+CCTV5,https://stream1.freetv.fun/df06602e1779477faa4dc8f2584e549a3c6bb05e6f471505e3cec5aff75307bd.m3u8
+CCTV5[普清],https://stream1.freetv.fun/5e8c1e3a97a30f74d4a12db63254feca462e6dc5d0b668092ce1315d96d67613.m3u8
+CCTV5+[ipv6],https://stream1.freetv.fun/0affc85b808124f239fc1a50c7c975da538a17c2def9b78d7d73d596e5d4bff3.m3u8
+CCTV6,https://stream1.freetv.fun/d2c42f9c65f9034ce0009c10351622f773b2e5f93d1152ef06ee87f16407063f.m3u8
+CCTV7,https://stream1.freetv.fun/e575f9533d12877e0debd44759e28ba41be88bc03408eacd832cfbd1018a5d44.m3u8
+CCTV8,https://stream1.freetv.fun/1c33cf1240b47f2a9dd09a8bc52489ad35135765828cbc4cdd5619da0ddd570d.m3u8
+CCTV8,https://stream1.freetv.fun/d4735f1f761ea33c83e2a22929a80fefcb9298f8f47cda8651c62077854306b2.m3u8
+CCTV9,https://stream1.freetv.fun/75e41bd0258323a75d1b79cbffb4d6c53b78ce8e9fbfdd8fe877ef699bfc4aef.m3u8
+CCTV10,https://stream1.freetv.fun/3e39f33886213476694e1078c0b1eed5448854f030eeaa27b8456398a38e115b.m3u8
+CCTV11,https://stream1.freetv.fun/c23a4f52a9d9d0b34759b80498722011be190bd0d11d4425312946cb5f42cc75.m3u8
+CCTV11,https://stream1.freetv.fun/f16e6a9b924a5003b6e62068dff821f597bbc30c2d3660fed72cc2bde4a7cf4f.m3u8
+CCTV12,https://stream1.freetv.fun/85e8c8d00c40f63a04a283fc9731e8a32c25e1346010db54c89131d4dbbf7dd3.m3u8
+CCTV13,https://stream1.freetv.fun/85f23fdf2b656f5b7ae368f7b615ef3b6333d5583743534e79ba9fda21988b35.m3u8
+CCTV13,https://stream1.freetv.fun/864260dae46a78acb1e8ed369525d1c3b8bc16aa69c8789aea0bccf831b6ac40.m3u8
+CCTV14,https://stream1.freetv.fun/83461ebfd58cb4e8f2b1f8582cec3c09dfaf945443cc97f13750342a92d55b41.m3u8
+CCTV15,https://stream1.freetv.fun/b17180549193f12c2104b05f75c124ca1702e96917aba74a23c8ac88fd7ea0df.m3u8
+CCTV15,https://stream1.freetv.fun/74c43481422c4b90c919e39d27b43a861321daf8b02fed67298398a1abdfd796.m3u8
+CCTV16,https://stream1.freetv.fun/acb05aeed72dc43978040a6f2e0c111e59ea1026f3ccf606796f598c6cc1f3c0.m3u8
+CCTV17,https://stream1.freetv.fun/e70da46c7c0d4f2fff20967d48a6b0da3683e291d0b9a54b8bd22f36f2c46c4e.m3u8
 
 
 央视频道,#genre#
 CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV1,http://lt.hxtre.com:35455/gaoma/cctv1.m3u8
-CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
 CCTV1,https://stream1.freetv.fun/cctv1-6.ctv
-CCTV2,http://3501776.xyz:35455/gaoma/cctv2.m3u8
-CCTV3,http://36.105.100.208:35455/gaoma/cctv3.m3u8
+CCTV2,https://stream1.freetv.fun/261158063024b465631d0caa5378e86f4ae8d8e130b148031eb7a75aa0e1643a.m3u8
+CCTV2,https://stream1.freetv.fun/0988fcaecac82cb9e317b72ea8ca569d843d016a4ab406f3179897aaed212cf2.m3u8
+CCTV3,https://stream1.freetv.fun/6f35657f5cf656ba6dc978d7720ca0d7cce236d36b4b81b79df09b1e6a04f0b9.m3u8
 CCTV4,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
-CCTV4,http://lt.hxtre.com:35455/gaoma/cctv4k.m3u8
-CCTV4,http://36.105.100.208:35455/gaoma/cctv4k.m3u8
-CCTV4,http://lt.hxtre.com:35455/gaoma/cctv4.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-95.m3u8
-CCTV5,http://3501776.xyz:35455/gaoma/cctv5.m3u8
-CCTV5,http://13937899.xyz:35455/gaoma/cctv5.m3u8
-CCTV5+,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
-CCTV5+,http://wab201.win:35455/gaoma/cctv5p.m3u8
-CCTV5+,http://36.105.100.208:35455/gaoma/cctv5p.m3u8
 CCTV5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
-
-CCTV7,http://36.105.100.208:35455/gaoma/cctv7.m3u8
-CCTV7,http://lt.hxtre.com:35455/gaoma/cctv7.m3u8
-CCTV7,https://stream1.freetv.fun/ipv6-cctv7-66.m3u8
-CCTV8,https://stream1.freetv.fun/cctv8-41.m3u8
+CTTV6,https://stream1.freetv.fun/9fa10e04447b517fcd5723b51b542a644f65b71c6e7da557a14253881b5c58cf.m3u8
+CCTV7,https://stream1.freetv.fun/38c7c346b707a4febeabb5ecd55e67687d764ec0a561894ff0e953e516acdfb1.m3u8
 CCTV8,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
-CCTV8,http://lt.hxtre.com:35455/gaoma/cctv8.m3u8
+CCTV8,https://stream1.freetv.fun/9189ee5697a412ac3ab7ce133ad0b10f78941ea05a1aa58f3080f6c57d5c0c32.m3u8
 CCTV9,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
-CCTV9,http://13937899.xyz:35455/gaoma/cctv9.m3u8
-CCTV9,http://wab201.win:35455/gaoma/cctv9.m3u8
-CCTV10,http://lt.hxtre.com:35455/gaoma/cctv10.m3u8
-CCTV10,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
 CCTV10,http://13937899.xyz:35455/gaoma/cctv10.m3u8
 CCTV11,https://stream1.freetv.fun/ipv6-cctv11-54.m3u8
-CCTV11,http://36.105.100.208:35455/gaoma/cctv11.m3u8
-CCTV11,http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
-CCTV12,http://36.105.100.208:35455/gaoma/cctv12.m3u8
-CCTV12,http://wab201.win:35455/gaoma/cctv12.m3u8
-CCTV12,http://39.164.160.249:9901/tsfile/live/0012_1.m3u8
-CCTV12,http://60.12.183.46:9901/tsfile/live/0012_1.m3u8
-CCTV13,http://lt.hxtre.com:35455/gaoma/cctv13.m3u8
-CCTV13,https://stream1.freetv.fun/cctv13-63.m3u8
+CCTV12,https://stream1.freetv.fun/b0468d79ea902e3b48781da5ff9767e3fa65491b9944500bab58e8fd9bced0f3.m3u8
+CCTV13,https://stream1.freetv.fun/d7e822165dde4f3d0edc454a338f5a75fde5754c71a431692c68ed448aeafc03.m3u8
 CCTV14,https://stream1.freetv.fun/ipv6-cctv14-52.m3u8
-CCTV14,http://3501776.xyz:35455/gaoma/cctv14.m3u8
-CCTV14,http://36.105.100.208:35455/gaoma/cctv14.m3u8
-CCTV14,http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
-CCTV15,http://lt.hxtre.com:35455/gaoma/cctv15.m3u8
-CCTV15,http://36.105.100.208:35455/gaoma/cctv15.m3u8
-CCTV16,http://36.105.100.208:35455/gaoma/cctv16.m3u8
-CCTV16,http://wab201.win:35455/gaoma/cctv16.m3u8
-CCTV17,http://36.105.100.208:35455/gaoma/cctv17.m3u8
-CCTV17,http://wab201.win:35455/gaoma/cctv17.m3u8
-
+CCTV15,https://stream1.freetv.fun/1fb9b8c68cdc4c18d756b5fb61316915d0e4de2daa80ffd61508ad252acd7a66.m3u8
+CCTV15,https://stream1.freetv.fun/9350a599d0593a4eb692e9a5c26a4b0777dc9758db460b4e02a9ffa970765999.m3u8
+CCTV16,https://stream1.freetv.fun/8d9ae8021a0bf9cb1aa70e03149b01d1aa4bbe2f34886a7f07579aab8addb659.m3u8
+CCTV17,https://stream1.freetv.fun/435f6dc3969665ba3e3f07845003099e09741dd18560b1b29ba044674f0149db.m3u8
 
 地方IPV6,#genre#
 內蒙古衛視[ipv6],https://stream1.freetv.fun/ipv6-nei-meng-gu-wei-shi-12.m3u8
@@ -127,28 +82,38 @@ CCTV17,http://wab201.win:35455/gaoma/cctv17.m3u8
 黑龍江衛視[ipv6],https://stream1.freetv.fun/ipv6-hei-long-jiang-wei-shi-53.m3u8
 電影頻道[ipv6],https://stream1.freetv.fun/ipv6-tao-dian-ying-5.m3u8
 BABY(SD)[ipv6],https://stream1.freetv.fun/ipv6-tao-baby-3.m3u8
-
-
-
-体育频道,#genre#
-
-五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-劲爆体育,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=jbty
-安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
-精品体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-晴彩篮球,http://www.52iptv.vip:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-晴彩竞技,http://home.dzlove.top:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
-超级体育,http://home.dzlove.top:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-魅力足球,http://home.dzlove.top:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-
-
-
+北京衛視[ipv6],https://stream1.freetv.fun/c8c77c727bad7d32c9cc6ef58168147b4b7155f420a8a7b69878a371fc3ea80b.m3u8
+北京衛視[ipv6],https://stream1.freetv.fun/86f82826ac44b34c7686db0c98ccfc7d9ebaccfe95da790ecaa3424f2c1f8f28.m3u8
+吉林衛視[ipv6],https://stream1.freetv.fun/187c6a9330472227e777f25137bc07b4ab04604b41295a959050d0d726fbce0d.m3u8
+安徽衛視[ipv6],https://stream1.freetv.fun/9b5b5c5949d83212b8aea9804acf7e7824ec7953c35179389e75c9cd358573e8.m3u8
+寧夏衛視[ipv6],https://stream1.freetv.fun/5b1c9dac9813c114b3edb5a667d5def01e6dc960f1b9ca0fd3f45cb78fc633c9.m3u8
+山東衛視[ipv6],https://stream1.freetv.fun/a601d199d151cb304d3b5bbfd8b0dcd0c0fcbfa73acd23894c79f71ec62fec45.m3u8
+山西衛視[ipv6],https://stream1.freetv.fun/7e43959358e81a0ca3a6e6d1fd525828e38663e984b246273c3cfe09bf78ba33.m3u8
+廈門衛視[ipv6],https://stream1.freetv.fun/dbed63a86040718ec58da63619796d31e0af9afacda7aedd1423aa1af946a7b9.m3u8
+廣西衛視[ipv6],https://stream1.freetv.fun/271a909ddad66dfa43772cc1417a4dd194422b416fc07c40869e434a63376b6d.m3u8
+新疆衛視[ipv6],https://stream1.freetv.fun/8044f4ce146b3e6942c336645fcffa57c866cfbd5bd39857d07aba6ebf16d8d9.m3u8
+東方衛視[ipv6],https://stream1.freetv.fun/7e289f331f52384fae58e2989a59322326324c8031a19553720d72e60bbfe02c.m3u8
+東南衛視[ipv6],https://stream1.freetv.fun/3295cda97e0d5804a6d7c4564289a50935677efa5f12de03bfe6d34e73109b04.m3u8
+江蘇衛視[ipv6],https://stream1.freetv.fun/4bf2d436b083bc2ebdbd32bac75cf9438f6378dbfde580191611151fcfff85de.m3u8
+江西衛視[ipv6],https://stream1.freetv.fun/c3a0bc47f7559e8e201ad9b6b17a1b2196159dc3e18ba9acdbf6d4578da60185.m3u8
+浙江衛視[ipv6],https://stream1.freetv.fun/95fb19e6989250afd84f3d2d0a0eabb04afb6b2b12c0d06220aa76027bd50356.m3u8
+海南衛視[ipv6],https://stream1.freetv.fun/88ce9949660efb3e94cf208ff5bb4fa81f296b80fcfb50d09df87c28949e10a0.m3u8
+深圳衛視[ipv6],https://stream1.freetv.fun/4ed655f1d1af7f8c33f44b669f7c406c14598b23f2a6757c8ac938679ce9361a.m3u8
+湖北衛視[ipv6],https://stream1.freetv.fun/ad8be29660967de48104cbb5d876a9433f1f631482a401cb0a30e263ce9f339c.m3u8
+甘肅衛視[ipv6],https://stream1.freetv.fun/af10d63ec7a9c20050b6367c0d8add663bddae804387f2f3df4ff9f0e6ecf4e9.m3u8
+西藏衛視[ipv6],https://stream1.freetv.fun/4d0d74508a9173492e3b5026ae8d650f2a2cf31703b3020a5c3967301183e2b9.m3u8
+遼寧衛視[ipv6],https://stream1.freetv.fun/3cc6c0a2e7553ce09967f12e01ff116cee1a97815ff1159fc77cbbee4df48168.m3u8
+重慶衛視[ipv6],https://stream1.freetv.fun/ad49d819eef31d583493cdaa6c4bc6ef9efbd5e7185d508675fb96bb81847051.m3u8
+陝西衛視[ipv6],https://stream1.freetv.fun/f210bcfec60aa45ed9c724bf4c7abefcdfb41c589ada322aebc5cdc3ae6dc420.m3u8
+雲南衛視[ipv6],https://stream1.freetv.fun/5c1b012bdfc193530a45e7be5aa5f0076412082c35610cc3466727b7512b9353.m3u8
+青海衛視[ipv6],https://stream1.freetv.fun/8ede28fb8d35f118c93237f2d33a4c868a55539a4ee87af0031f8b5a03683523.m3u8
+黑龍江衛視[ipv6],https://stream1.freetv.fun/faaa180e5dde3f3454cfd09bbcaafe76cfa251c0baf0593632713bf3301e3b59.m3u8
 
 
 
 电影轮播,#genre#
 
+华数电影,https://stream1.freetv.fun/0642345babe5c0eb4f9033accc0119dbf897942d668bd6373dab504a0e1638ba.m3u8
 漫威电影,http://zzy789.xyz/douyu1.php?id=6140589
 ①华语房✔原,http://zzy789.xyz/douyu1.php?id=85894
 ②星爷房✔原,http://zzy789.xyz/douyu1.php?id=122402
@@ -300,7 +265,6 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -343,62 +307,55 @@ TVBS亚洲,http://al-us3.jdiptv.cc/live/tvbsyz.m3u8?kdstime=1737030712&kdssign=0
 HOY78,http://61.163.58.154:1321/ms/IPTV.php?id=146
 RHK32,http://61.163.58.154:1321/ms/IPTV.php?id=150
 
-游戏,#genre#
-「B站」热门赛事,http://dns.yiandrive.com:15907/bilibili/10
-「B站」CS 2,http://dns.yiandrive.com:15907/bilibili/21622811
-「虎牙」CS 2,http://dns.yiandrive.com:15907/huya/483917
-「B站」英雄联盟,http://dns.yiandrive.com:15907/bilibili/6
-「虎牙」英雄联盟 𝟙,http://dns.yiandrive.com:15907/huya/660000
-「虎牙」英雄联盟 𝟚,http://dns.yiandrive.com:15907/huya/660001
-「斗鱼」英雄联盟 𝟙,http://dns.yiandrive.com:15907/douyu/288016
-「斗鱼」英雄联盟 𝟚,http://dns.yiandrive.com:15907/douyu/424559
-「B站」英雄联盟•手游,http://dns.yiandrive.com:15907/bilibili/23138275
-「B站」王者荣耀 𝟙,http://dns.yiandrive.com:15907/bilibili/55
-「B站」王者荣耀 𝟚,http://dns.yiandrive.com:15907/bilibili/21654762
-「虎牙」王者荣耀 𝟙,http://dns.yiandrive.com:15907/huya/660002
-「虎牙」王者荣耀 𝟚,http://dns.yiandrive.com:15907/huya/660164
-「斗鱼」王者荣耀 𝟙,http://dns.yiandrive.com:15907/douyu/1863767
-「斗鱼」王者荣耀 𝟚,http://dns.yiandrive.com:15907/douyu/1984839
-「B站」绝地求生,http://dns.yiandrive.com:15907/bilibili/98
-「虎牙」绝地求生 𝟙,http://dns.yiandrive.com:15907/huya/660004
-「虎牙」绝地求生 𝟚,http://dns.yiandrive.com:15907/huya/660005
-「斗鱼」绝地求生,http://dns.yiandrive.com:15907/douyu/100
-「虎牙」和平精英,http://dns.yiandrive.com:15907/huya/660006
-「斗鱼」和平精英,http://dns.yiandrive.com:15907/douyu/999
-「虎牙」金铲铲之战,http://dns.yiandrive.com:15907/huya/660579
-「斗鱼」金铲铲之战,http://dns.yiandrive.com:15907/douyu/9715241
-「虎牙」DOTA2,http://dns.yiandrive.com:15907/huya/660118
-「斗鱼」DOTA2,http://dns.yiandrive.com:15907/douyu/3811559
-「斗鱼」云顶之弈,http://dns.yiandrive.com:15907/douyu/522423
-「虎牙」永劫无间,http://dns.yiandrive.com:15907/huya/660115
-「斗鱼」永劫无间,http://dns.yiandrive.com:15907/huya/9662891
-「B站」使命召唤•手游,http://dns.yiandrive.com:15907/bilibili/22741849
-「虎牙」使命召唤•手游,http://dns.yiandrive.com:15907/huya/11718629
-「斗鱼」使命召唤•手游,http://dns.yiandrive.com:15907/douyu/9223245
-「虎牙」穿越火线,http://dns.yiandrive.com:15907/huya/660101
-「斗鱼」穿越火线 𝟙,http://dns.yiandrive.com:15907/douyu/605964
-「斗鱼」穿越火线 𝟚,http://dns.yiandrive.com:15907/douyu/5388537
-「虎牙」穿越火线•手游,http://dns.yiandrive.com:15907/huya/660102
-「B站」第五人格,http://dns.yiandrive.com:15907/bilibili/5555
-「虎牙」第五人格,http://dns.yiandrive.com:15907/huya/idvesports
-「斗鱼」第五人格,http://dns.yiandrive.com:15907/douyu/3226194
-「虎牙」逆战,http://dns.yiandrive.com:15907/huya/nsl2021
-「B站」无畏契约,http://dns.yiandrive.com:15907/bilibili/22908869
-「虎牙」无畏契约,http://dns.yiandrive.com:15907/huya/660679
-「斗鱼」无畏契约,http://dns.yiandrive.com:15907/douyu/4585645
-「斗鱼」原神,http://dns.yiandrive.com:15907/douyu/10853239
-「B站」QQ飞车•手游,http://dns.yiandrive.com:15907/bilibili/21743919
-「斗鱼」QQ飞车•手游,http://dns.yiandrive.com:15907/douyu/5040227
-「斗鱼」梦幻西游·手游,http://dns.yiandrive.com:15907/huya/9163712
-「斗鱼」街霸,http://dns.yiandrive.com:15907/huya/11437
-「B站」JJ斗地主,http://dns.yiandrive.com:15907/bilibili/22021983
-「斗鱼」JJ斗地主,http://dns.yiandrive.com:15907/douyu/488743
-「斗鱼」我的世界,http://dns.yiandrive.com:15907/douyu/738878
-「斗鱼」FIFA,http://dns.yiandrive.com:15907/douyu/7692166
-「斗鱼」火影忍者,http://dns.yiandrive.com:15907/douyu/1997723
-「斗鱼」跑跑卡丁车,http://dns.yiandrive.com:15907/douyu/7722576
-「斗鱼」跑跑卡丁车•手游,http://dns.yiandrive.com:15907/douyu/6672862
+台灣,#genre#
+115新天地民俗臺,https://stream1.freetv.fun/60c5f12c28a14930e1ba96a281b3508df11208b1b83a1c2bf2b79fd94f02b3ff.m3u8
+115新天地民俗臺,https://stream1.freetv.fun/e22466cc931f87ee3348117d7805f44f25f699df8a5b91430e2fc4039b901076.m3u8
+AMC電影,https://stream1.freetv.fun/364e21133ea43460bcc895be1f7ea000065de402ecc572f985178bd5a9bf51f7.m3u8
+BBC Earth(tw),https://stream1.freetv.fun/a84181d1c94b72f5beb51ddb21cf5c413c3159a7d2fb96e778172ec2c258645f.m3u8
+BBC Lifestyle(TW),https://stream1.freetv.fun/8b62c93cf44d1c9d6547f273e9f5f821833112594093a6864d03879a5c18c819.ctv
+CHANNEL [V],https://stream1.freetv.fun/c672b6756311aec26be4050520eb1a6e4f9b7ac5d896988e2dc58ac51c2db55b.m3u8
+CHANNEL [V],https://stream1.freetv.fun/6a0b8881538dccc2944383cf0967eb793820ab1179819238c1ef258df5eece56.m3u8
+CHANNEL [V],https://stream1.freetv.fun/20b44285262ab48c434d10c530134242b7449d6ac4ab49d87500a3889fd6a26d.m3u8
+CHANNEL [V],https://stream1.freetv.fun/53f6da9bd6964e34005c16d9a23cc00d28a4e7355db963455db9f55f6166ea4e.ctv
+CHANNEL [V],https://stream1.freetv.fun/ee3ef219cc40140f26773ca004ffcfcbc0618f2f579fa2703c587eb273311067.m3u8
+CHANNEL [V],https://stream1.freetv.fun/bc6379d3b73e0bfca4d939dbcbf201d12bcea06b943b274be8516aa83e8d2473.m3u8
+CHANNEL [V],https://stream1.freetv.fun/5a70942f5e4c6280c37d5b43584b2ac3c79310b6cd572a68e35e4b09f3534fb4.m3u8
+CHANNEL [V],https://stream1.freetv.fun/c99e68a36c6f505e702bf8da76373a5dfab102024da6823a898cb30658f437c5.m3u8
+CHANNEL [V],https://stream1.freetv.fun/08b7a30afdc733002b2e112f4e9469a33c204024995491a5bfcdbd1bac9f1c1c.m3u8
+CINEMAX(TW),https://stream1.freetv.fun/4a637ff86a7cfea70f3f09dd95ba08da4bee3406d48cdd0d572fa842857e7e2f.ctv
+CMusic,https://stream1.freetv.fun/e92df40a10e952db1c44ff544aff075264d9c77a581f8d9590755d3cc465fb9f.m3u8
+CN卡通頻道,https://stream1.freetv.fun/9b168041846b3a90d5bb7e85ed569087eec1ddef05531aeb3a9b4abe4030b68b.ctv
+DAZN 1(TW),https://stream1.freetv.fun/4b7dd8783813ae17d685cb64fafff1501573a48e0cc0c1105656b5c10be4076d.m3u8
+DAZN 1(TW),https://stream1.freetv.fun/8d5c263adb508ada83ab3b8dc676723eef3c2445bcac4b402bdd6f10a51c6c29.ctv
+DAZN 2(TW),https://stream1.freetv.fun/5e244891093b7b31047892bffce919e4d2d85a65633181d2218054923aed4f7a.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/94376536df0cfe2fdad4a6e4bf5b7fa6cd6d6fe49d9a53e99bcb2344979ffced.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/c550957389889e7c508d1b7db8edc582a4f270f05f5e5d8bcba2f758b9cf7bb1.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/439f0a77e0adef8edcc0d5a948fb8384b391a134a0036013e58cf0bc2bfcab1e.m3u8
+DISCOVERY Channel,https://stream1.freetv.fun/8691024f0b37817866deb4539e1dd3e6627395cd8ad9f9c0cae3063b6f390333.m3u8
+DISCOVERY SCIENCE TW,https://stream1.freetv.fun/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.ctv
+Discovery(TW),https://stream1.freetv.fun/ed381b51057904fc753ed8a325839ec3739c8fd39d0ae87c54806d2f439eeed2.ctv
+Discovery(TW),https://stream1.freetv.fun/5fb1fd1f67b4505017dcf39eaddacd4732b6019c1fdf8bce1954479de422c9f5.m3u8
+ELTA影劇HD,https://stream1.freetv.fun/55a0a90e38bdb3a1466ae803ea6791abbef34b85ee4deb6be24caf9089a3e22e.ctv
+ELTA體育1(備用),https://stream1.freetv.fun/34573234dc3cbf2930736a655a67c5e00496f80866913b4e24721efbb909892c.m3u8
+ELTA體育1(備用),https://stream1.freetv.fun/482dde6f9ded0ba74b5f8c6a37ee833e248384c9b035219de51eff3de2c6a853.m3u8
+ELTA體育4(備用),https://stream1.freetv.fun/704f37d9d9533baea59ba24e720e7227688df2fd33601e7f7f7e2e406346af68.m3u8
+ELTA體育4(備用),https://stream1.freetv.fun/b0071b71c41630a04047123536e6962a5a90e7996838637297146365dff282b3.m3u8
+ELTV生活英語,https://stream1.freetv.fun/2066e78569bc7a7a1749dde18a93dff20565f75e53db1323a7fd7cca316f0903.m3u8
+Eleven Sports1,https://stream1.freetv.fun/7d5ddd5f261bac7e0efe3f2e31f4d4847453799c2a9558cb1f4a482619759c25.ctv
+Eleven Sports1,https://stream1.freetv.fun/fb51a4cccb1b9eaecc84a1fd52ca1878460ff726cf63efdbc793f726e96f9058.ctv
+Eleven Sports2,https://stream1.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv
+Eleven Sports2,https://stream1.freetv.fun/3618cba59faf94760e7e4bd8c3bdc386b4c3be11b7d475023ab2597a6760a658.ctv
+Eleven sports,https://stream1.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv
+Eleven sports,https://stream1.freetv.fun/fb9589680902e723a4a32c6edb140d55525b048b44dd549f9b8dfd6883299f57.m3u8
+Eleven sports,https://stream1.freetv.fun/e8fc065fe4a9b395748f01ffb9189f7c8896cf15d80afb672bb0125cb8a89f7b.m3u8
+Eleven sports,https://stream1.freetv.fun/f3b6882502c9a4e2eb6912be2c5c7de8186862024cbd2084cde81fa86fe8bde8.m3u8
+Eleven sports,https://stream1.freetv.fun/56f5c336c3b80e1d122db03f82550836c666ee0f97b312184d33269dda937845.m3u8
+Eleven sports,https://stream1.freetv.fun/b7c2134b37f11da494d03a6626c877a8d5a58fa8fab4278ce4260bd00c15e53c.ctv
+Food Network(TW),https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8
+HBO Signature(TW),https://stream1.freetv.fun/87506f962b90c1e6a534a2768eec4e2caa0b75d1453dedd5b28b87f812cd11c4.ctv
+Hollywood,https://stream1.freetv.fun/eb6889f06b04ee8694c1c84ab9c2782461c31872883e29a5a9eae75e4c9ad06a.m3u8
+Hollywood,https://stream1.freetv.fun/a6fe1294e3dc7f5476daffae44afed8061b0d45905a76b15420ba3d002eecc2c.ctv
 
 
 更新时间,#genre#
-2月16日更新,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+2月25日更新,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
