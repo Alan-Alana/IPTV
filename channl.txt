@@ -7,7 +7,7 @@ CCTV1[ipv6],https://stream1.freetv.fun/ipv6-cctv1-28.m3u8
 CCTV3[ipv6],https://stream1.freetv.fun/402f7ef23bdc0f37b7c76b114d7167bb4228d5b525a0de2140f63127c085c1c7.m3u8
 CCTV3[普清],https://stream1.freetv.fun/ipv6-cctv3-15.m3u8
 CCTV4[ipv6],https://stream1.freetv.fun/ipv6-cctv4-1.m3u8
-CCTV5[咪咕],https://stream1.freetv.fun/cctv5-88.m3u8
+CCTV5,http://8.138.7.223/tv/dl/douyincdn.php?id=5
 CCTV5[普清],https://stream1.freetv.fun/ipv6-cctv5-50.m3u8
 CCTV5+[ipv6],https://stream1.freetv.fun/ipv6-cctv5-plus-14.m3u8
 CCTV6[普清],https://stream1.freetv.fun/ipv6-cctv6-58.m3u8
