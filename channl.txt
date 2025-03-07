@@ -1,37 +1,41 @@
 王元修爱看的,#genre#
 
-CCTV1[ipv6],https://stream1.freetv.fun/ipv6-cctv1-28.m3u8
-CCTV3[ipv6],https://stream1.freetv.fun/402f7ef23bdc0f37b7c76b114d7167bb4228d5b525a0de2140f63127c085c1c7.m3u8
+CCTV1,https://stream1.freetv.fun/ipv6-cctv1-28.m3u8
+CCTV2,https://stream1.freetv.fun/cctv2-1.m3u8
+CCTV3,https://stream1.freetv.fun/cctv3-66.m3u8
+CCTV4,https://stream1.freetv.fun/ipv6-cctv4-1.m3u8
+CCTV5,https://stream1.freetv.fun/cctv5-72.m3u8
+CCTV5+,https://stream1.freetv.fun/cctv5-plus-4.m3u8
+CCTV6,https://stream1.freetv.fun/cctv6-19.m3u8
+CCTV7,https://stream1.freetv.fun/ipv6-cctv7-35.m3u8
+CCTV8,https://stream1.freetv.fun/cctv8-54.m3u8
+CCTV9,https://stream1.freetv.fun/cctv9-54.m3u8
+CCTV10,https://stream1.freetv.fun/cctv10-9.m3u8
+CCTV11,https://stream1.freetv.fun/ipv6-cctv11-54.m3u8
+CCTV12,https://stream1.freetv.fun/cctv12-1.ctv
+CCTV13,https://stream1.freetv.fun/cctv13-64.m3u8
+CCTV14,https://stream1.freetv.fun/ipv6-cctv14-52.m3u8
+CCTV15,https://stream1.freetv.fun/ipv6-cctv15-93.m3u8
+CCTV16,https://stream1.freetv.fun/ipv6-cctv16-33.m3u8
+CCTV17,https://stream1.freetv.fun/cctv17-1.m3u8
+
 CCTV3[普清],https://stream1.freetv.fun/ipv6-cctv3-15.m3u8
-CCTV4[ipv6],https://stream1.freetv.fun/ipv6-cctv4-1.m3u8
-CCTV5,https://stream1.freetv.fun/cctv5-38.m3u8
 CCTV5[普清],https://stream1.freetv.fun/ipv6-cctv5-50.m3u8
-CCTV5+[ipv6],https://stream1.freetv.fun/ipv6-cctv5-plus-14.m3u8
 CCTV6[普清],https://stream1.freetv.fun/ipv6-cctv6-58.m3u8
-CCTV7,https://stream1.freetv.fun/ipv6-cctv7-47.m3u8
 CCTV8[普清],https://stream1.freetv.fun/ipv6-cctv8-64.m3u8
-CCTV8[ipv6],https://stream1.freetv.fun/d4735f1f761ea33c83e2a22929a80fefcb9298f8f47cda8651c62077854306b2.m3u8
-CCTV10[ipv6],https://stream1.freetv.fun/3e39f33886213476694e1078c0b1eed5448854f030eeaa27b8456398a38e115b.m3u8
 CCTV10[普清],https://stream1.freetv.fun/ipv6-cctv10-85.m3u8
-CCTV11[ipv6],https://stream1.freetv.fun/ipv6-cctv11-54.m3u8
 CCTV11[普清],https://stream1.freetv.fun/ipv6-cctv11-32.m3u8
-CCTV12[ipv6],https://stream1.freetv.fun/ipv6-cctv12-16.m3u8
 CCTV13[ipv6],https://stream1.freetv.fun/ipv6-cctv13-11.m3u8
-CCTV13[普清],https://stream1.freetv.fun/ipv6-cctv13-12.m3u8
-CCTV14[ipv6],https://stream1.freetv.fun/ipv6-cctv14-52.m3u8
-CCTV15[ipv6],https://stream1.freetv.fun/ipv6-cctv15-93.m3u8
 CCTV15[普清],https://stream1.freetv.fun/ipv6-cctv15-65.m3u8
-CCTV16[ipv6],https://stream1.freetv.fun/ipv6-cctv16-33.m3u8
-CCTV17[ipv6],https://stream1.freetv.fun/e70da46c7c0d4f2fff20967d48a6b0da3683e291d0b9a54b8bd22f36f2c46c4e.m3u8
 CCTV17[普清],https://stream1.freetv.fun/ipv6-cctv17-67.m3u8
+
 
 
 
 央视频道,#genre#
 🚀CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 🚀CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV5,http://tv.20191209.xyz:37377/migu/641886683.m3u8?migutoken=81d12cec2983a402e950068a320720875c9b84d86ead50b7ee5cc3d407f55f3d85a8e298762710bc211027e047162ea27025e20dda4ac4921a6c1d8b950dbe297e15174889d5122c0e3462d0
-CCTV5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
+
 CCTV1 综合,http://27.109.223.213:15000/TVOD/6000000001000029752/wasusyt/index.m3u8
 CCTV1 综合,http://27.109.223.213:15000/TVOD/1000000001000018602/ystenlive/index.m3u8
 CCTV1 综合,http://27.109.223.213:15000/TVOD/5000000004000002226/bestzb/index.m3u8
