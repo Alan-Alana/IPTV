@@ -1,13 +1,13 @@
 王元修爱看的,#genre#
 
-
+足协杯第一轮,https://hlsmobilelive-hs-cdn.ysp.cctv.cn/ysp/C6F04388DDC1E795020733CF296064C78539A8DCF839AC70516BB5C15EA652FB724A9E2EFE2FF458E1457602864EC63AE162CE48F1826D9AB4374CD25DA8D8845875E2B9218DDC2992D9ABB753777E1430CF9D82B483A5543F151A6AD79082866DDE1D108330DCE04DCBEA6E3978CEA0/2026690601_fhd.m3u8?svrtime=1742028099&pid=600197321&m3u8_with_time_tag=2&cdn=5207&revoi=&app_id=519748109&guid=m00g0eej_eaghordk64&ysign=0d04e92a6331a0e171b0535b0738829a&ytime=1742028099&ytype=1
 SiTV劲爆体育,http://223.112.176.74:8833/TVOD/5000000002000029972/bestzb/index.m3u8
 SiTV劲爆体育,http://223.112.176.74:8833/TVOD/2000000002000000008/hnbblive/index.m3u8
 CCTV1,https://stream1.freetv.fun/ipv6-cctv1-28.m3u8
 CCTV2,https://stream1.freetv.fun/cctv2-1.m3u8
 CCTV3,https://stream1.freetv.fun/cctv3-66.m3u8
 CCTV4,https://stream1.freetv.fun/ipv6-cctv4-1.m3u8
-CCTV5,https://stream1.freetv.fun/cctv5-10.m3u8
+CCTV5,https://stream1.freetv.fun/cctv5-72.m3u8
 CCTV5+,https://stream1.freetv.fun/ipv6-cctv5-plus-14.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-19.m3u8
 CCTV7,https://stream1.freetv.fun/ipv6-cctv7-35.m3u8
