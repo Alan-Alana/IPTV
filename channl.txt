@@ -397,7 +397,7 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://syswareonline.com:7088/udp/239.93.0.162:2192
+中天新闻,https://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8?
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -594,53 +594,9 @@ Now爆谷台,https://video.mytvsuper.xyz/live/26c32981e6bd777c85412fc0b0404f18ad
 电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6056&tk=23a9aca1f79f
 电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140  
 
-熊猫频道,#genre#
-
-熊猫频道1,https://video.mytvsuper.xyz/live/b13c243dc169ead22658972952bb24d4e079f8dee1b442070c051a17f47e97f7.m3u8?token=315786223098135
-熊猫频道2,https://video.mytvsuper.xyz/live/a2be38132f50c6e71aa2479d33764fda7eab4416c3532983dbaa435549184f38.m3u8?token=315786223098135
-熊猫频道3,https://video.mytvsuper.xyz/live/f4d2d89d69acc254d1da2fb7e366aa235befb327929f3752203b79046b365d94.m3u8?token=315786223098135
-熊猫频道4,https://video.mytvsuper.xyz/live/81428307150fece72abeaf46db9f6cd4e751abaaa6b8961a963a3cb7d9d86a0b.m3u8?token=315786223098135
-熊猫频道5,https://video.mytvsuper.xyz/live/ec5aece9cbf9ba657bd7ff023855f3bdfe9632050c4f03bc0bc27c0d06263bac.m3u8?token=315786223098135
-熊猫频道6,https://video.mytvsuper.xyz/live/96e9b5774656b4a209aa5ee193f6dc4aef18b2a557dd8d5f0eaa54224ccd5a7e.m3u8?token=315786223098135
-熊猫频道7,https://video.mytvsuper.xyz/live/363d442b99d19e27c868a6716f0b3681dbda7b992eb09a3fa4b8824b2f0ce0ae.m3u8?token=315786223098135
-熊猫频道8,https://video.mytvsuper.xyz/live/6a6462066ce14d30d4b815c1b1f382b4d214f9a30237637456fdd0d69134ac2a.m3u8?token=315786223098135
-熊猫频道9,https://video.mytvsuper.xyz/live/16150e162c5a95b3c0e3d19720f1c06f83d48c4e041a6afae912f0a7b09a6d99.m3u8?token=315786223098135
-熊猫频道10,https://video.mytvsuper.xyz/live/cfd8cd18bd6eb9670f435925a1b355ef94c1e2a446b04c48b16ba7ca6f1f623c.m3u8?token=315786223098135
-
-YouTube「➊」,#genre#
-CCTV4,https://video.mytvsuper.xyz/live/b026068e5dc4eeb006ee4da1da1aa680a4c5d95d2b58d5fdbef9ebf2de88cf03.php?token=315786223098135
-鳳凰衛視資訊,https://video.mytvsuper.xyz/live/e4e1c2f79c9006de6875c66f266aa623293a422fa162a850320566e8564afa42.php?token=315786223098135
-中天新闻,https://video.mytvsuper.xyz/live/897a179211b89e8bf09f3ba2869b363e5c1f91c29ec1610eaed53a8e0e1ea888.php?token=315786223098135
-公视新闻,https://video.mytvsuper.xyz/live/47a6410e82e71bcee30829eb6e4a37ad0eaefc09c8db4edfb743a6c01d7e3af5.php?token=315786223098135
-民视新闻,https://video.mytvsuper.xyz/live/f7626433ff149f75b66a13a77718dbf69eb77cbbe0a032c370c0310e4f55be71.php?token=315786223098135
-台视新闻,https://video.mytvsuper.xyz/live/1ef186ff6adc7e9f31361da9e8a4f2786c34403da8928f81f90b657c56623547.php?token=315786223098135
-中视新闻,https://video.mytvsuper.xyz/live/3a73865ab5e769778bf3400e530fe72a01a3234630cd22eb9c73a6429bc31662.php?token=315786223098135
-华视新闻,https://video.mytvsuper.xyz/live/ef9fb82c0cf5572a4281759f50fc2a25ccb04197557f8796cc74acf739d68917.php?token=315786223098135
-TVBSNEWS,https://video.mytvsuper.xyz/live/9a60d1012659c6f0234115dc2f530c25893e4f3187cf3e315709f293180b62de.php?token=315786223098135
-TVBS选新闻,https://video.mytvsuper.xyz/live/79a78e23cd7f7d483c792822f5bb7c231c193318905423dda0f8c48864a22c39.php?token=315786223098135
-三立新闻,https://video.mytvsuper.xyz/live/eeb72590ff792f98b2cd89db81b463a7a531a588e54dc92c92a14aa9398e57e4.php?token=315786223098135
-三立iNEWS,https://video.mytvsuper.xyz/live/32aef2794fd6bfeefdb52b7404ea8bbc9894503acfd5f705e310a8ca369f2ef3.php?token=315786223098135
-东森新闻,https://video.mytvsuper.xyz/live/6b46811e1d8dc826eb7553bb0cf664aedb233fd7bf3106b0c62d073f012b5f5a.php?token=315786223098135
-东森财经新闻,https://video.mytvsuper.xyz/live/4f163afcd3a597515c0dd092d7f064e85f37caaae1e71dc06a00c66bc677807f.php?token=315786223098135
-寰宇新闻,https://video.mytvsuper.xyz/live/4b093b55df4c16d639e620a81348ba7ed079971d7052e02a6ab50e5ae20d437a.php?token=315786223098135
-寰宇财经新闻,https://video.mytvsuper.xyz/live/58a784f789e41011396f7898d6a885d94ad2771705a433a78a8609733e548951.php?token=315786223098135
-镜新闻,https://video.mytvsuper.xyz/live/cfe78b445838393da763eb05d653df504e8781a64206d63d296f38e00f95da30.php?token=315786223098135
-新聞大白話,https://video.mytvsuper.xyz/live/c64662e12e6f7a32edc18466de6a04fbba68cf47a55bc1faa762d83100ae6c2b.php?token=315786223098135
-ABC NEWS,https://video.mytvsuper.xyz/live/eae0f0f29ce61133f751777217af7ac4deb6149e53bbc164ecea4ce84bae15c1.php?token=315786223098135
-ABC NEWS (Australia),https://video.mytvsuper.xyz/live/3671b139caaeea98cc2d3c478088bacb5cb5af2dda9e1aec9fa92c54b8ff69cc.php?token=315786223098135
-FRANCE 24,https://video.mytvsuper.xyz/live/9f5463e5d213d3779b366d3662df95801f665fd47a7d133862716b48d0e35aeb.php?token=315786223098135
-LiveNOW from FOX,https://video.mytvsuper.xyz/live/5625047d8fff127073054d64eaf120c8d5ab28f0c87d5e83e2f046ec81bee670.php?token=315786223098135
-ANN NEWS,https://video.mytvsuper.xyz/live/f33e37ae9e298b52f127870fe8062fa9ca0ac922c97b05f1cd9ae676be82658e.php?token=315786223098135
-NHK WORLD,https://video.mytvsuper.xyz/live/51e86acc8277e93c2c208b77e2a83719752335f747347ab018613a97a08ec547.php?token=315786223098135
-TBS NEWS,https://video.mytvsuper.xyz/live/48329a7093880f1b0f199584d667e518fb7f10f9ae50d398df80dace6fe71915.php?token=315786223098135
-中天亞洲台,https://video.mytvsuper.xyz/live/5365054f99f02d16c95d157da2ef05dfc228c456aa345cdf08d0a0ac2ba06086.php?token=315786223098135
-大愛一台,https://video.mytvsuper.xyz/live/e48bfbfb076e4a5b8bef6d0ed388ad382c71a66f00665b2bbf11b8f87bba592d.php?token=315786223098135
-大愛一台,https://video.mytvsuper.xyz/live/85f1d896fae723d0ca228dc2dcad83a1412de5532c604c8f1d65568e8cc68b06.php?token=315786223098135
-中視經典綜藝,https://video.mytvsuper.xyz/live/5561b643ea6bbbc64471c7dd28c3be0b94336951db8879067ac887c720266003.php?token=315786223098135
-華視綜藝頻道,https://video.mytvsuper.xyz/live/9ec045d22ee471c37b5d2e498b3e776b6ffaf7bf2f08348df2201f6b0185468d.php?token=315786223098135
 
 
 
 
 更新时间,#genre#
-2月25日更新,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+3月31日更新,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
