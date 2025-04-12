@@ -164,7 +164,7 @@ CCTV3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
 CCTV3,http://13937899.xyz:35455/gaoma/cctv3.m3u8
 CCTV4,http://23.106.158.19:35455/gaoma/cctv4.m3u8
 CCTV4,http://lt.hxtre.com:35455/gaoma/cctv4k.m3u8
-CCTV4,http://yc.myds.me:35455/gaoma/cctv5.m3u8
+CCTV4,http://yc.myds.me:35455/gaoma/cctv4.m3u8
 CCTV4,http://huashetou.fun:35455/gaoma/cctv4.m3u8
 CCTV4,http://www.douzhicloud.site:35455/gaoma/cctv4.m3u8
 CCTV5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
