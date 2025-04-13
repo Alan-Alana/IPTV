@@ -146,7 +146,7 @@ CCTV9,http://b.zgjok.com:35455/gaoma/cctv9.m3u8
 CCTV10,http://b.zgjok.com:35455/gaoma/cctv10.m3u8
 CCTV11,http://b.zgjok.com:35455/gaoma/cctv11.m3u8
 CCTV12,http://b.zgjok.com:35455/gaoma/cctv12.m3u8
-CCTV13,http://b.zgjok.com:35455/gaoma/cctv8.m3u8
+CCTV13,http://b.zgjok.com:35455/gaoma/cctv13.m3u8
 CCTV14,http://b.zgjok.com:35455/gaoma/cctv14.m3u8
 CCTV15,http://b.zgjok.com:35455/gaoma/cctv15.m3u8
 CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
