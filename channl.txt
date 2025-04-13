@@ -1,12 +1,13 @@
 王元修爱看的,#genre#
 
+象棋专场,http://182.91.124.60:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 CCTV1,http://36.105.100.208:35455/gaoma/cctv1.m3u8
 CCTV2,https://stream1.freetv.fun/0c2d56a09c4103a4bd2a0b1fce3daaafa5402ea91fb9166faa2489ce5c440506.m3u8
 CCTV3,https://stream1.freetv.fun/f6e760220823c23e76064af294c797e6a5f5219d492314b02f28a8da361057b4.m3u8
 CCTV4,http://home.kuaidi521.com:35455/gaoma/cctv4.m3u8
-CCTV5,https://stream1.freetv.fun/68390b4e0ff9a7a285fc6b8f2e0afff834096f6d3373ed862049cd98622047d6.m3u8
-CCTV5+,https://stream1.freetv.fun/bc347f479c5117db082bde2602af2de646971c878f683cddeb7b981bf205b10e.m3u8
+CCTV5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
+CCTV5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
 CCTV6,https://stream1.freetv.fun/41f78e5195e409f27d84dc1ac0da605071e39135e3148fddac1fbeed156770e9.m3u8
 CCTV7,https://stream1.freetv.fun/063519ba9139db7ff8220b74e0c44e1b0057c6f8f153fde667017a93b02cd2ae.m3u8
 CCTV13,https://stream1.freetv.fun/e23acf59ab1e9c2068d154d33874345d115219d523cdb8d9b9a819aeecf8016d.m3u8
