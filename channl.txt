@@ -153,6 +153,19 @@ CCTV15,http://b.zgjok.com:35455/gaoma/cctv15.m3u8
 CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
 CCTV17,http://b.zgjok.com:35455/gaoma/cctv17.m3u8
 
+CCTV1,http://129.146.6.71:35455/gaoma/cctv1.m3u8
+CCTV2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
+CCTV3,http://dsj.motem.top:8880/gaoma/cctv3.m3u8
+CCTV4,http://dsj.motem.top:8880/gaoma/cctv4.m3u8
+CCTV5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
+CCTV5+,http://129.146.6.71:35455/gaoma/cctv5p.m3u8
+CCTV9,http://dsj.motem.top:8880/gaoma/cctv9.m3u8
+CCTV12,http://13937899.xyz:35455/gaoma/cctv12.m3u8
+CCTV13,http://129.146.6.71:35455/gaoma/cctv13.m3u8
+CCTV14,http://13937899.xyz:35455/gaoma/cctv14.m3u8
+CCTV15,http://129.146.6.71:35455/gaoma/cctv15.m3u8
+CCTV16,http://129.146.6.71:35455/gaoma/cctv16.m3u8
+
 CCTV4[普清],https://stream1.freetv.fun/964a51445ff33a4d13e786b28b01992fa55022cfc28c81c5f24497d1131a5d18.m3u8
 CCTV6[普清],https://stream1.freetv.fun/7ae7b8d143cad0c25ef0ea0a4425fe788a390d2ed4628650c88b9f92a0afac61.ctv
 CCTV7[普清],https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
