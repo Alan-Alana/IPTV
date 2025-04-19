@@ -1,16 +1,22 @@
 王元修爱看的,#genre#
 
 象棋专场,http://182.91.124.60:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5[普清],https://stream1.freetv.fun/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
+CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8
+CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8
+CCTV3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8
+CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8
+CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8
+CCTV5+,http://qjrhc.jydjd.top:2911/udp/224.1.100.26:11111
+CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8
+CCTV7,http://60.29.124.66:6080/hls/18/index.m3u8
+CCTV8,http://60.29.124.66:6080/hls/19/index.m3u8
+CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8
+CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8
+CCTV11,http://60.29.124.66:6080/hls/22/index.m3u8
+CCTV12,http://183.11.239.36:808/hls/30/index.m3u8
+CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8
 
-CCTV1,http://36.105.100.208:35455/gaoma/cctv1.m3u8
-CCTV2,https://stream1.freetv.fun/0c2d56a09c4103a4bd2a0b1fce3daaafa5402ea91fb9166faa2489ce5c440506.m3u8
-CCTV3,https://stream1.freetv.fun/f6e760220823c23e76064af294c797e6a5f5219d492314b02f28a8da361057b4.m3u8
-CCTV4,http://home.kuaidi521.com:35455/gaoma/cctv4.m3u8
-CCTV5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
-CCTV5+,http://13937899.xyz:35455/gaoma/cctv5p.m3u8
-CCTV6,https://stream1.freetv.fun/41f78e5195e409f27d84dc1ac0da605071e39135e3148fddac1fbeed156770e9.m3u8
-CCTV7,https://stream1.freetv.fun/063519ba9139db7ff8220b74e0c44e1b0057c6f8f153fde667017a93b02cd2ae.m3u8
-CCTV13,https://stream1.freetv.fun/e23acf59ab1e9c2068d154d33874345d115219d523cdb8d9b9a819aeecf8016d.m3u8
 
 
 
@@ -134,42 +140,7 @@ CCTV16,http://nas.suntao.online:35455/gaoma/cctv16.m3u8#http://124.93.18.237:900
 CCTV17,http://lt.hxtre.com:35455/gaoma/cctv17.m3u8#http://tvbox6.icu/tv/migu.php?id=cctv17$咪咕直播#http://nas.suntao.online:35455/gaoma/cctv17.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0dd2ee&tk=822270345d4c#http://124.93.18.237:9002//hls/17/index.m3u8#http://171.117.246.172:9003//hls/18/index.m3u8#http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0#http://148.135.93.213:81/live.php?id=CCTV17
 
 
-央视频道二,#genre#
-CCTV1,http://b.zgjok.com:35455/gaoma/cctv1.m3u8
-CCTV2,http://b.zgjok.com:35455/gaoma/cctv2.m3u8
-CCTV3,http://b.zgjok.com:35455/gaoma/cctv3.m3u8
-CCTV4,http://b.zgjok.com:35455/gaoma/cctv4.m3u8
-CCTV5,http://b.zgjok.com:35455/gaoma/cctv5.m3u8
-CCTV6,http://b.zgjok.com:35455/gaoma/cctv6.m3u8
-CCTV7,http://b.zgjok.com:35455/gaoma/cctv7.m3u8
-CCTV8,http://b.zgjok.com:35455/gaoma/cctv8.m3u8
-CCTV9,http://b.zgjok.com:35455/gaoma/cctv9.m3u8
-CCTV10,http://b.zgjok.com:35455/gaoma/cctv10.m3u8
-CCTV11,http://b.zgjok.com:35455/gaoma/cctv11.m3u8
-CCTV12,http://b.zgjok.com:35455/gaoma/cctv12.m3u8
-CCTV13,http://b.zgjok.com:35455/gaoma/cctv13.m3u8
-CCTV14,http://b.zgjok.com:35455/gaoma/cctv14.m3u8
-CCTV15,http://b.zgjok.com:35455/gaoma/cctv15.m3u8
-CCTV16,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
-CCTV17,http://b.zgjok.com:35455/gaoma/cctv17.m3u8
 
-CCTV1,http://129.146.6.71:35455/gaoma/cctv1.m3u8
-CCTV2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
-CCTV3,http://dsj.motem.top:8880/gaoma/cctv3.m3u8
-CCTV4,http://dsj.motem.top:8880/gaoma/cctv4.m3u8
-CCTV5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
-CCTV5+,http://129.146.6.71:35455/gaoma/cctv5p.m3u8
-CCTV9,http://dsj.motem.top:8880/gaoma/cctv9.m3u8
-CCTV12,http://13937899.xyz:35455/gaoma/cctv12.m3u8
-CCTV13,http://129.146.6.71:35455/gaoma/cctv13.m3u8
-CCTV14,http://13937899.xyz:35455/gaoma/cctv14.m3u8
-CCTV15,http://129.146.6.71:35455/gaoma/cctv15.m3u8
-CCTV16,http://129.146.6.71:35455/gaoma/cctv16.m3u8
-
-CCTV4[普清],https://stream1.freetv.fun/964a51445ff33a4d13e786b28b01992fa55022cfc28c81c5f24497d1131a5d18.m3u8
-CCTV6[普清],https://stream1.freetv.fun/7ae7b8d143cad0c25ef0ea0a4425fe788a390d2ed4628650c88b9f92a0afac61.ctv
-CCTV7[普清],https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV13[普清],https://stream1.freetv.fun/cctv13-9.m3u8
 
 卫视频道,#genre#
 安徽卫视,http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
