@@ -1,14 +1,16 @@
 王元修爱看的,#genre#
 
 象棋专场,http://182.91.124.60:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-围棋或者足球,http://120.76.248.139/live/bfgd/4200000633.m3u8
-CCTV5[普清],https://stream1.freetv.fun/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
 
-CCTV1,http://106.46.57.50:8888/hls/1/index.m3u8
+CCTV5[普清],https://stream1.freetv.fun/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
+CCTV5[普清],https://stream1.freetv.fun/cctv5-87.m3u8
+CCTV5[普清],https://stream1.freetv.fun/cctv5-48.m3u8
+
+CCTV1,https://stream1.freetv.fun/cctv1-35.m3u8
 CCTV3,http://106.46.57.50:8888/hls/3/index.m3u8
 CCTV4,http://106.46.57.50:8888/hls/4/index.m3u8
-CCTV5,http://111.43.126.240:9003/hls/17/index.m3u8
-CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8
+CCTV5,https://stream1.freetv.fun/cctv52-1.m3u8
+CCTV5+,https://stream1.freetv.fun/cctv5-plus-2-1.m3u8
 CCTV6,http://106.46.57.50:8888/hls/6/index.m3u8
 CCTV7,http://106.46.57.50:8888/hls/7/index.m3u8
 CCTV8,http://106.46.57.50:8888/hls/8/index.m3u8
