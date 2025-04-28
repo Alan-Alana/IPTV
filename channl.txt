@@ -1,6 +1,7 @@
 王元修爱看的,#genre#
 
 象棋专场,http://182.91.124.60:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+羽毛球苏迪曼,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8
 
 CCTV5[普清],https://stream1.freetv.fun/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
 CCTV5[普清],https://stream1.freetv.fun/cctv5-87.m3u8
