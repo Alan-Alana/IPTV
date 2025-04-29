@@ -1,28 +1,30 @@
 王元修爱看的,#genre#
 
 象棋专场,http://182.91.124.60:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-羽毛球苏迪曼,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8
+五台,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8
 
 CCTV5[普清],https://stream1.freetv.fun/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
 CCTV5[普清],https://stream1.freetv.fun/cctv5-87.m3u8
 CCTV5[普清],https://stream1.freetv.fun/cctv5-48.m3u8
 
-CCTV1,https://stream1.freetv.fun/cctv1-35.m3u8
-CCTV3,http://106.46.57.50:8888/hls/3/index.m3u8
-CCTV4,http://106.46.57.50:8888/hls/4/index.m3u8
-CCTV5,https://stream1.freetv.fun/cctv52-1.m3u8
-CCTV5+,https://stream1.freetv.fun/cctv5-plus-2-1.m3u8
-CCTV6,http://106.46.57.50:8888/hls/6/index.m3u8
-CCTV7,http://106.46.57.50:8888/hls/7/index.m3u8
-CCTV8,http://106.46.57.50:8888/hls/8/index.m3u8
-CCTV10,http://106.46.57.50:8888/hls/10/index.m3u8
-CCTV11,http://106.46.57.50:8888/hls/11/index.m3u8
-CCTV12,http://106.46.57.50:8888/hls/12/index.m3u8
-CCTV13,http://106.46.57.50:8888/hls/13/index.m3u8
-CCTV14,http://106.46.57.50:8888/hls/14/index.m3u
-CCTV15,http://106.46.57.50:8888/hls/15/index.m3u8
-CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
-CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
+CCTV-01,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+CCTV-02,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+CCTV-03,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
+CCTV-04,http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+CCTV-05,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+CCTV-5+,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+CCTV-06,http://itv.iptv1688.top:2016/itv.php?id=CCTV6
+CCTV-07,http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+CCTV-08,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+CCTV-09,http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+CCTV-10,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
+CCTV-11,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
+CCTV-12,http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+CCTV-13,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+CCTV-14,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+CCTV-15,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+CCTV-16,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+CCTV-17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 
 
 
