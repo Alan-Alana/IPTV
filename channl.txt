@@ -2,7 +2,7 @@
 
 象棋专场,http://182.91.124.60:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 
-CCTV5[普清],https://stream1.freetv.fun/c0af6816012bc8db68b757c800885dc46c85c43d2d2462eee0697511ad23b954.m3u8
+
 
 CCTV5[普清],https://stream1.freetv.fun/1c87e8d2903e8f1b47579512c24dc43dcb45af4ad0b1503f4ff3b5aeefda321d.m3u8
 
@@ -12,7 +12,7 @@ CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV3,http://111.43.126.240:9003/hls/15/index.m3u8
 CCTV4,http://111.43.126.240:9003/hls/16/index.m3u8
-CCTV5,https://stream1.freetv.fun/b786ec1800a5643b2d5d40858739023ccedfe27bc149fa6eee46de30f0897b5f.m3u8
+
 CCTV5,https://stream1.freetv.fun/22a6e6d951872b5258a1a09828c48f36b31f32d0ba4d03a1f273e6e51c6020bf.m3u8
 
 CCTV5+,https://stream1.freetv.fun/2e8689323e52e4ec6e81d841ca896be35176372a6d9659185068546585e8dbd5.m3u8
