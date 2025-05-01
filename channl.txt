@@ -12,7 +12,7 @@ CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV3,http://111.43.126.240:9003/hls/15/index.m3u8
 CCTV4,http://111.43.126.240:9003/hls/16/index.m3u8
-
+CCTV-5,http://42.48.80.240:9002/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,https://stream1.freetv.fun/22a6e6d951872b5258a1a09828c48f36b31f32d0ba4d03a1f273e6e51c6020bf.m3u8
 
 CCTV5+,https://stream1.freetv.fun/2e8689323e52e4ec6e81d841ca896be35176372a6d9659185068546585e8dbd5.m3u8
