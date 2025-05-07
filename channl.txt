@@ -7,18 +7,21 @@ CCTV5[普清],https://stream1.freetv.fun/c0af6816012bc8db68b757c800885dc46c85c43
 
 CCTV5[普清],https://stream1.freetv.fun/cctv5-48.m3u8
 
-CCTV1,https://stream1.freetv.fun/d6bfd8367a905e4c7d8f024b5d501f81a0dec4e08379ce380ca66ca9ab5f46dd.m3u8
-
-CCTV4,https://stream1.freetv.fun/6261ed0c0f3c2699d203a8e55721801a5d1b2fc9de680180fb327da15654bceb.m3u8
-
-CCTV-5,http://59.188.94.126:35455/bptv/10000100000000050000000003870748.m3u8
-CCTV5+,https://stream1.freetv.fun/bc347f479c5117db082bde2602af2de646971c878f683cddeb7b981bf205b10e.m3u8
-
-CCTV13,https://stream1.freetv.fun/864260dae46a78acb1e8ed369525d1c3b8bc16aa69c8789aea0bccf831b6ac40.ctv
-
-CCTV16,https://stream1.freetv.fun/dc455aa85ec9ad8bfc603bb74d352f026ad3f2b30bcacc0a5c1d6cb5e4dd9763.ctv
-
-
+CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-2,http://goo.bkpcp.top/mg/cctv2
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-5,http://goo.bkpcp.top/mg/cctv5
+CCTV-6,http://goo.bkpcp.top/mg/cctv6
+CCTV-7,http://goo.bkpcp.top/mg/cctv7
+CCTV-8,http://goo.bkpcp.top/mg/cctv8
+CCTV-9,http://goo.bkpcp.top/mg/cctv9
+CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-11,http://goo.bkpcp.top/mg/cctv11
+CCTV-12,http://goo.bkpcp.top/mg/cctv12
+CCTV-13,http://goo.bkpcp.top/mg/cctv13
+CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-16,http://goo.bkpcp.top/mg/cctv16
 
 
 
@@ -27,258 +30,329 @@ CCTV16,https://stream1.freetv.fun/dc455aa85ec9ad8bfc603bb74d352f026ad3f2b30bcacc
 🚀CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 🚀CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 
-CCTV-1综合,http://goo.bkpcp.top/mg/cctv1
-CCTV-2财经,http://goo.bkpcp.top/mg/cctv2
-CCTV-3综艺,http://goo.bkpcp.top/mg/cctv3
-CCTV-4中文国际,http://goo.bkpcp.top/mg/cctv4
-CCTV-5体育,http://goo.bkpcp.top/mg/cctv5
-CCTV-6电影,http://goo.bkpcp.top/mg/cctv6
-CCTV-7国防军事,http://goo.bkpcp.top/mg/cctv7
-CCTV-8电视剧,http://goo.bkpcp.top/mg/cctv8
-CCTV-9纪录,http://goo.bkpcp.top/mg/cctv9
-CCTV-10科教,http://goo.bkpcp.top/mg/cctv10
-CCTV-11戏曲,http://goo.bkpcp.top/mg/cctv11
-CCTV-12社会与法,http://goo.bkpcp.top/mg/cctv12
-CCTV-13新闻,http://goo.bkpcp.top/mg/cctv13
-CCTV-14少儿,http://goo.bkpcp.top/m
-CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV-1综合,http://111.221.137.228:8278/cctv1/playlist.m3u8$720P
-CCTV-1综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
-CCTV-2财经,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
-CCTV-3综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-4中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
-CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-5+体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV-6电影,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV-7国防军事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-CCTV-8电视剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV-9纪录,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV-10科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
-CCTV-11戏曲,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
-CCTV-12社会与法,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
-CCTV-13新闻,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
-CCTV-14少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
-CCTV-15音乐,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV-17农业农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CCTV-4K超高清,http://ls-arca4.jsbtv.cc/live/cctv4k.m3u8
+CCTV-1,http://114.246.201.137:7088/rtp/239.3.1.129:8008
+CCTV-2,http://114.246.201.137:7088/rtp/239.3.1.60:8084
+CCTV-3,http://114.246.201.137:7088/rtp/239.3.1.172:8001
+CCTV-4,http://114.246.201.137:7088/rtp/239.3.1.105:8092
+CCTV-5,http://114.246.201.137:7088/rtp/239.3.1.173:8001
+CCTV-5+,http://114.246.201.137:7088/rtp/239.3.1.130:8004
+CCTV-6,http://114.246.201.137:7088/rtp/239.3.1.174:8001
+CCTV-7,http://114.246.201.137:7088/rtp/239.3.1.61:8104
+CCTV-8,http://114.246.201.137:7088/rtp/239.3.1.175:8001
+CCTV-9,http://114.246.201.137:7088/rtp/239.3.1.62:8112
+CCTV-10,http://114.246.201.137:7088/rtp/239.3.1.63:8116
+CCTV-11,http://114.246.201.137:7088/rtp/239.3.1.152:8120
+CCTV-12,http://114.246.201.137:7088/rtp/239.3.1.64:8124
+CCTV-13,http://114.246.201.137:7088/rtp/239.3.1.124:8128
+CCTV-14,http://114.246.201.137:7088/rtp/239.3.1.65:8132
+CCTV-15,http://114.246.201.137:7088/rtp/239.3.1.153:8136
+CCTV-16,http://114.246.201.137:7088/rtp/239.3.1.184:8001
+CCTV-17,http://114.246.201.137:7088/rtp/239.3.1.151:8144
+CCTV-1,http://106.52.196.79:80/TV/mui.php?id=cctv1
+CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
+CCTV-3,http://106.52.196.79:80/TV/mui.php?id=cctv3
+CCTV-4,http://106.52.196.79:80/TV/mui.php?id=cctv4
+CCTV-6,http://106.52.196.79:80/TV/mui.php?id=cctv6
+CCTV-7,http://106.52.196.79:80/TV/mui.php?id=cctv7
+CCTV-8,http://106.52.196.79:80/TV/mui.php?id=cctv8
+CCTV-9,http://106.52.196.79:80/TV/mui.php?id=cctv9
+CCTV-10,http://106.52.196.79:80/TV/mui.php?id=cctv10
+CCTV-12,http://106.52.196.79:80/TV/mui.php?id=cctv12
+CCTV-13,http://106.52.196.79:80/TV/mui.php?id=cctv13
+CCTV-14,http://106.52.196.79:80/TV/mui.php?id=cctv14
+CCTV-15,http://106.52.196.79:80/TV/mui.php?id=cctv15
+CCTV-17,http://106.52.196.79:80/TV/mui.php?id=cctv17
+CCTV-1,http://121.17.146.54:50003/hls/1/index.m3u8
+CCTV-2,http://121.17.146.54:50003/hls/2/index.m3u8
+CCTV-3,http://121.17.146.54:50003/hls/3/index.m3u8
+CCTV-4,http://121.17.146.54:50003/hls/4/index.m3u8
+CCTV-5,http://121.17.146.54:50003/hls/5/index.m3u8
+CCTV-5+,http://121.17.146.54:50003/hls/21/index.m3u8
+CCTV-6,http://121.17.146.54:50003/hls/6/index.m3u8
+CCTV-7,http://121.17.146.54:50003/hls/7/index.m3u8
+CCTV-8,http://121.17.146.54:50003/hls/8/index.m3u8
+CCTV-9,http://121.17.146.54:50003/hls/9/index.m3u8
+CCTV-10,http://121.17.146.54:50003/hls/10/index.m3u8
+CCTV-11,http://121.17.146.54:50003/hls/11/index.m3u8
+CCTV-12,http://121.17.146.54:50003/hls/12/index.m3u8
+CCTV-13,http://121.17.146.54:50003/hls/13/index.m3u8
+CCTV-14,http://121.17.146.54:50003/hls/14/index.m3u8
+CCTV-15,http://121.17.146.54:50003/hls/15/index.m3u8
+CCTV-17,http://121.17.146.54:50003/hls/17/index.m3u8
+CCTV-1,http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://222.134.245.16:9901/tsfile/live/0005+_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://222.134.245.16:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://222.134.245.16:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://222.134.245.16:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://222.134.245.16:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://218.104.239.114:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://218.104.239.114:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://218.104.239.114:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://218.104.239.114:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://218.104.239.114:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://218.104.239.114:9901/tsfile/live/0005+_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://218.104.239.114:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://218.104.239.114:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://218.104.239.114:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://218.104.239.114:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://218.104.239.114:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://218.104.239.114:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://218.104.239.114:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://218.104.239.114:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://218.104.239.114:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://218.104.239.114:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,http://218.104.239.114:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://ycsj.aguihome.com:4022/rtp/233.50.201.118:5140
+CCTV-2,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
+CCTV-3,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
+CCTV-4,http://ycsj.aguihome.com:4022/rtp/233.50.200.101:5140
+CCTV-5,http://ycsj.aguihome.com:4022/rtp/233.50.201.197:5140
+CCTV-5+,http://ycsj.aguihome.com:4022/rtp/233.50.201.220:5140
+CCTV-6,http://ycsj.aguihome.com:4022/rtp/233.50.201.198:5140
+CCTV-7,http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140
+CCTV-8,http://ycsj.aguihome.com:4022/rtp/233.50.201.199:5140
+CCTV-9,http://ycsj.aguihome.com:4022/rtp/233.50.201.121:5140
+CCTV-10,http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140
+CCTV-11,http://ycsj.aguihome.com:4022/rtp/233.50.200.132:5140
+CCTV-12,http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140
+CCTV-13,http://ycsj.aguihome.com:4022/rtp/233.50.201.246:5140
+CCTV-14,http://ycsj.aguihome.com:4022/rtp/233.50.201.124:5140
+CCTV-15,http://ycsj.aguihome.com:4022/rtp/233.50.200.133:5140
+CCTV-16,http://ycsj.aguihome.com:4022/rtp/233.50.200.112:5140
+CCTV-17,http://ycsj.aguihome.com:4022/rtp/233.50.200.113:5140
+CCTV-1,http://103.70.13.229:20035/api.php?id=17650&tk=f78057ba50f41fa55d
+CCTV-2,http://103.70.13.229:20035/api.php?id=42021&tk=f78057ba50f41fa55d
+CCTV-3,http://103.70.13.229:20035/api.php?id=86264&tk=f78057ba50f41fa55d
+CCTV-4,http://103.70.13.229:20035/api.php?id=24957&tk=f78057ba50f41fa55d
+CCTV-5,http://103.70.13.229:20035/api.php?id=54491&tk=f78057ba50f41fa55d
+CCTV-5+,http://103.70.13.229:20035/api.php?id=95773&tk=f78057ba50f41fa55d
+CCTV-6,http://103.70.13.229:20035/api.php?id=25006&tk=f78057ba50f41fa55d
+CCTV-7,http://103.70.13.229:20035/api.php?id=52094&tk=f78057ba50f41fa55d
+CCTV-8,http://103.70.13.229:20035/api.php?id=47440&tk=f78057ba50f41fa55d
+CCTV-9,http://103.70.13.229:20035/api.php?id=34745&tk=f78057ba50f41fa55d
+CCTV-10,http://103.70.13.229:20035/api.php?id=43924&tk=f78057ba50f41fa55d
+CCTV-11,http://103.70.13.229:20035/api.php?id=69221&tk=f78057ba50f41fa55d
+CCTV-12,http://103.70.13.229:20035/api.php?id=25896&tk=f78057ba50f41fa55d
+CCTV-13,http://103.70.13.229:20035/api.php?id=95102&tk=f78057ba50f41fa55d
+CCTV-14,http://103.70.13.229:20035/api.php?id=65274&tk=f78057ba50f41fa55d
+CCTV-15,http://103.70.13.229:20035/api.php?id=84954&tk=f78057ba50f41fa55d
+CCTV-16,http://103.70.13.229:20035/api.php?id=85649&tk=f78057ba50f41fa55d
+CCTV-17,http://103.70.13.229:20035/api.php?id=63029&tk=f78057ba50f41fa55d
+CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-2,http://goo.bkpcp.top/mg/cctv2
+CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-4,http://goo.bkpcp.top/mg/cctv4
+CCTV-5,http://goo.bkpcp.top/mg/cctv5
+CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
+CCTV-6,http://goo.bkpcp.top/mg/cctv6
+CCTV-7,http://goo.bkpcp.top/mg/cctv7
+CCTV-8,http://goo.bkpcp.top/mg/cctv8
+CCTV-9,http://goo.bkpcp.top/mg/cctv9
+CCTV-10,http://goo.bkpcp.top/mg/cctv10
+CCTV-11,http://goo.bkpcp.top/mg/cctv11
+CCTV-12,http://goo.bkpcp.top/mg/cctv12
+CCTV-13,http://goo.bkpcp.top/mg/cctv13
+CCTV-14,http://goo.bkpcp.top/mg/cctv14
+CCTV-15,http://goo.bkpcp.top/mg/cctv15
+CCTV-16,http://goo.bkpcp.top/mg/cctv16
+CCTV-17,http://goo.bkpcp.top/mg/cctv17
+CCTV-1,http://PLTV/ku9/js/bjyd.js?a=3221226895&b=I0Rkc6neBYgfpoJ1yud8Fw&QUN=酷9-JS交流群424765458
+CCTV-2,http://PLTV/ku9/js/bjyd.js?a=3221226893&b=cnoJZd_sZxCC6bZYZh4R6g&QUN=酷9-JS交流群424765458
+CCTV-3,http://PLTV/ku9/js/bjyd.js?a=3221226471&b=mT8sG0Ytv99dBz_15_ONDA&QUN=酷9-JS交流群424765458
+CCTV-4,http://PLTV/ku9/js/bjyd.js?a=3221226470&b=0wP1dRMt9qCzHdvA65wh1w&QUN=酷9-JS交流群424765458
+CCTV-5,http://PLTV/ku9/js/bjyd.js?a=3221226469&b=MAeKAxlwz-2aYDxdAltKMA&QUN=酷9-JS交流群424765458
+CCTV-5+,http://PLTV/ku9/js/bjyd.js?a=3221226894&b=evWZ0zmguDsOY_Mf3SM5TA&QUN=酷9-JS交流群424765458
+CCTV-6,http://PLTV/ku9/js/bjyd.js?a=3221226468&b=2CxodF0yo8joQUfWsBh53Q&QUN=酷9-JS交流群424765458
+CCTV-7,http://PLTV/ku9/js/bjyd.js?a=3221226234&b=utDC7HLJc_gC0YdIDr7oig&QUN=酷9-JS交流群424765458
+CCTV-8,http://PLTV/ku9/js/bjyd.js?a=3221226485&b=wOL_PXjJyCtLw5dyNiQY9g&QUN=酷9-JS交流群424765458
+CCTV-9,http://PLTV/ku9/js/bjyd.js?a=3221226236&b=4MVygPhhOzP-asbwwK-xxQ&QUN=酷9-JS交流群424765458
+CCTV-10,http://PLTV/ku9/js/bjyd.js?a=3221226464&b=hynwfVN0l-OVrv7fFM2B9A&QUN=酷9-JS交流群424765458
+CCTV-11,http://PLTV/ku9/js/bjyd.js?a=3221226463&b=w_8v6J6VFSup8qbVQZ1ItA&QUN=酷9-JS交流群424765458
+CCTV-12,http://PLTV/ku9/js/bjyd.js?a=3221226228&b=2knJCFLHz_HqfBZXNGeA1A&QUN=酷9-JS交流群424765458
+CCTV-13,http://PLTV/ku9/js/bjyd.js?a=3221226316&b=qHPe9pEEWJ00hz1ArnRZVA&QUN=酷9-JS交流群424765458
+CCTV-14,http://PLTV/ku9/js/bjyd.js?a=3221226229&b=y_UgKg-_uoDiTW1MNHptPg&QUN=酷9-JS交流群424765458
+CCTV-15,http://PLTV/ku9/js/bjyd.js?a=3221226460&b=O3ovhj4uIa-pxddTH6uyqQ&QUN=酷9-JS交流群424765458
+CCTV-16,http://PLTV/ku9/js/bjyd.js?a=3221227002&b=X9goLRw26BM_r54des2PAw&QUN=酷9-JS交流群424765458
+CCTV-17,http://PLTV/ku9/js/bjyd.js?a=3221226459&b=W_3n8Mtxag8Sub9AT2mZng&QUN=酷9-JS交流群424765458
+CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV-4,webview://https://yangshipin.cn/tv/home?pid=600001814
+CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+,webview://https://yangshipin.cn/tv/home?pid=600001817
+CCTV-6,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-7,webview://https://yangshipin.cn/tv/home?pid=600004092
+CCTV-8,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-9,webview://https://yangshipin.cn/tv/home?pid=600004078
+CCTV-10,webview://https://yangshipin.cn/tv/home?pid=600001805
+CCTV-11,webview://https://yangshipin.cn/tv/home?pid=600001806
+CCTV-12,webview://https://yangshipin.cn/tv/home?pid=600001807
+CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
+CCTV-14,webview://https://yangshipin.cn/tv/home?pid=600001809
+CCTV-15,webview://https://yangshipin.cn/tv/home?pid=600001815
+CCTV-16,webview://https://yangshipin.cn/tv/home?pid=600098637
+CCTV-17,webview://https://yangshipin.cn/tv/home?pid=600001810
+CCTV-1,webview://https://tv.cctv.com/live/cctv1/
+CCTV-2,webview://https://tv.cctv.com/live/cctv2/
+CCTV-3,webview://https://tv.cctv.com/live/cctv3/
+CCTV-4,webview://https://tv.cctv.com/live/cctv4/
+CCTV-5,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5+,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-6,webview://https://tv.cctv.com/live/cctv6/
+CCTV-7,webview://https://tv.cctv.com/live/cctv7/
+CCTV-8,webview://https://tv.cctv.com/live/cctv8/
+CCTV-9,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-10,webview://https://tv.cctv.com/live/cctv10/
+CCTV-11,webview://https://tv.cctv.com/live/cctv11/
+CCTV-12,webview://https://tv.cctv.com/live/cctv12/
+CCTV-13,webview://https://tv.cctv.com/live/cctv13/
+CCTV-14,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-15,webview://https://tv.cctv.com/live/cctv15/
+CCTV-16,webview://https://tv.cctv.com/live/cctv16/
+CCTV-17,webview://https://tv.cctv.com/live/cctv17/
 
-CCTV-1综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV-2财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV-4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV-5体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV-5+体育赛事,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-CCTV-6电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV-7国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV-8电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-9纪录,https://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
-CCTV-10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-11戏曲,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV-12社会与法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV-14少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV-15音乐,https://tv.bfsu.edu.cn/hls/cctv15hd.m3u8
-CCTV-16奥林匹克,https://tv.bfsu.edu.cn/hls/cctv16hd.m3u8
-CCTV-17农业农村,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
-CCTV-1综合,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000002226/bestzb/index.m3u8
-CCTV-2财经,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031101/bestzb/index.m3u8
-CCTV-3综艺,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000008883/bestzb/index.m3u8
-CCTV-4中文国际,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031102/bestzb/index.m3u8
-CCTV-5体育,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000008885/bestzb/index.m3u8
-CCTV-5+体育赛事,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031127/bestzb/index.m3u8
-CCTV-6电影,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000008886/bestzb/index.m3u8
-CCTV-7国防军事,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031104/bestzb/index.m3u8
-CCTV-8电视剧,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000008888/bestzb/index.m3u8
-CCTV-9纪录,http://mcr.sakuramoe.dev:5000/TVOD/1000000001000014583/ystenlive/index.m3u8
-CCTV-10科教,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000012827/bestzb/index.m3u8
-CCTV-11戏曲,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031106/bestzb/index.m3u8
-CCTV-12社会与法,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031107/bestzb/index.m3u8
-CCTV-13新闻,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031108/bestzb/index.m3u8
-CCTV-14少儿,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000006673/bestzb/index.m3u8
-CCTV-15音乐,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031109/bestzb/index.m3u8
-CCTV-16奥林匹克,http://mcr.sakuramoe.dev:5000/TVOD/5000000008000023253/bestzb/index.m3u8
-CCTV-17农业农村,http://mcr.sakuramoe.dev:5000/TVOD/1000000006000268004/ystenlive/index.m3u8
 
-CCTV-1综合,http://ms.fxim.net:808/hls/1/index.m3u8
-CCTV-2财经,http://ms.fxim.net:808/hls/2/index.m3u8
-CCTV-3综艺,http://ms.fxim.net:808/hls/3/index.m3u8
-CCTV-4中文国际,http://ms.fxim.net:808/hls/4/index.m3u8
-CCTV-5体育,http://ms.fxim.net:808/hls/5/index.m3u8
-CCTV-5+体育赛事,http://ms.fxim.net:808/hls/13/index.m3u8
-CCTV-6电影,http://ms.fxim.net:808/hls/6/index.m3u8
-CCTV-7国防军事,http://ms.fxim.net:808/hls/7/index.m3u8
-CCTV-8电视剧,http://ms.fxim.net:808/hls/8/index.m3u8
-CCTV-9纪录,http://ms.fxim.net:808/hls/9/index.m3u8
-CCTV-10科教,http://ms.fxim.net:808/hls/10/index.m3u8
-CCTV-11戏曲,http://ms.fxim.net:808/hls/11/index.m3u8
-CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
-CCTV-1综合,http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8
-CCTV-2财经,http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
-CCTV-7国防军事,http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8
-CCTV-9纪录,http://jf.jxx2023.work:40446/tsfile/live/0011_3.m3u8
-CCTV-10科教,http://jf.jxx2023.work:40446/tsfile/live/0010_1.m3u8
-CCTV-12社会与法,http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
+
+
+
 
 
 卫视频道,#genre#
-东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
-江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
-广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
-深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
-北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
-东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
-吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
-四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
-天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
-安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
-山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
-辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
-江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
-河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
-海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
-湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
-贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
-重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
-黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
-内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
-宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
-山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
-西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
-陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225625
-青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
-西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226433
-延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
-兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
-康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
-安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-西藏卫视,http://iptv.huuc.edu.cn/hls/xztv.m3u8
-内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmtv.m3u8
-青海卫视,http://iptv.huuc.edu.cn/hls/qhtv.m3u8
-厦门卫视,http://iptv.huuc.edu.cn/hls/xmtv.m3u8
-新疆卫视,http://iptv.huuc.edu.cn/hls/xjtv.m3u8
-云南卫视,http://iptv.huuc.edu.cn/hls/yntv.m3u8
-宁夏卫视,http://iptv.huuc.edu.cn/hls/nxtv.m3u8
-甘肃卫视,http://iptv.huuc.edu.cn/hls/gstv.m3u8
-兵团卫视,http://iptv.huuc.edu.cn/hls/bttv.m3u8
-北京卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000031556/bestzb/index.m3u8
-东方卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000014098/bestzb/index.m3u8
-浙江卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000007275/bestzb/index.m3u8
-江苏卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000019351/bestzb/index.m3u8
-湖南卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000006692/bestzb/index.m3u8
-广东卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000014694/bestzb/index.m3u8
-深圳卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000007410/bestzb/index.m3u8
-四川卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000006119/bestzb/index.m3u8
-安徽卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000023002/bestzb/index.m3u8
-兵团卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000005000266005/ystenlive/index.m3u8
-东南卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000010584/bestzb/index.m3u8
-甘肃卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031121/bestzb/index.m3u8
-大湾区卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000011619/ystenlive/index.m3u8
-广西卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031118/bestzb/index.m3u8
-贵州卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000025843/bestzb/index.m3u8
-海南卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000006211/bestzb/index.m3u8
-河北卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000006000040016/bestzb/index.m3u8
-河南卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031119/bestzb/index.m3u8
-黑龙江卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000025203/bestzb/index.m3u8
-湖北卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000014954/bestzb/index.m3u8
-吉林卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031117/bestzb/index.m3u8
-延边卫视,http://mcr.sakuramoe.dev:5000/TVOD/2000000003000000049/hnbblive/index.m3u8
-江西卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000011210/bestzb/index.m3u8
-辽宁卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000011671/bestzb/index.m3u8
-内蒙古卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000014080/hnbblive/index.m3u8
-宁夏卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000031451/hnbblive/index.m3u8
-青海卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000013359/hnbblive/index.m3u8
-厦门卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000005000266006/ystenlive/index.m3u8
-山东卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000020424/bestzb/index.m3u8
-山西卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000006000040023/bestzb/index.m3u8
-农林卫视,http://mcr.sakuramoe.dev:5000/TVOD/2000000003000000046/hnbblive/index.m3u8
-陕西卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000007495/hnbblive/index.m3u8
-康巴卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000003000001598/bestzb/index.m3u8
-天津卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000006827/bestzb/index.m3u8
-西藏卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000015894/ystenlive/index.m3u8
-新疆卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000002000029441/ystenlive/index.m3u8
-云南卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031120/bestzb/index.m3u8
-重庆卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000025797/bestzb/index.m3u8
-安多卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000005000266001/ystenlive/index.m3u8
-浙江卫视,http://ms.fxim.net:808/hls/14/index.m3u8
-江苏卫视,http://ms.fxim.net:808/hls/16/index.m3u8
-东方卫视,http://ms.fxim.net:808/hls/17/index.m3u8
-安徽卫视,http://ms.fxim.net:808/hls/18/index.m3u8
-重庆卫视,http://ms.fxim.net:808/hls/19/index.m3u8
-四川卫视,http://ms.fxim.net:808/hls/20/index.m3u8
-天津卫视,http://ms.fxim.net:808/hls/21/index.m3u8
-北京卫视,http://ms.fxim.net:808/hls/22/index.m3u8
-青海卫视,http://ms.fxim.net:808/hls/23/index.m3u8
-辽宁卫视,http://ms.fxim.net:808/hls/24/index.m3u8
-江西卫视,http://ms.fxim.net:808/hls/25/index.m3u8
-甘肃卫视,http://ms.fxim.net:808/hls/26/index.m3u8
-广东卫视,http://ms.fxim.net:808/hls/27/index.m3u8
-吉林卫视,http://ms.fxim.net:808/hls/28/index.m3u8
-湖南卫视,http://ms.fxim.net:808/hls/29/index.m3u8
-湖北卫视,http://ms.fxim.net:808/hls/30/index.m3u8
-河北卫视,http://ms.fxim.net:808/hls/31/index.m3u8
-河南卫视,http://ms.fxim.net:808/hls/32/index.m3u8
-安徽卫视,http://jf.jxx2023.work:40446/tsfile/live/1007_1.m3u8
-河南卫视,http://jf.jxx2023.work:40446/tsfile/live/0139_1.m3u8
-北京卫视,http://jf.jxx2023.work:40446/tsfile/live/1031_1.m3u8
-东方卫视,http://jf.jxx2023.work:40446/tsfile/live/0107_1.m3u8
-天津卫视,http://jf.jxx2023.work:40446/tsfile/live/1081_1.m3u8
-重庆卫视,http://jf.jxx2023.work:40446/tsfile/live/0142_1.m3u8
-广东卫视,http://jf.jxx2023.work:40446/tsfile/live/1005_1.m3u8
-深圳卫视,http://jf.jxx2023.work:40446/tsfile/live/0126_1.m3u8
-浙江卫视,http://jf.jxx2023.work:40446/tsfile/live/1068_1.m3u8
-江苏卫视,http://jf.jxx2023.work:40446/tsfile/live/0127_1.m3u8
-山东卫视,http://jf.jxx2023.work:40446/tsfile/live/1078_1.m3u8
-湖南卫视,http://jf.jxx2023.work:40446/tsfile/live/1042_1.m3u8
-湖北卫视,http://jf.jxx2023.work:40446/tsfile/live/1018_1.m3u8
-东南卫视,http://jf.jxx2023.work:40446/tsfile/live/0137_1.m3u8
-广西卫视,http://jf.jxx2023.work:40446/tsfile/live/0113_1.m3u8
-云南卫视,http://jf.jxx2023.work:40446/tsfile/live/0119_1.m3u8
-贵州卫视,http://jf.jxx2023.work:40446/tsfile/live/0120_1.m3u8
-四川卫视,http://jf.jxx2023.work:40446/tsfile/live/0123_1.m3u8
-江西卫视,http://jf.jxx2023.work:40446/tsfile/live/0138_1.m3u8
-山西卫视,http://jf.jxx2023.work:40446/tsfile/live/0118_1.m3u8
-陕西卫视,http://jf.jxx2023.work:40446/tsfile/live/0136_1.m3u8
-辽宁卫视,http://jf.jxx2023.work:40446/tsfile/live/0121_1.m3u8
-吉林卫视,http://jf.jxx2023.work:40446/tsfile/live/0116_1.m3u8
-黑龙江卫视,http://jf.jxx2023.work:40446/tsfile/live/1084_1.m3u8
-河北卫视,http://jf.jxx2023.work:40446/tsfile/live/0117_1.m3u8
-海南卫视,http://jf.jxx2023.work:40446/tsfile/live/1006_1.m3u8
-西藏卫视,http://jf.jxx2023.work:40446/tsfile/live/0111_1.m3u8
-甘肃卫视,http://jf.jxx2023.work:40446/tsfile/live/0141_1.m3u8
-宁夏卫视,http://jf.jxx2023.work:40446/tsfile/live/0112_1.m3u8
-青海卫视,http://jf.jxx2023.work:40446/tsfile/live/0140_1.m3u8
-内蒙古卫视,http://jf.jxx2023.work:40446/tsfile/live/0109_1.m3u8
-兵团卫视,http://jf.jxx2023.work:40446/tsfile/live/0115_1.m3u8
-三沙卫视,http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
-农林卫视,http://jf.jxx2023.work:40446/tsfile/live/1001_1.m3u8
-康巴卫视,http://jf.jxx2023.work:40446/tsfile/live/0134_1.m3u8
-安多卫视,http://jf.jxx2023.work:40446/tsfile/live/1004_1.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
+北京卫视,http://goo.bkpcp.top/mg/bjws
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+东方卫视,http://goo.bkpcp.top/mg/dfws
+甘肃卫视,http://goo.bkpcp.top/mg/gsws
+广东卫视,http://goo.bkpcp.top/mg/gdws
+海南卫视,http://goo.bkpcp.top/mg/hinws
+河北卫视,http://goo.bkpcp.top/mg/hbws
+河南卫视,http://goo.bkpcp.top/mg/hnws
+湖北卫视,http://goo.bkpcp.top/mg/hubws
+江苏卫视,http://goo.bkpcp.top/mg/jsws
+江西卫视,http://goo.bkpcp.top/mg/jxws
+青海卫视,http://goo.bkpcp.top/mg/qhws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
+深圳卫视,http://goo.bkpcp.top/mg/szws
+新疆卫视,http://goo.bkpcp.top/mg/xjws
+云南卫视,http://goo.bkpcp.top/mg/ynws
+浙江卫视,http://goo.bkpcp.top/mg/zjws
+
+
+
+河北卫视,http://121.17.146.54:50003/hls/22/index.m3u8
+湖南卫视,http://121.17.146.54:50003/hls/35/index.m3u8
+浙江卫视,http://121.17.146.54:50003/hls/36/index.m3u8
+江苏卫视,http://121.17.146.54:50003/hls/37/index.m3u8
+北京卫视,http://121.17.146.54:50003/hls/38/index.m3u8
+东方卫视,http://121.17.146.54:50003/hls/39/index.m3u8
+天津卫视,http://121.17.146.54:50003/hls/40/index.m3u8
+深圳卫视,http://121.17.146.54:50003/hls/41/index.m3u8
+山东卫视,http://121.17.146.54:50003/hls/42/index.m3u8
+广东卫视,http://121.17.146.54:50003/hls/43/index.m3u8
+黑龙江卫视,http://121.17.146.54:50003/hls/44/index.m3u8
+辽宁卫视,http://121.17.146.54:50003/hls/45/index.m3u8
+安徽卫视,http://121.17.146.54:50003/hls/46/index.m3u8
+湖北卫视,http://121.17.146.54:50003/hls/47/index.m3u8
+四川卫视,http://121.17.146.54:50003/hls/48/index.m3u8
+重庆卫视,http://121.17.146.54:50003/hls/49/index.m3u8
+河南卫视,http://121.17.146.54:50003/hls/50/index.m3u8
+贵州卫视,http://121.17.146.54:50003/hls/51/index.m3u8
+江西卫视,http://121.17.146.54:50003/hls/52/index.m3u8
+东南卫视,http://121.17.146.54:50003/hls/53/index.m3u8
+吉林卫视,http://121.17.146.54:50003/hls/54/index.m3u8
+云南卫视,http://121.17.146.54:50003/hls/55/index.m3u8
+广西卫视,http://121.17.146.54:50003/hls/56/index.m3u8
+陕西卫视,http://121.17.146.54:50003/hls/57/index.m3u8
+山西卫视,http://121.17.146.54:50003/hls/58/index.m3u8
+内蒙古卫视,http://121.17.146.54:50003/hls/59/index.m3u8
+青海卫视,http://121.17.146.54:50003/hls/60/index.m3u8
+青海卫视,http://121.17.146.54:50003/hls/61/index.m3u8
+宁夏卫视,http://121.17.146.54:50003/hls/62/index.m3u8
+西藏卫视,http://121.17.146.54:50003/hls/63/index.m3u8
+新疆卫视,http://121.17.146.54:50003/hls/64/index.m3u8
+甘肃卫视,http://121.17.146.54:50003/hls/65/index.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+上海卫视,http://222.134.245.16:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://222.134.245.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://222.134.245.16:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://222.134.245.16:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://222.134.245.16:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://222.134.245.16:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://222.134.245.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://222.134.245.16:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://222.134.245.16:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://222.134.245.16:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://222.134.245.16:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://222.134.245.16:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://222.134.245.16:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://222.134.245.16:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://222.134.245.16:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://222.134.245.16:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://218.104.239.114:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://218.104.239.114:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.104.239.114:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://218.104.239.114:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.104.239.114:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://218.104.239.114:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://218.104.239.114:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://218.104.239.114:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://218.104.239.114:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://218.104.239.114:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://218.104.239.114:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://218.104.239.114:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.104.239.114:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://218.104.239.114:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.104.239.114:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://218.104.239.114:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://218.104.239.114:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
+湖南卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.103:5140
+北京卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.107:5140
+浙江卫视,http://ycsj.aguihome.com:4022/rtp/233.50.200.231:5140
+东方卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.125:5140
+江苏卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.106:5140
+江西卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.145:5140
+广东卫视,http://ycsj.aguihome.com:4022/rtp/233.50.200.187:5140
+东南卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.146:5140
+深圳卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.101:5140
+四川卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.139:5140
+天津卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.104:5140
+安徽卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.113:5140
+山东卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.105:5140
+河北卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.140:5140
+河南卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.144:5140
+海南卫视,http://ycsj.aguihome.com:4022/rtp/233.50.200.165:5140
+湖北卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.114:5140
+云南卫视,http://ycsj.aguihome.com:4022/rtp/233.50.200.115:5140
+吉林卫视,http://ycsj.aguihome.com:4022/rtp/233.50.202.42:5140
+贵州卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.142:5140
+辽宁卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.141:5140
+重庆卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.143:5140
+黑龙江卫视,http://ycsj.aguihome.com:4022/rtp/233.50.201.115:5140
+黑龙江卫视,http://103.70.13.229:20035/api.php?id=44762&tk=f78057ba50f41fa55d
+北京卫视,http://103.70.13.229:20035/api.php?id=88814&tk=f78057ba50f41fa55d
+浙江卫视,http://103.70.13.229:20035/api.php?id=10608&tk=f78057ba50f41fa55d
+延边卫视,http://103.70.13.229:20035/api.php?id=44931&tk=f78057ba50f41fa55d
+东方卫视,http://103.70.13.229:20035/api.php?id=89365&tk=f78057ba50f41fa55d
+陕西卫视,http://103.70.13.229:20035/api.php?id=10987&tk=f78057ba50f41fa55d
+河南卫视,http://103.70.13.229:20035/api.php?id=19443&tk=f78057ba50f41fa55d
+江西卫视,http://103.70.13.229:20035/api.php?id=12756&tk=f78057ba50f41fa55d
+江苏卫视,http://103.70.13.229:20035/api.php?id=99867&tk=f78057ba50f41fa55d
+广东卫视,http://103.70.13.229:20035/api.php?id=15693&tk=f78057ba50f41fa55d
+大湾区卫视,http://103.70.13.229:20035/api.php?id=53582&tk=f78057ba50f41fa55d
 电影轮播,#genre#
 
 龙华电影,http://122.117.71.103:8555/龙华电影.m3u8
@@ -466,7 +540,7 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-中天新闻,https://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8?
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8?
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
@@ -484,159 +558,994 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 哆啦A梦,https://stream1.freetv.fun/chi-la-ameng-1.ctv
 
 
-央视专享,#genre#
-
-CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4,http://39.164.180.36:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,http://39.164.180.36:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5+,http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://39.164.180.36:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,http://39.164.180.36:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8,http://39.164.180.36:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://39.164.180.36:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://183.186.89.226:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://183.186.89.226:8899/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://183.186.89.226:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://183.186.89.226:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://183.186.89.226:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://183.186.89.226:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://183.186.89.226:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://183.186.89.226:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://183.186.89.226:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://183.186.89.226:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://183.186.89.226:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://183.186.89.226:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CCTV1,http://42.237.183.124:7000/hls/1/index.m3u8
-CCTV2,http://42.237.183.124:7000/hls/2/index.m3u8
-CCTV3,http://42.237.183.124:7000/hls/3/index.m3u8
-CCTV4,http://42.237.183.124:7000/hls/4/index.m3u8
-CCTV5,http://42.237.183.124:7000/hls/5/index.m3u8
-CCTV5+,http://42.237.183.124:7000/hls/18/index.m3u8
-CCTV6,http://42.237.183.124:7000/hls/6/index.m3u8
-CCTV7,http://42.237.183.124:7000/hls/7/index.m3u8
-CCTV8,http://42.237.183.124:7000/hls/8/index.m3u8
-CCTV9,http://42.237.183.124:7000/hls/9/index.m3u8
-CCTV10,http://42.237.183.124:7000/hls/10/index.m3u8
-CCTV11,http://42.237.183.124:7000/hls/11/index.m3u8
-CCTV12,http://42.237.183.124:7000/hls/12/index.m3u8
-CCTV13,http://42.237.183.124:7000/hls/13/index.m3u8
-CCTV14,http://42.237.183.124:7000/hls/14/index.m3u8
-CCTV15,http://42.237.183.124:7000/hls/15/index.m3u8
-CCTV16,http://42.237.183.124:7000/hls/16/index.m3u8
-CCTV17,http://42.237.183.124:7000/hls/17/index.m3u8
-CCTV1,http://106.46.57.50:8888/hls/1/index.m3u8
-CCTV2,http://106.46.57.50:8888/hls/2/index.m3u8
-CCTV3,http://106.46.57.50:8888/hls/3/index.m3u8
-CCTV4,http://106.46.57.50:8888/hls/4/index.m3u8
-CCTV5,http://106.46.57.50:8888/hls/5/index.m3u8
-CCTV6,http://106.46.57.50:8888/hls/6/index.m3u8
-CCTV7,http://106.46.57.50:8888/hls/7/index.m3u8
-CCTV8,http://106.46.57.50:8888/hls/8/index.m3u8
-CCTV9,http://106.46.57.50:8888/hls/9/index.m3u8
-CCTV10,http://106.46.57.50:8888/hls/10/index.m3u8
-CCTV11,http://106.46.57.50:8888/hls/11/index.m3u8
-CCTV12,http://106.46.57.50:8888/hls/12/index.m3u8
-CCTV13,http://106.46.57.50:8888/hls/13/index.m3u8
-CCTV14,http://106.46.57.50:8888/hls/14/index.m3u8
-CCTV15,http://106.46.57.50:8888/hls/15/index.m3u8
-CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8  
-
-
-IPV6,#genre#
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
-东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
-广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
-江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+MTV欣赏,#genre#
+大风吹–王赫野、刘惜君,https://vdse.bdstatic.com//5b9e4be553e5ea191c4d43ee599598dc.mp4
+苹果香-黑大婶,https://vd3.bdstatic.com/mda-qgaj93dj9x88h5t5/hd/cae_h264/1720705165541140884/mda-qgaj93dj9x88h5t5.mp4
+人间烟火-程响,https://vd3.bdstatic.com/mda-nia9gqywiryyn8pk/576p/h264/1662878654763005591/mda-nia9gqywiryyn8pk.mp4
+离别开出花-南方凯,https://vd3.bdstatic.com/mda-pms0b2krq29xxie5/576p/h264/1703636201046768461/mda-pms0b2krq29xxie5.mp4
+黎明前的黑暗-白沐,https://vdse.bdstatic.com//0c147656ff124aae8b53d0fb832c4bdd.mp4
+是你-梦然,https://vdse.bdstatic.com//f5fc719eff9f5bdb2ce15147dfc76b3c.mp4
+可能-程响,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
+晚风心里吹-阿黎,https://vdse.bdstatic.com//fdd66fcdc2534a2e7e9ebe9e7c5e817c.mp4
+你的万水千山-海来阿木,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
+人生如歌-海来阿木,http://mobi.kuwo.cn/tmevideo/tme1257678.mp4
+不过人间-海来阿木,https://alimov2.a.kwimgs.com/upic/2022/05/24/17/BMjAyMjA1MjQxNzE4NDVfOTU2MzA3MDg4Xzc1MTYzNTg3MTE4XzJfMw==_b_B59a5a1b15e27caffb0f90fb528607139.mp4?clientCacheKey=3xvt6trv8frhsis_b.mp4&tt=b&di=24719086&bp=10000
+无情-若心,https://vdse.bdstatic.com//8c3e6535b1b1b67e85a02a5d66b124ef.mp4
+一个路人-张梦弘,https://vdse.bdstatic.com//2b985808630e6210244f14c10fc2bfab.mp4
+人间半途-韩小欠,https://vdse.bdstatic.com//3480c5b471af7353a02617456d5b0a5e.mp4
+安和桥-安西,https://vdse.bdstatic.com//509895890e5131ff5b39fd83b1f546a2.mp4
+遇上你是我的缘-陈晓竹,https://vdse.bdstatic.com//73d93d19e0b9516f2df0792c3556b3e5.mp4
+乌兰巴托的夜-洋澜一,https://vdse.bdstatic.com//604a5a5431e162005c2841fb53a36c97.mp4
+阿果吉曲-海来阿木,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
+暗香-沙宝亮,https://vd3.bdstatic.com/mda-jj9irtq1jriq0dd4/hd/mda-jj9irtq1jriq0dd4.mp4
+鲍勃-油城大庆等你来,http://em.21dtv.com/songs/60146885.mkv
+不染-毛不易,https://vd4.bdstatic.com/mda-pdma03c1m301kvfx/hd/cae_h264/1682172653714015934/mda-pdma03c1m301kvfx.mp4
+不如见一面-海来阿木,https://vd4.bdstatic.com/mda-pk8i94s59fhrp8vz/hd/cae_h264/1699750729441701256/mda-pk8i94s59fhrp8vz.mp4
+蔡琴-被遗忘的时光,http://em.21dtv.com/songs/60144417.mkv
+蔡琴-今宵多珍重,http://em.21dtv.com/songs/60023921.mkv
+蔡琴-绿岛小夜曲,http://em.21dtv.com/songs/60028153.mkv
+蔡琴-你一定要是个孩子,http://em.21dtv.com/songs/60139088.mkv
+蔡琴-恰似你的温柔,http://em.21dtv.com/songs/60144414.mkv
+蔡琴-月光小夜曲,http://em.21dtv.com/songs/60144415.mkv
+蔡琴-张三的歌,http://em.21dtv.com/songs/60144413.mkv
+草蜢+何洁-我只剩下自己,http://em.21dtv.com/songs/60138008.mkv
+草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
+草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+潮汐-傅梦彤,https://vd3.bdstatic.com/mda-nbt74ab6ftkdwgwq/hd/cae_h264_delogo/1646024713670431428/mda-nbt74ab6ftkdwgwq.mp4
+沉默是金,https://txmov2.a.kwimgs.com/upic/2022/03/19/17/BMjAyMjAzMTkxNzUwMjRfMTE1NzUwMzA3MV82OTk5NTY0NTkyMl8yXzM=_b_B915bf74140405097575d4a521cfcf2d4.mp4?tag=1-1647921937-std-1-1k7rs1blso-b9fc40795f7dfcfd&clientCacheKey=3xik8tnx2ezt3hq_b.mp4&tt=b&di=79c43beb&bp=12681
+陈百强-今宵多珍重,http://em.21dtv.com/songs/60023922.mkv
+陈百强-南北一家亲,http://em.21dtv.com/songs/60031082.mkv
+陈百强-念亲恩,http://em.21dtv.com/songs/60032661.mkv
+陈百强-偏偏喜欢你,http://em.21dtv.com/songs/60033420.mkv
+陈百强-天才白痴梦,http://em.21dtv.com/songs/60041756.mkv
+陈楚生+SPY.C-空,http://em.21dtv.com/songs/60145759.mkv
+陈楚生-简单而炽热的难忘,http://em.21dtv.com/songs/60146807.mkv
+陈楚生-渺小,http://em.21dtv.com/songs/60145758.mkv
+陈楚生-想念,http://em.21dtv.com/songs/60049177.mkv
+陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
+陈慧娴-黎明不要来,http://em.21dtv.com/songs/60026831.mkv
+陈慧娴-明日有明天,http://em.21dtv.com/songs/60030151.mkv
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+陈慧娴-让一切随风,http://em.21dtv.com/songs/60100587.mkv
+陈慧娴-逝去的诺言,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
+陈慧娴-逝去的诺言,http://em.21dtv.com/songs/60039551.mkv
+陈佳-恨绵绵,http://em.21dtv.com/songs/60146795.mkv
+陈俊析+蔡国庆-我和我的祖国,http://em.21dtv.com/songs/60139218.mkv
+陈俊析-小小少年,http://em.21dtv.com/songs/60138195.mkv
+陈丽娜-你的眼神,http://em.21dtv.com/songs/60138194.mkv
+陈倩倩-婴儿,http://vodcdn.video.taobao.com/oss/ali-video/4fc8d043456c092c392483bd293d0ee3/video.m3u8
+陈圣夫-听妈妈讲那过去的故事,http://em.21dtv.com/songs/60139222.mkv
+陈淑桦+李宗盛-你走你的路,http://em.21dtv.com/songs/60032576.mkv
+陈伟-家,http://em.21dtv.com/songs/60146810.mkv
+陈伟霆-因你,http://em.21dtv.com/songs/60139217.mkv
+陈以桐+许佳麟+胖胖胖-追光者,http://em.21dtv.com/songs/60146794.mkv
+陈奕迅-床头灯,http://em.21dtv.com/songs/60146798.mkv
+陈奕迅-放,http://em.21dtv.com/songs/60138202.mkv
+陈奕迅-海胆,http://em.21dtv.com/songs/60144104.mkv
+陈奕迅-马利奥派对,http://em.21dtv.com/songs/60028368.mkv
+陈奕迅-每一个明天,http://em.21dtv.com/songs/60029081.mkv
+陈奕迅-披风,http://em.21dtv.com/songs/60138201.mkv
+陈奕迅-谁来剪月光,http://em.21dtv.com/songs/60144105.mkv
+陈奕迅-喜欢一个人,http://em.21dtv.com/songs/60138200.mkv
+陈予新-无痛分手,http://em.21dtv.com/songs/60146793.mkv
+陈元汐-桃花笑,https://vd2.bdstatic.com/mda-nbg4cz1tc501zby3/sc/cae_h264_delogo/1645068400771569995/mda-nbg4cz1tc501zby3.mp4
+成龙+金喜善-美丽的神话,http://em.21dtv.com/songs/60029222.mkv
+成龙+刘涛-普通人,http://em.21dtv.com/songs/60145150.mkv
+成龙+欧阳娜娜-AWholeNewWorld,http://em.21dtv.com/songs/60143450.mkv
+成龙-男儿当自强,http://em.21dtv.com/songs/60030886.mkv
+成龙-普通人,http://em.21dtv.com/songs/60146327.mkv
+程响-不辞而别,http://em.21dtv.com/songs/60137942.mkv
+程响-不敢,http://em.21dtv.com/songs/60145458.mkv
+程响-心若倦了,http://em.21dtv.com/songs/60138999.mkv
+程响-怎么会不难过,http://em.21dtv.com/songs/60143808.mkv
+赤伶-等什么君,https://vdse.bdstatic.com//810fae68a44ca7579c2d7cb2f90ec3ef.mp4
+春庭雪-等什么君,https://vdse.bdstatic.com//0582b3bd45c7dc73d3144bd54d2f377a.mp4
+崔健-不是我不明白,http://em.21dtv.com/songs/60011382.mkv
+崔健-滚动的蛋,http://em.21dtv.com/songs/60145064.mkv
+崔健-红旗下的蛋,http://em.21dtv.com/songs/60145065.mkv
+崔健-迷失的季节,http://em.21dtv.com/songs/60145066.mkv
+崔健-农村包围城市,http://em.21dtv.com/songs/60145060.mkv
+崔健-新长征路上的摇滚,http://em.21dtv.com/songs/60050989.mkv
+崔健-最后一枪,http://em.21dtv.com/songs/60145063.mkv
+刀郎的西海情歌,https://vd2.bdstatic.com/mda-nctex3rji1v42a0w/sc/cae_h264_delogo/1648464135631429287/mda-nctex3rji1v42a0w.mp4
+刀郎经典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
+刀郎-沙枣花儿香,http://em.21dtv.com/songs/60037482.mkv
+刀郎-手心里的温柔,https://vd4.bdstatic.com/mda-kj18fhzhecfm9trb/hd/mda-kj18fhzhecfm9trb.mp4
+刀郎-守候在凌晨两点的伤心酒吧,http://em.21dtv.com/songs/60144612.mkv
+刀郎-守候在凌晨两点的伤心秀吧,https://vd3.bdstatic.com/mda-ierq2z9f1exw934e/logo/hd/mda-ierq2z9f1exw934e.mp4
+等你归来-程响,https://vdse.bdstatic.com//a3d1f9260900f7caf522089501aff9eb.mp4
+邓丽君歌曲精选九首经典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
+邓丽君-漫步人生路,http://em.21dtv.com/songs/60028564.mkv
+邓丽君-你在我心中,http://em.21dtv.com/songs/60032477.mkv
+邓紫棋+曹格-背叛,http://em.21dtv.com/songs/60143061.mkv
+邓紫棋+戴斯琪+肖茗+余赛亚-泡沫,http://em.21dtv.com/songs/60139164.mkv
+邓紫棋+余赛亚-光年之外,http://em.21dtv.com/songs/60139163.mkv
+邓紫棋-穿越火线,http://em.21dtv.com/songs/60143998.mkv
+邓紫棋-多远都要在一起,http://em.21dtv.com/songs/60143059.mkv
+邓紫棋-光年之外,http://em.21dtv.com/songs/60143057.mkv
+邓紫棋-回忆的沙漏,http://em.21dtv.com/songs/60143058.mkv
+邓紫棋-偶尔,http://em.21dtv.com/songs/60143056.mkv
+邓紫棋-泡沫,http://em.21dtv.com/songs/60143060.mkv
+邓紫棋-死了都要爱,http://em.21dtv.com/songs/60143997.mkv
+邓紫棋-桃花诺,http://em.21dtv.com/songs/60138100.mkv
+邓紫棋-心之焰,http://em.21dtv.com/songs/60138099.mkv
+迪克牛仔+刘心-有多少爱可以重来,http://em.21dtv.com/songs/60139148.mkv
+迪克牛仔+杨培安-一样的月光,http://em.21dtv.com/songs/60139149.mkv
+迪克牛仔-哭不出来,http://em.21dtv.com/songs/60139145.mkv
+迪克牛仔-男人真命苦,http://em.21dtv.com/songs/60139147.mkv
+迪克牛仔-无力去爱谁,http://em.21dtv.com/songs/60139146.mkv
+堕-戴羽彤,https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
+额尔古纳乐队-你的歌声风中飞来,http://em.21dtv.com/songs/60146856.mkv
+非凡STAR-七彩童年梦,http://em.21dtv.com/songs/60146838.mkv
+非明荣-一路唱到天安门,http://em.21dtv.com/songs/60145791.mkv
+风含情水含笑,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzE4NTBfOTU2MzA3MDg4Xzc2Mjg3Nzk4NzQ0XzJfMw==_b_B375987d14e51a79300421bd54ea37707.mp4?clientCacheKey=3xdmpwqivcha8zy_b.mp4&tt=b&di=24716420&bp=10000
+风里不回顾,https://vd4.bdstatic.com/mda-ki9cb4fxn0sqye1j/v1-cae/sc/mda-ki9cb4fxn0sqye1j.mp4?auth_key=1602767887-0-0-03f60c0e1a1598f74b2109d998f8feaa&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=791&split=826606
+风飘飘雨潇潇,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzIwNDRfOTU2MzA3MDg4Xzc2Mjg3ODY4NTM2XzJfMw==_b_B2cff790b56fd451f175022efebb2cef7.mp4?clientCacheKey=3x3eqjh3uhigy6i_b.mp4&tt=b&di=24716420&bp=10000
+风小筝-青狐媚,http://em.21dtv.com/songs/60138254.mkv
+风又吹过八千里,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzAxNThfOTU2MzA3MDg4Xzc3MDEyNDkzNzU5XzJfMw==_b_Ba5cd9a2445fd2602409c4c10188c674d.mp4?clientCacheKey=3xrnrr329s623kq_b.mp4&tt=b&di=24710b6c&bp=10000
+风雨-爱的路上永相随,http://em.21dtv.com/songs/60138260.mkv
+风雨人生路,https://vd3.bdstatic.com/mda-ncr16tqsb7t1zga1/1080p/cae_h264_delogo/1648328484303840898/mda-ncr16tqsb7t1zga1.mp4
+风雨-为你心碎为你沉醉,http://em.21dtv.com/songs/60146859.mkv
+风语-放不下的牵挂,http://em.21dtv.com/songs/60138255.mkv
+风语-花落雨季,http://em.21dtv.com/songs/60146858.mkv
+风语-苦涩的爱,http://em.21dtv.com/songs/60138258.mkv
+风语-深海的鱼,http://em.21dtv.com/songs/60139289.mkv
+风语-水仙诉,http://em.21dtv.com/songs/60138257.mkv
+风语-水烟隔千城,http://em.21dtv.com/songs/60145800.mkv
+风语-无奈的放弃,http://em.21dtv.com/songs/60138256.mkv
+风语-再唱梅殇吟,http://em.21dtv.com/songs/60146857.mkv
+风语-醉枣醉,http://em.21dtv.com/songs/60138259.mkv
+风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
+风中有朵雨做的云,https://txmov2.a.kwimgs.com/upic/2022/07/03/06/BMjAyMjA3MDMwNjM1MjJfOTU2MzA3MDg4Xzc4MTk4NTM1Mzk2XzJfMw==_b_B4e1045328a86ba67d557d0b5adc35009.mp4?clientCacheKey=3xt2vzxqdz3xzf2_b.mp4&tt=b&di=2471916f&bp=10000
+冯提莫+FOGGIRA-识龙虾啤酒火锅等夜食者为俊杰,http://em.21dtv.com/songs/60144799.mkv
+冯提莫-空心,http://em.21dtv.com/songs/60146024.mkv
+冯提莫-沈洁洁,http://em.21dtv.com/songs/60146023.mkv
+凤凰传奇-策马奔腾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
+凤凰传奇-歌唱二小放牛郎,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
+凤凰传奇-光芒,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
+凤凰传奇-荷塘月色,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
+凤凰传奇-华夏传说,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
+凤凰传奇-今生的缘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
+凤凰传奇-奇迹世界,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_954805&response=res&format=mp4&type=convert_url
+凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
+凤凰传奇-温柔姑娘,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6401404&response=res&format=mp4&type=convert_url
+凤凰传奇-御龙归字谣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
+凤凰传奇-远方的远方还是远方,http://em.21dtv.com/songs/60143152.mkv
+凤凰传奇-月亮之上,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
+凤凰传奇-中国味道,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042021&response=res&format=mp4&type=convert_url
+凤凰传奇-自由飞翔,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
+凤凰传奇-自由自在,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042025&response=res&format=mp4&type=convert_url
+凤凰传奇-走天涯,http://em.21dtv.com/songs/60144611.mkv
+凤凰飞,https://alimov2.a.kwimgs.com/upic/2022/06/23/06/BMjAyMjA2MjMwNjU3MzFfOTU2MzA3MDg4Xzc3NDAwMzEyMzQxXzJfMw==_b_Bc4c9bf6711b2d6c2f7ea0d360dcd95ea.mp4?clientCacheKey=3xjs7bvgmjgaxy2_b.mp4&tt=b&di=24710b6c&bp=10000
+凤凰花开,https://txmov2.a.kwimgs.com/upic/2022/06/18/07/BMjAyMjA2MTgwNzIyNTdfOTU2MzA3MDg4Xzc3MDEzMzE0MjU5XzJfMw==_b_B2a29bdcf567e9966a530df3a4ca17b32.mp4?clientCacheKey=3xngqgm33b67e2i_b.mp4&tt=b&di=24710b6c&bp=10000
+高爱国-想起你,http://em.21dtv.com/songs/60144222.mkv
+高安-你是我的幸福,http://em.21dtv.com/songs/60144221.mkv
+高安-天涯各一方,http://em.21dtv.com/songs/60139297.mkv
+高安-为你所困,http://em.21dtv.com/songs/60146879.mkv
+高安-勿忘我,http://em.21dtv.com/songs/60145817.mkv
+高安-中华大舞台,http://em.21dtv.com/songs/60144220.mkv
+高夫-别把爱你的人弄丢了,http://em.21dtv.com/songs/60139296.mkv
+高进-幻觉,http://em.21dtv.com/songs/60138283.mkv
+高进-靠自己,http://em.21dtv.com/songs/60145820.mkv
+高俊-布依圣境,http://em.21dtv.com/songs/60138271.mkv
+高恺蔚-让一切重来,http://em.21dtv.com/songs/60138280.mkv
+高兰萨朵-在彼岸盛开,http://em.21dtv.com/songs/60144209.mkv
+高丽云-思念家乡,http://em.21dtv.com/songs/60138267.mkv
+高敏-辉腾锡勒请你来,http://em.21dtv.com/songs/60145818.mkv
+高启翔-不等你,http://em.21dtv.com/songs/60146875.mkv
+高启翔-你的猫还趴在我的阳台上,http://em.21dtv.com/songs/60146876.mkv
+高启翔-雨天,http://em.21dtv.com/songs/60146877.mkv
+高山青,https://vd2.bdstatic.com/mda-nbekkfmj84v41mdb/fhd/cae_h264_nowatermark_delogo/1645045236575576660/mda-nbekkfmj84v41mdb.mp4
+高胜美-采槟榔,http://em.21dtv.com/songs/60138282.mkv
+高胜美-你走你的路,http://em.21dtv.com/songs/60032577.mkv
+高胜美-追梦人,http://em.21dtv.com/songs/60138281.mkv
+高天-不醉不回家,http://em.21dtv.com/songs/60146878.mkv
+高向鹏+邓咏家-沉重的负担,http://em.21dtv.com/songs/60144218.mkv
+高向鹏+邓咏家-雨中情绵绵,http://em.21dtv.com/songs/60144219.mkv
+高向鹏+文显-皇帝命,http://em.21dtv.com/songs/60144217.mkv
+高向鹏-白云我问你,http://em.21dtv.com/songs/60144214.mkv
+高向鹏-出外条条难,http://em.21dtv.com/songs/60144210.mkv
+高向鹏-老兄行酒楼,http://em.21dtv.com/songs/60026442.mkv
+高向鹏-情煞无是非,http://em.21dtv.com/songs/60144213.mkv
+高向鹏-莎唷娜拉,http://em.21dtv.com/songs/60144216.mkv
+高向鹏-思念的开始,http://em.21dtv.com/songs/60144212.mkv
+高向鹏-心痴迷,http://em.21dtv.com/songs/60144211.mkv
+高向鹏-自由人生,http://em.21dtv.com/songs/60144215.mkv
+高晓攀-问莲鱼说,http://em.21dtv.com/songs/60139298.mkv
+高一清-不若相见,http://em.21dtv.com/songs/60145816.mkv
+高翊菲-爱上兵哥哥,http://em.21dtv.com/songs/60144223.mkv
+高翊菲-泸沽湖的女儿,http://em.21dtv.com/songs/60145819.mkv
+高音敏子+原乡-一梦枕江南,http://em.21dtv.com/songs/60144224.mkv
+高咏梅-红梅赞,http://em.21dtv.com/songs/60138279.mkv
+高咏梅-洪湖水浪打浪,http://em.21dtv.com/songs/60138275.mkv
+高咏梅-梨花颂,http://em.21dtv.com/songs/60138274.mkv
+高咏梅-秦岭最美是商洛,http://em.21dtv.com/songs/60138278.mkv
+高咏梅-清粼粼的水蓝莹莹的天,http://em.21dtv.com/songs/60138276.mkv
+高咏梅-五洲人民齐欢笑,http://em.21dtv.com/songs/60138273.mkv
+高咏梅-祖国之恋,http://em.21dtv.com/songs/60138277.mkv
+高原天籁-最美的相遇,http://em.21dtv.com/songs/60138272.mkv
+高云翔+蔡宜达-让我一次爱个够,http://em.21dtv.com/songs/60138270.mkv
+高云翔+王珞丹-潇洒走一回千年等一回,http://em.21dtv.com/songs/60138269.mkv
+高云翔-改变自己,http://em.21dtv.com/songs/60139294.mkv
+高云翔-情人,http://em.21dtv.com/songs/60138268.mkv
+高云翔-绅士,http://em.21dtv.com/songs/60139295.mkv
+隔壁团-再见十八岁,http://em.21dtv.com/songs/60139265.mkv
+龚宏-黑键,http://em.21dtv.com/songs/60145858.mkv
+龚宏-小孩,http://em.21dtv.com/songs/60145857.mkv
+龚琳娜-将界,http://em.21dtv.com/songs/60138331.mkv
+龚淑均+丁少华-清风来过,http://em.21dtv.com/songs/60144247.mkv
+龚月-念亲恩,http://em.21dtv.com/songs/60032662.mkv
+龚玥-秋风凉想亲娘,http://em.21dtv.com/songs/60146909.mkv
+孤独的王-海来阿木,http://mobi.kuwo.cn/tmevideo/tme1257703.mp4
+光良+曹格-少年,http://em.21dtv.com/songs/60038120.mkv
+光良-第一次,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+光良-九种使用孤独的正确方式,http://em.21dtv.com/songs/60146018.mkv
+海市蜃楼-一颗狼星,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
+韩安旭-最痛的告白,http://em.21dtv.com/songs/60146845.mkv
+韩宝仪-一曲相思唱不完,http://em.21dtv.com/songs/60145795.mkv
+韩冰+云朵-情歌赛过春江水,http://em.21dtv.com/songs/60138240.mkv
+韩丹彤-十年,http://em.21dtv.com/songs/60139278.mkv
+韩丹彤-勇气,http://em.21dtv.com/songs/60139277.mkv
+韩东-老妹你真美,http://em.21dtv.com/songs/60138238.mkv
+韩栋+韩雪-空情,http://em.21dtv.com/songs/60139282.mkv
+韩健-信仰的图腾,http://em.21dtv.com/songs/60146843.mkv
+韩俊林-兄弟干了这杯酒,http://em.21dtv.com/songs/60139279.mkv
+韩俊林-原来我什么都不好,http://em.21dtv.com/songs/60139280.mkv
+韩磊+隋佶辰+王小小+李晓旭-走四方,http://em.21dtv.com/songs/60139284.mkv
+韩磊+王小小-花开在眼前,http://em.21dtv.com/songs/60139283.mkv
+韩磊-白鹿原,http://em.21dtv.com/songs/60138241.mkv
+韩磊和模仿者演唱《等待》,https://vd4.bdstatic.com/mda-kecnpbu2bmvydajf/v1-cae/sc/mda-kecnpbu2bmvydajf.mp4
+韩磊-我站立的地方是中国,http://em.21dtv.com/songs/60145797.mkv
+韩夏-再见,http://em.21dtv.com/songs/60144166.mkv
+韩一菲-不要迷恋姐,http://em.21dtv.com/songs/60138237.mkv
+韩勇+傅又宣-BETTERTHISWAY,http://em.21dtv.com/songs/60146844.mkv
+韩再芬-谁料皇榜中状元,http://em.21dtv.com/songs/60146926.mkv
+韩子豪-词人歌者,http://em.21dtv.com/songs/60145794.mkv
+黑豹乐队+于谦-Don'tBreakMyHeart,http://em.21dtv.com/songs/60138321.mkv
+黑豹乐队-低头士,http://em.21dtv.com/songs/60138315.mkv
+黑豹乐队-干杯,http://em.21dtv.com/songs/60138317.mkv
+黑豹乐队-孤独的灵魂,http://em.21dtv.com/songs/60139327.mkv
+黑豹乐队-靠近我,http://em.21dtv.com/songs/60138320.mkv
+黑豹乐队-为所有爱我们的人,http://em.21dtv.com/songs/60138314.mkv
+黑豹乐队-无地自容,http://em.21dtv.com/songs/60138318.mkv
+黑豹乐队-无畏,http://em.21dtv.com/songs/60138319.mkv
+黑豹乐队-兄弟,http://em.21dtv.com/songs/60138316.mkv
+黑哥-百善孝为先,http://em.21dtv.com/songs/60138312.mkv
+黑哥-是错了的爱还是我爱的错,http://em.21dtv.com/songs/60139326.mkv
+黑龙+利哥-棒打鸳鸯,http://em.21dtv.com/songs/60144239.mkv
+黑龙-几十年,http://em.21dtv.com/songs/60139328.mkv
+黑龙-请别离开我,http://em.21dtv.com/songs/60035501.mkv
+黑撒-校花隔壁的流川枫,http://em.21dtv.com/songs/60138313.mkv
+黑鸭子-让我们荡起双桨,http://em.21dtv.com/songs/60144430.mkv
+黑羽-从此有个你,http://em.21dtv.com/songs/60146902.mkv
+黑月光-张碧晨、毛不易,https://vdse.bdstatic.com//db9fa2ffce30c8bce8959b5a8856cfa1.mp4
+黑卓-趿拉板鞋,http://em.21dtv.com/songs/60145850.mkv
+鸿飞-慢慢爱你,http://em.21dtv.com/songs/60138285.mkv
+鸿飞-说走就走,http://em.21dtv.com/songs/60138286.mkv
+鸿雁-大喜的日子,http://em.21dtv.com/songs/60145826.mkv
+后来遇见他-胡66,https://vd3.bdstatic.com/mda-kfpdfub83r7vea48/hd/mda-kfpdfub83r7vea48.mp4
+花僮-爱不关己,http://em.21dtv.com/songs/60143862.mkv
+花僮-爱逃,http://em.21dtv.com/songs/60137998.mkv
+华语群星-宝贝的新朋友,http://em.21dtv.com/songs/60146082.mkv
+华语群星-明日之子,http://em.21dtv.com/songs/60143185.mkv
+华语群星-认真的雪,http://em.21dtv.com/songs/60143186.mkv
+华语群星-如果你相信,http://em.21dtv.com/songs/60144849.mkv
+华语群星-水手很忙+牛仔怕水,http://em.21dtv.com/songs/60144850.mkv
+华语群星-送别,http://em.21dtv.com/songs/60138505.mkv
+华语群星-我管你,http://em.21dtv.com/songs/60143184.mkv
+华语群星-新时代,http://em.21dtv.com/songs/60146083.mkv
+黄博-民富国强少年梦,http://em.21dtv.com/songs/60144231.mkv
+黄慈轩+电流妹-小公举,http://em.21dtv.com/songs/60146897.mkv
+黄慈轩-没有你的梦,http://em.21dtv.com/songs/60146896.mkv
+黄慈轩-喵了个咪,http://em.21dtv.com/songs/60139318.mkv
+黄观-一首伤感的情歌,http://em.21dtv.com/songs/60139321.mkv
+黄贯中-大英雄,http://em.21dtv.com/songs/60139322.mkv
+黄贯中-请将手放开,http://em.21dtv.com/songs/60035527.mkv
+黄贯中-醒你,http://em.21dtv.com/songs/60051182.mkv
+黄国伦-我不睡,http://em.21dtv.com/songs/60138294.mkv
+黄鹤翔-陪您变老,http://em.21dtv.com/songs/60139323.mkv
+黄红英-初次尝到寂寞,http://em.21dtv.com/songs/60144427.mkv
+黄纪福-给你一个美好的明天,http://em.21dtv.com/songs/60146901.mkv
+黄家强-醒你,http://em.21dtv.com/songs/60051183.mkv
+黄剑文-爱人们,http://em.21dtv.com/songs/60144230.mkv
+黄金豆-让我们荡起双桨,http://em.21dtv.com/songs/60138311.mkv
+黄娟-来生你在我还来,http://em.21dtv.com/songs/60146889.mkv
+黄凯芹-每一个晚上,http://em.21dtv.com/songs/60029087.mkv
+黄凯芹-你留我在此,http://em.21dtv.com/songs/60031902.mkv
+黄凯芹-若生命等候,http://em.21dtv.com/songs/60037108.mkv
+黄凯芹-深秋立楼头,http://em.21dtv.com/songs/60129834.mkv
+黄凯芹-相爱很难,http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
+黄可门-新一曲红尘,http://em.21dtv.com/songs/60138293.mkv
+黄鲲-小鸡咕叽咕叽,http://em.21dtv.com/songs/60144238.mkv
+黄立绮-不痛不痛,http://em.21dtv.com/songs/60138303.mkv
+黄立绮-不想成为那一种大人,http://em.21dtv.com/songs/60138302.mkv
+黄立绮-限定款,http://em.21dtv.com/songs/60138304.mkv
+黄丽萍-节日欢歌,http://em.21dtv.com/songs/60139308.mkv
+黄龄-问情,http://em.21dtv.com/songs/60139324.mkv
+黄路梓茵-倒霉农场,http://em.21dtv.com/songs/60145844.mkv
+黄路梓茵-美小鸭,http://em.21dtv.com/songs/60144235.mkv
+黄路梓茵-全都给你了,http://em.21dtv.com/songs/60145845.mkv
+黄美珍-旋转木马的独白,http://em.21dtv.com/songs/60145841.mkv
+黄明志-击败人,http://em.21dtv.com/songs/60139319.mkv
+黄明志-啪啪啪,http://em.21dtv.com/songs/60145838.mkv
+黄品源+任贤齐-浪花一朵朵,http://em.21dtv.com/songs/60026219.mkv
+黄品源+万芳-小薇,http://em.21dtv.com/songs/60139315.mkv
+黄品源-不想说再见,http://em.21dtv.com/songs/60139310.mkv
+黄品源-海浪,http://em.21dtv.com/songs/60139313.mkv
+黄品源-那么爱你为什么,http://em.21dtv.com/songs/60139314.mkv
+黄品源-你怎么舍得我难过,http://em.21dtv.com/songs/60139311.mkv
+黄品源-原来有你,http://em.21dtv.com/songs/60139312.mkv
+黄琦珊-一样的月光,http://em.21dtv.com/songs/60053818.mkv
+黄绮珊+郑洁-一起来,http://em.21dtv.com/songs/60138310.mkv
+黄绮珊-爱得太多,http://em.21dtv.com/songs/60138309.mkv
+黄绮珊-灯塔,http://em.21dtv.com/songs/60138308.mkv
+黄绮珊-思念,http://em.21dtv.com/songs/60138307.mkv
+黄绮珊-坦诉,http://em.21dtv.com/songs/60138306.mkv
+黄绮珊-只有你,http://em.21dtv.com/songs/60138305.mkv
+黄荣猷-继续重聚,http://em.21dtv.com/songs/60145843.mkv
+黄姗姗-盛夏,http://em.21dtv.com/songs/60145833.mkv
+黄少谷-忘记哭,http://em.21dtv.com/songs/60146891.mkv
+黄淑惠-嘿,http://em.21dtv.com/songs/60138301.mkv
+黄淑惠-危险世界,http://em.21dtv.com/songs/60145840.mkv
+黄舒行-孤独,http://em.21dtv.com/songs/60145842.mkv
+黄思思-爱在月照河,http://em.21dtv.com/songs/60138296.mkv
+黄思思-请到哨卡来,http://em.21dtv.com/songs/60138297.mkv
+黄婷婷-黑夜女神,http://em.21dtv.com/songs/60145834.mkv
+黄婷婷-星光闪耀,http://em.21dtv.com/songs/60139316.mkv
+黄霆睿-天堂不是想像,http://em.21dtv.com/songs/60144236.mkv
+黄望二-烂醉如泥,http://em.21dtv.com/songs/60138299.mkv
+黄伟霖+郭少轩-寂寞魂,http://em.21dtv.com/songs/60145832.mkv
+黄伟霖-MYLOVE,http://em.21dtv.com/songs/60145830.mkv
+黄伟霖-残月,http://em.21dtv.com/songs/60145831.mkv
+黄伟燐-伟大论,http://em.21dtv.com/songs/60144229.mkv
+黄文武-讲不出的秘密,http://em.21dtv.com/songs/60138298.mkv
+黄汐源-半明半暗,http://em.21dtv.com/songs/60145839.mkv
+黄汐源-血色旅店,http://em.21dtv.com/songs/60146900.mkv
+黄小琥-白天不懂夜的黑,http://em.21dtv.com/songs/60144232.mkv
+黄小琥-没那么简单,http://em.21dtv.com/songs/60028730.mkv
+黄小琥-坦白,http://em.21dtv.com/songs/60145837.mkv
+黄小琥-突然的自我,http://em.21dtv.com/songs/60042926.mkv
+黄小举-我无所谓两败俱伤,http://em.21dtv.com/songs/60146890.mkv
+黄晓明-你在我心上,http://em.21dtv.com/songs/60032476.mkv
+黄星瑞-有点灰,http://em.21dtv.com/songs/60146899.mkv
+黄星羱-喵喵喵,http://em.21dtv.com/songs/60139320.mkv
+黄旭+艾福杰尼-TOGETHERWEPLAY,http://em.21dtv.com/songs/60146898.mkv
+黄妍-大童,http://em.21dtv.com/songs/60146888.mkv
+黄耀明+容祖儿-你还爱我吗,http://em.21dtv.com/songs/60031732.mkv
+黄意雅-YouReMyEverything,http://em.21dtv.com/songs/60144233.mkv
+黄莺莺-哭砂,http://em.21dtv.com/songs/60144428.mkv
+黄莺莺-葬心,http://em.21dtv.com/songs/60144429.mkv
+黄永兴-老爸,http://em.21dtv.com/songs/60138300.mkv
+黄勇+小琢-花桥情歌,http://em.21dtv.com/songs/60139309.mkv
+黄勇-朋友听我说,http://em.21dtv.com/songs/60138292.mkv
+黄宇-你是我永远放不下的缘,http://em.21dtv.com/songs/60145836.mkv
+黄云龙-诸葛说,http://em.21dtv.com/songs/60145829.mkv
+黄韵玲+古洁縈-喜欢你现在的样子,http://em.21dtv.com/songs/60145846.mkv
+黄韵玲+肖凯晔-生命中的精灵,http://em.21dtv.com/songs/60145847.mkv
+黄韵琴-YouOughtaKnow,http://em.21dtv.com/songs/60144237.mkv
+黄沾道,http://em.21dtv.com/songs/60146932.mkv
+黄执雄+孙权-机务的玫瑰,http://em.21dtv.com/songs/60144234.mkv
+黄志权-天空,http://em.21dtv.com/songs/60146892.mkv
+黄志权-要冲开一切,http://em.21dtv.com/songs/60146894.mkv
+黄志权-自由,http://em.21dtv.com/songs/60146893.mkv
+黄中原-最害怕唱情歌,http://em.21dtv.com/songs/60139307.mkv
+黄子韬-还来得及,http://em.21dtv.com/songs/60139317.mkv
+黄子韬-想成为你,http://em.21dtv.com/songs/60145835.mkv
+黄宗泽-全角度爱你,http://em.21dtv.com/songs/60035881.mkv
+黄尊-要火,http://em.21dtv.com/songs/60138295.mkv
+会开花的云-王樾安,https://vdse.bdstatic.com//1d83954522a4a142281b8e1445992845.mp4
+霍尊+王奕程-茉莉花,http://em.21dtv.com/songs/60147956.mkv
+霍尊-美丽的神话,http://em.21dtv.com/songs/60111516.mkv
+霍尊-茉莉花,http://em.21dtv.com/songs/60147957.mkv
+霍尊-桃花雨,http://em.21dtv.com/songs/60144163.mkv
+江珊+RichardMarx-RightHereWaiting(跨界歌王),http://em.21dtv.com/songs/60138915.mkv
+江珊-MoonRiverDancingQueen,http://em.21dtv.com/songs/60137822.mkv
+江珊-TimeToSayGoodbye(跨界歌王),http://em.21dtv.com/songs/60138913.mkv
+江珊-歌剧魅影,http://em.21dtv.com/songs/60138914.mkv
+江淑娜-烟雨蒙蒙,http://em.21dtv.com/songs/60137821.mkv
+靳东-你不孤单,http://em.21dtv.com/songs/60144164.mkv
+靖儿-SayALittleWord,http://em.21dtv.com/songs/60138233.mkv
+靖哥哥-为你心碎为你沉醉,http://em.21dtv.com/songs/60146837.mkv
+九百九十九朵玫瑰,https://alimov2.a.kwimgs.com/upic/2022/07/07/05/BMjAyMjA3MDcwNTAyMTZfOTU2MzA3MDg4Xzc4NTI5ODg4MTk4XzJfMw==_b_B8860aa2ee584edec1f9aa40953314359.mp4?clientCacheKey=3xbrye78mbv2qe4_b.mp4&tt=b&di=24712094&bp=10000
+九妹,https://vd3.bdstatic.com/mda-kivta2jde42bpdqz/sc/cae_h264_clips/mda-kivta2jde42bpdqz.mp4?auth_key=1602763603-0-0-e6d932a08a5ae401335667294c9a3163&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=1232&split=1199309
+九月九的酒',https://alimov2.a.kwimgs.com/upic/2022/08/13/05/BMjAyMjA4MTMwNTI5NDNfOTU2MzA3MDg4XzgxNjgyMzI0MTA0XzJfMw==_b_B47520b4e5303dd59437f957e1cf4c9e3.mp4?clientCacheKey=3xhgeusyevt5a86_b.mp4&tt=b&di=24710b75&bp=10000
+鞠红川+唐伯虎-FALLINGSLOWLY,http://em.21dtv.com/songs/60145792.mkv
+鞠红川+唐伯虎-当你老了,http://em.21dtv.com/songs/60145793.mkv
+鞠红川+唐伯虎-我要你,http://em.21dtv.com/songs/60139275.mkv
+鞠红川+唐伯虎-只要有你我,http://em.21dtv.com/songs/60146839.mkv
+鞠婧祎-等不到你,http://em.21dtv.com/songs/60138234.mkv
+雷安娜-今宵多珍重,http://em.21dtv.com/songs/60023924.mkv
+雷琛瑜-无神论,http://em.21dtv.com/songs/60146836.mkv
+雷二狗-当爱情变成亲情,http://em.21dtv.com/songs/60139273.mkv
+雷二狗-女人和家,http://em.21dtv.com/songs/60139272.mkv
+雷佳-春蚕,http://em.21dtv.com/songs/60145786.mkv
+雷佳-水墨中国,http://em.21dtv.com/songs/60145787.mkv
+雷鸣-武隆老家,http://em.21dtv.com/songs/60139274.mkv
+雷生冬-喝了这杯酒,http://em.21dtv.com/songs/60145788.mkv
+雷有辉+邓建明-曙光,http://em.21dtv.com/songs/60039780.mkv
+雷雨哥-夕爱,http://em.21dtv.com/songs/60145789.mkv
+黎朝霞-思念,http://em.21dtv.com/songs/60145849.mkv
+黎丹-受伤的女人,http://em.21dtv.com/songs/60144644.mkv
+黎明-遇见,http://em.21dtv.com/songs/60145848.mkv
+黎晓阳-MrWeatherMan,http://em.21dtv.com/songs/60139325.mkv
+李克勤+6号-黑胶,http://em.21dtv.com/songs/60143534.mkv
+李克勤+梁荣忠-恋爱大过天,http://em.21dtv.com/songs/60026999.mkv
+李克勤+容祖儿-时间的错,http://em.21dtv.com/songs/60137698.mkv
+李克勤-龙须糖,http://em.21dtv.com/songs/60146386.mkv
+李克勤-偶尔平凡,http://em.21dtv.com/songs/60137697.mkv
+李克勤-缱绻星光下,http://em.21dtv.com/songs/60034340.mkv
+李克勤-球迷奇遇记,http://em.21dtv.com/songs/60035810.mkv
+李克勤-三千零一夜,http://em.21dtv.com/songs/60037285.mkv
+李克勤-谁最爱你,http://em.21dtv.com/songs/60145217.mkv
+李克勤-失魂记,http://em.21dtv.com/songs/60143533.mkv
+李玲玉-江南吟,http://em.21dtv.com/songs/60143551.mkv
+李荣浩+毛不易+马伯骞-模型,http://em.21dtv.com/songs/60146412.mkv
+李荣浩+闫峻-演员和歌手,http://em.21dtv.com/songs/60145238.mkv
+李荣浩+张泽-内疚,http://em.21dtv.com/songs/60145237.mkv
+李荣浩-歌谣,http://em.21dtv.com/songs/60145236.mkv
+李荣浩-就这样,http://em.21dtv.com/songs/60138835.mkv
+李荣浩-嗯,http://em.21dtv.com/songs/60137734.mkv
+李荣浩-裙姊,http://em.21dtv.com/songs/60143563.mkv
+李荣浩-如果有一天,http://em.21dtv.com/songs/60145234.mkv
+李荣浩-我看着你的时候,http://em.21dtv.com/songs/60145235.mkv
+李荣浩-祝你幸福,http://em.21dtv.com/songs/60146411.mkv
+李若希-追忆,http://em.21dtv.com/songs/60145233.mkv
+李玟-你在我心上,http://em.21dtv.com/songs/60032475.mkv
+李翊君+江宏恩-放心,http://em.21dtv.com/songs/60137732.mkv
+李翊君-爱情路口,http://em.21dtv.com/songs/60137729.mkv
+李翊君-背叛无所谓,http://em.21dtv.com/songs/60137730.mkv
+李翊君-倒数,http://em.21dtv.com/songs/60137728.mkv
+李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
+李翊君-自在,http://em.21dtv.com/songs/60137731.mkv
+李宇春+彭雅纯+周君怡+刘思良-下个路口见,http://em.21dtv.com/songs/60138821.mkv
+李宇春+彭雅纯-再不疯狂我们就老了,http://em.21dtv.com/songs/60138820.mkv
+李宇春-春风十里[演唱会],http://em.21dtv.com/songs/60137701.mkv
+李宇春-零点五英里,http://em.21dtv.com/songs/60027451.mkv
+李宇春-一百种热爱,http://em.21dtv.com/songs/60138819.mkv
+李玉刚+徐天意+祝颂皓+杨姣-新贵妃醉酒,http://em.21dtv.com/songs/60138831.mkv
+李玉刚+徐天意-刚好遇见你,http://em.21dtv.com/songs/60138830.mkv
+李玉刚-清明上河图,http://em.21dtv.com/songs/60034888.mkv
+李玉刚-长安故事,http://em.21dtv.com/songs/60137721.mkv
+梁静茹-纯真,http://em.21dtv.com/songs/60013402.mkv
+梁静茹-秘果,http://em.21dtv.com/songs/60138885.mkv
+梁静茹-如果有一天,http://em.21dtv.com/songs/60036968.mkv
+梁静茹-我就知道那是爱,http://em.21dtv.com/songs/60143618.mkv
+林子祥+何洁-决定,http://em.21dtv.com/songs/60137774.mkv
+林子祥+林凯轩+林志程+黄嘉玲-男儿当自强,http://em.21dtv.com/songs/60138875.mkv
+林子祥+谢安琪-俩忘烟水里,http://em.21dtv.com/songs/60076405.mkv
+林子祥-每一个晚上,http://em.21dtv.com/songs/60029088.mkv
+林子祥-男儿当自强,http://em.21dtv.com/songs/60030887.mkv
+林子祥-千亿个夜晚,http://em.21dtv.com/songs/60034180.mkv
+刘德华+林子祥-每一个晚上,http://em.21dtv.com/songs/60029089.mkv
+刘德华+炫棋儿,http://em.21dtv.com/songs/60146043.mkv
+刘德华-缠绵,http://em.21dtv.com/songs/60012256.mkv
+刘德华-开心的马骝,http://em.21dtv.com/songs/60025029.mkv
+刘德华-美丽的一天,http://em.21dtv.com/songs/60029247.mkv
+刘德华-亲爱的小孩,http://em.21dtv.com/songs/60069725.mkv
+刘德华-如果有一天,http://em.21dtv.com/songs/60036969.mkv
+刘德华-十年,http://em.21dtv.com/songs/60038982.mkv
+刘德华-世界第一等,http://em.21dtv.com/songs/60039259.mkv
+刘德华-香港北京道一号,http://em.21dtv.com/songs/60146042.mkv
+刘欢+陈奕迅-菊花台,http://em.21dtv.com/songs/60138492.mkv
+刘欢+那英+周杰伦+陈奕迅-沧海一声笑,http://em.21dtv.com/songs/60138491.mkv
+刘欢+那英-过把瘾,http://em.21dtv.com/songs/60138490.mkv
+刘欢+周杰伦-一笑而过^你的背包,http://em.21dtv.com/songs/60138489.mkv
+刘欢-落叶,http://em.21dtv.com/songs/60146056.mkv
+刘欢-情怨,http://em.21dtv.com/songs/60146055.mkv
+刘欢-夜,http://em.21dtv.com/songs/60146053.mkv
+刘涛-等着你回来,http://em.21dtv.com/songs/60138496.mkv
+刘涛-剪爱,http://em.21dtv.com/songs/60138495.mkv
+刘惜君+毛不易-芬芳一生,http://em.21dtv.com/songs/60144820.mkv
+刘惜君-万水千山总是情,http://em.21dtv.com/songs/60043311.mkv
+刘惜君-罪,http://em.21dtv.com/songs/60146048.mkv
+刘惜君-醉里红尘,http://em.21dtv.com/songs/60143174.mkv
+流光飞舞-刘惜君,https://vdse.bdstatic.com//6d264d7f88af58131b764dfa5f6b9b48.mp4
+龙飞+马昕-风雨醉情缘,http://em.21dtv.com/songs/60144246.mkv
+龙梅子-等爱,http://em.21dtv.com/songs/60144334.mkv
+龙梅子-苦雨,http://em.21dtv.com/songs/60139334.mkv
+龙梅子-离别的眼泪,http://em.21dtv.com/songs/60145855.mkv
+龙梅子-恋爱协议书,http://em.21dtv.com/songs/60144245.mkv
+龙梅子-逆风者,http://em.21dtv.com/songs/60146908.mkv
+龙梅子-下辈子做你的女人,http://em.21dtv.com/songs/60144645.mkv
+龙飘飘-不能不想你,http://em.21dtv.com/songs/60138329.mkv
+龙飘飘-恨你情难守,http://em.21dtv.com/songs/60138330.mkv
+龙飘飘-我没醉,http://em.21dtv.com/songs/60145856.mkv
+笼-张碧晨,https://vdse.bdstatic.com//4bdcb4bcdbe1e694e556fd42159a165b.mp4
+鲁朝阳-中国梦我的梦,http://em.21dtv.com/songs/60146884.mkv
+鲁士郎-那些,http://em.21dtv.com/songs/60139303.mkv
+鹿晗+AR-零界点,http://em.21dtv.com/songs/60139305.mkv
+鹿晗-触发,http://em.21dtv.com/songs/60139304.mkv
+鹿晗-心率,http://em.21dtv.com/songs/60146887.mkv
+鹿晗-夜行记,http://em.21dtv.com/songs/60138290.mkv
+鹿晗-追梦赤子心,http://em.21dtv.com/songs/60145828.mkv
+鹿乃-daybyday,http://em.21dtv.com/songs/60138289.mkv
+罗大佑-家,http://em.21dtv.com/songs/60139019.mkv
+罗大佑-同学会,http://em.21dtv.com/songs/60143831.mkv
+骆超-忘记你需要多少年,http://em.21dtv.com/songs/60144208.mkv
+落日与晚风-IN-K/王忻辰,https://vdse.bdstatic.com//c2289af7749daef7a72ea754f33a3a06.mp4
+落在生命里的光-尹昔眠,https://vdse.bdstatic.com//5fd4b2da5893e8582789452fa395ab59.mp4
+驴嫂单良-我想陪你一起走到老,http://em.21dtv.com/songs/60145815.mkv
+马伯骞+吕泽洲+周震南-齐天大圣,http://em.21dtv.com/songs/60146864.mkv
+马伯骞+周震南-AreYouReady,http://em.21dtv.com/songs/60144196.mkv
+马伯骞-GoingDownThisRoad,http://em.21dtv.com/songs/60144192.mkv
+马伯骞-NODIFFERENCE,http://em.21dtv.com/songs/60145805.mkv
+马伯骞-WithYou,http://em.21dtv.com/songs/60144193.mkv
+马伯骞-触不可及,http://em.21dtv.com/songs/60145807.mkv
+马伯骞-从心,http://em.21dtv.com/songs/60144194.mkv
+马伯骞-净说大实话,http://em.21dtv.com/songs/60146863.mkv
+马伯骞-我该走了2.0,http://em.21dtv.com/songs/60145806.mkv
+马伯骞-总结出的歪理,http://em.21dtv.com/songs/60144195.mkv
+马博-菊花爆满山,http://em.21dtv.com/songs/60144643.mkv
+马常宝-人生如此蹉跎,http://em.21dtv.com/songs/60146868.mkv
+马常宝-一条路,http://em.21dtv.com/songs/60146867.mkv
+马德-戒不掉的习惯,http://em.21dtv.com/songs/60139291.mkv
+马頔-大雁,http://em.21dtv.com/songs/60144207.mkv
+马关辉-西江姑娘,ht​​tp://em.21dtv.com/songs/60146865.mkv
+马关辉-这个地方,http://em.21dtv.com/songs/60146866.mkv
+马嘉均-幽默感,http://em.21dtv.com/songs/60138263.mkv
+马嘉瞳+田正-愁人的青春,http://em.21dtv.com/songs/60145809.mkv
+马洁+徐汕-幸运女神,http://em.21dtv.com/songs/60138264.mkv
+马丽-飘洋过海来看你,http://em.21dtv.com/songs/60146861.mkv
+马铃儿响来玉鸟唱,https://vd2.bdstatic.com/mda-kiiq32giinmywc54/v1-cae/1080p/mda-kiiq32giinmywc54.mp4?auth_key=1602764768-0-0-f40d3254a7e0de97c1f4d244adb77a16&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=2258&split=1966832
+马旗-警卫兵最忠诚,http://em.21dtv.com/songs/60145813.mkv
+马旗-小小的哨所,http://em.21dtv.com/songs/60145812.mkv
+马天龙-窒息,http://em.21dtv.com/songs/60144197.mkv
+马文会-爱情下的雪,http://em.21dtv.com/songs/60144198.mkv
+马文吉-用尽一生去爱你,http://em.21dtv.com/songs/60145811.mkv
+马向雷-寂寞的夜里我不能入睡,http://em.21dtv.com/songs/60145808.mkv
+马潇潇-陪陪老妈妈,http://em.21dtv.com/songs/60146871.mkv
+马昕-如果爱情是海,http://em.21dtv.com/songs/60145814.mkv
+马旭东+马剑芬-思念泛滥成灾,http://em.21dtv.com/songs/60144199.mkv
+马旭勤+张仪嘉-爱是你,http://em.21dtv.com/songs/60144200.mkv
+马旋-下辈子还等你,http://em.21dtv.com/songs/60146869.mkv
+马缨花情歌,https://txmov2.a.kwimgs.com/upic/2022/05/29/12/BMjAyMjA1MjkxMjQzMDVfOTU2MzA3MDg4Xzc1NTIwMDQ0NDIxXzJfMw==_b_Ba67dd2a268ed8f364665fa1dd316aa25.mp4?clientCacheKey=3xaeu9cx9kpz82c_b.mp4&tt=b&di=2471804b&bp=10000
+马宥熙-最好的前任,http://em.21dtv.com/songs/60145810.mkv
+马雨梵-猎爱,http://em.21dtv.com/songs/60138265.mkv
+马雨阳-尘灰,http://em.21dtv.com/songs/60144206.mkv
+马雨阳-轿跑车带我出京,http://em.21dtv.com/songs/60146873.mkv
+马雨阳-离家的少年,http://em.21dtv.com/songs/60138266.mkv
+马郁-如今你在谁的身边,http://em.21dtv.com/songs/60146872.mkv
+马智宇+杨子一-美丽中国梦,http://em.21dtv.com/songs/60144203.mkv
+马智宇-天下父母的爱是最伟大的,http://em.21dtv.com/songs/60146870.mkv
+马智宇-新娘,http://em.21dtv.com/songs/60139292.mkv
+马智宇-在一起,http://em.21dtv.com/songs/60144201.mkv
+马智宇-最炫民族风,http://em.21dtv.com/songs/60144202.mkv
+马槜铿-冲动,http://em.21dtv.com/songs/60144204.mkv
+马槜铿-牛郎,http://em.21dtv.com/songs/60144205.mkv
+麦德罗-热情的沙漠,http://em.21dtv.com/songs/60077340.mkv
+麦浚龙+冯颖琪-何地有方,http://em.21dtv.com/songs/60138291.mkv
+麦穗-年年有今日,http://em.21dtv.com/songs/60061473.mkv
+麦震烁-浮华盛世,http://em.21dtv.com/songs/60139306.mkv
+芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
+梅艳芳-今宵多珍重,http://em.21dtv.com/songs/60023925.mkv
+梅艳芳-留住你今晚,http://em.21dtv.com/songs/60027592.mkv
+梅艳芳-朦胧夜雨里,http://em.21dtv.com/songs/60029445.mkv
+梅艳芳-梦伴,http://em.21dtv.com/songs/60029478.mkv
+梅艳芳-你留我在此,http://em.21dtv.com/songs/60031903.mkv
+孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
+孟庭苇-把思念寄托远方,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+孟庭苇-春雪,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5ZFrpzPk37KvY7CaTUj%40%40hd.m3u8
+孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+孟庭苇-过冬,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
+孟庭苇-谁的眼泪在飞,http://em.21dtv.com/songs/60143328.mkv
+孟庭苇-往事,http://em.21dtv.com/songs/60143325.mkv
+孟庭苇-我说的谎都是真的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
+孟庭苇-我只在乎你,http://em.21dtv.com/songs/60143326.mkv
+孟庭苇-雾里看花,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
+孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
+孟庭苇-羞答答的玫瑰静悄悄的开,http://em.21dtv.com/songs/60143327.mkv
+孟庭苇-野百合也有春天,http://em.21dtv.com/songs/60143329.mkv
+孟庭苇-一个爱上浪漫的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/DpBYbctgwaRj7bEYzFn%40%40hd.m3u8
+孟庭苇-真的还是假的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
+鸣儿-我不是那种随便的人,http://em.21dtv.com/songs/60146886.mkv
+魔法城堡,https://vd4.bdstatic.com/mda-kfdg3qrczaz60xfk/hd/mda-kfdg3qrczaz60xfk.mp4
+莫文蔚-IDO,http://em.21dtv.com/songs/60145545.mkv
+莫文蔚-姑娘酒窝,http://em.21dtv.com/songs/60018945.mkv
+莫文蔚-今儿个真高兴,http://em.21dtv.com/songs/60146649.mkv
+莫文蔚-溜溜的情歌,http://em.21dtv.com/songs/60076463.mkv
+目及皆是你-小蓝背心,https://vd3.bdstatic.com/mda-mhey8x4if9w5twqu/hd/cae_h264/1629068421848670164/mda-mhey8x4if9w5twqu.mp4
+那英+陈奕迅-天地在我心,http://em.21dtv.com/songs/60139167.mkv
+那英+达布希勒图-那又怎样,http://em.21dtv.com/songs/60146739.mkv
+那英+周杰伦-因为爱情,http://em.21dtv.com/songs/60139166.mkv
+那英-三生三世十里桃花,http://em.21dtv.com/songs/60144000.mkv
+那英-想念,http://em.21dtv.com/songs/60049175.mkv
+难念的经,https://vd4.bdstatic.com/mda-kfch1xy9wjyb8w7y/sc/mda-kfch1xy9wjyb8w7y.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1602769853-0-0-506b3e23ca7976bf254da50a3123723e&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=1187&split=972800
+庞龙-多了,http://em.21dtv.com/songs/60137560.mkv
+庞龙-躲在心里的时光,http://em.21dtv.com/songs/60145081.mkv
+庞龙-极光,http://em.21dtv.com/songs/60137561.mkv
+庞龙-聊,http://em.21dtv.com/songs/60137562.mkv
+庞龙-面朝大海春暖花开,http://em.21dtv.com/songs/60137564.mkv
+庞龙-走着唱着,http://em.21dtv.com/songs/60137563.mkv
+鹏鸽-错爱一生,http://em.21dtv.com/songs/60138288.mkv
+鹏鸽-一个不懂爱的人,http://em.21dtv.com/songs/60138287.mkv
+鹏涛-默守情缘,http://em.21dtv.com/songs/60145827.mkv
+朴树-FOREVERYOUNG,http://em.21dtv.com/songs/60145203.mkv
+朴树-NEVERKNOWSTOMORROW,http://em.21dtv.com/songs/60145204.mkv
+朴树-THEFEARINMYHEART,http://em.21dtv.com/songs/60145206.mkv
+朴树-狗屁青春,http://em.21dtv.com/songs/60145212.mkv
+朴树-好好地,http://em.21dtv.com/songs/60145207.mkv
+朴树-空帆船,http://em.21dtv.com/songs/60145213.mkv
+朴树-清白之年,http://em.21dtv.com/songs/60145211.mkv
+朴树-我去2000年,http://em.21dtv.com/songs/60145209.mkv
+齐霖-爸爸妈妈,http://em.21dtv.com/songs/60138325.mkv
+齐霖-其实,http://em.21dtv.com/songs/60138324.mkv
+齐秦-鼓声若响,http://em.21dtv.com/songs/60139330.mkv
+齐秦-乖,http://em.21dtv.com/songs/60145852.mkv
+齐雅-小小蜗居,http://em.21dtv.com/songs/60138323.mkv
+千千万万-深海鱼子酱,https://vd3.bdstatic.com/mda-meiaa2e63ve7ram5/hd/cae_h264/1621408953745287302/mda-meiaa2e63ve7ram5.mp4
+青春啊青春,https://vd2.bdstatic.com/mda-memd0026ke00b2ab/cae_h264/1621679124594529153/mda-memd0026ke00b2ab.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1632626835-0-0-58a705875a40c6b8ee417fb3c55feae5&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
+青春的火焰,https://vd2.bdstatic.com/mda-je8ac76ziwxg4975/sc/mda-je8ac76ziwxg4975.mp4?auth_key=1602773204-0-0-f0d4d852421f2d61acaee3c26fe06fb1&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=2268&split=1904197
+青木林里青木秧,https://alimov2.a.kwimgs.com/upic/2022/06/25/08/BMjAyMjA2MjUwODA0MDRfOTU2MzA3MDg4Xzc3NTUyMDc4NDUyXzJfMw==_b_Bdfb1a869fc4f8beecfcd271255ef8551.mp4?clientCacheKey=3xm4zscvg4nh73k_b.mp4&tt=b&di=24710b6c&bp=10000
+青柠乐队-星光,http://em.21dtv.com/songs/60145790.mkv
+青青河边草,https://alimov2.a.kwimgs.com/upic/2022/06/06/05/BMjAyMjA2MDYwNTQxMjRfOTU2MzA3MDg4Xzc2MTQ1MzUyNzc1XzJfMw==_b_B18c954e77b75945bbebf4191e0ea6dd8.mp4?clientCacheKey=3xkqiem4yzwa9me_b.mp4&tt=b&di=24712421&bp=10000
+清空-麦小兜,https://vdse.bdstatic.com//2ea12d727100e436cfce922faee93901.mp4
+情难枕,https://txmov2.a.kwimgs.com/upic/2022/08/13/05/BMjAyMjA4MTMwNTMxNDdfOTU2MzA3MDg4XzgxNjgyMzYyMTYyXzJfMw==_b_B5286e8e7c86602d95bf257ca8d281cc9.mp4?clientCacheKey=3x3xxvukpkyrrs4_b.mp4&tt=b&di=24710b75&bp=10000
+情网,https://txmov2.a.kwimgs.com/upic/2022/06/13/11/BMjAyMjA2MTMxMTI1MTFfOTU2MzA3MDg4Xzc2Njc4OTk0Nzc2XzJfMw==_b_Bc60dfd3075034ae610ddc66063a5bc5d.mp4?clientCacheKey=3xu8qyzhzqn7vhs_b.mp4&tt=b&di=24710b6c&bp=10000
+雀斑乐团-坏习惯,http://em.21dtv.com/songs/60139266.mkv
+沙宝亮-1314,http://em.21dtv.com/songs/60145341.mkv
+沙宝亮-暗香,http://em.21dtv.com/songs/60145344.mkv
+沙宝亮-飘,http://em.21dtv.com/songs/60145345.mkv
+沙宝亮-一声忧伤,http://em.21dtv.com/songs/60145342.mkv
+沙宝亮-只因为爱,http://em.21dtv.com/songs/60145343.mkv
+时光洪流-程响,https://vd3.bdstatic.com/mda-pdd8msvmqi6svxjg/sc/cae_h264/1681466855589135211/mda-pdd8msvmqi6svxjg.mp4
+双笙-别赋,http://em.21dtv.com/songs/60144252.mkv
+双笙-采茶纪,http://em.21dtv.com/songs/60144255.mkv
+双笙-离歌,http://em.21dtv.com/songs/60144254.mkv
+双笙-我的一个道姑朋友,http://em.21dtv.com/songs/60138518.mkv
+双笙-月出,http://em.21dtv.com/songs/60144253.mkv
+随遇而安,https://vd2.bdstatic.com/mda-kh9n03rrhnbrua10/v1-cae/sc/mda-kh9n03rrhnbrua10.mp4?auth_key=1602767483-0-0-8c19357e11376878893f35c9cff19ac2&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=1436&split=1385026
+孙露-爱你真的好难,http://em.21dtv.com/songs/60143318.mkv
+孙露-光辉岁月,http://em.21dtv.com/songs/60146201.mkv
+孙露-鬼迷心窍,http://em.21dtv.com/songs/60115857.mkv
+孙露-黄玫瑰,http://em.21dtv.com/songs/60138630.mkv
+孙露-美人脸,http://em.21dtv.com/songs/60143319.mkv
+孙露-情人的眼泪,http://em.21dtv.com/songs/60137507.mkv
+孙露-伤了心的女人怎么了,http://em.21dtv.com/songs/60144997.mkv
+孙露-小小的太阳,http://em.21dtv.com/songs/60144999.mkv
+孙露-烟雨年代,http://em.21dtv.com/songs/60143317.mkv
+孙楠+韩红-美丽的神话,http://em.21dtv.com/songs/60029220.mkv
+孙楠+王逸洁+朱婷婷-美丽的神话(最美和声),http://em.21dtv.com/songs/60100838.mkv
+孙楠+朱婷婷+王逸洁-美丽的神话(HD),http://em.21dtv.com/songs/10012774.mkv
+孙楠-对你说爱,http://em.21dtv.com/songs/60137501.mkv
+孙楠-奉献美好,http://em.21dtv.com/songs/60138624.mkv
+孙楠-天香楼,http://em.21dtv.com/songs/60137500.mkv
+孙楠-新的天地,http://em.21dtv.com/songs/60146195.mkv
+邰正宵-没有你的我,http://em.21dtv.com/songs/60138104.mkv
+邰正宵-亲爱的小孩,http://em.21dtv.com/songs/60097616.mkv
+谭维维+韩磊-不忘初心,http://em.21dtv.com/songs/60143952.mkv
+谭维维+冀行-鱼鸟之恋,http://em.21dtv.com/songs/60146689.mkv
+谭维维+扎西平措-窗,http://em.21dtv.com/songs/60146690.mkv
+谭维维+张雨佳+郑浩天+泽宙斯姬-如果有来生,http://em.21dtv.com/songs/60138071.mkv
+谭维维+郑浩天+那吾克热玉素甫江-BlahBlahBlah,http://em.21dtv.com/songs/60138072.mkv
+谭维维-陌上花开,http://em.21dtv.com/songs/60146688.mkv
+谭维维-行走在茫茫月光的中间,http://em.21dtv.com/songs/60145619.mkv
+谭维维-绣春,http://em.21dtv.com/songs/60139116.mkv
+谭维维-昨天涯,http://em.21dtv.com/songs/60139115.mkv
+谭咏麟+杜丽莎-今宵多珍重,http://em.21dtv.com/songs/60070818.mkv
+谭咏麟+李克勤-理想与和平,http://em.21dtv.com/songs/60026892.mkv
+谭咏麟+李克勤-梦仍是一样,http://em.21dtv.com/songs/60029634.mkv
+谭咏麟+李克勤-球迷奇遇记,http://em.21dtv.com/songs/60035811.mkv
+谭咏麟+许冠杰-阿Sam与阿Tam,http://em.21dtv.com/songs/60138065.mkv
+谭咏麟+许冠杰-为你歌唱,http://em.21dtv.com/songs/60139109.mkv
+谭咏麟-何苦,http://em.21dtv.com/songs/60139108.mkv
+谭咏麟-理想与和平,http://em.21dtv.com/songs/60026893.mkv
+唐艺昕-面对面,http://em.21dtv.com/songs/60137434.mkv
+桃花诺-邓紫棋(青蛇片曲),https://vd2.bdstatic.com/mda-pc0bv2dpemm3n6j7/hd/cae_h264/1677660352637399862/mda-pc0bv2dpemm3n6j7.mp4
+桃花诺-旺仔小乔,https://vdse.bdstatic.com//1962e1def431dfcd59247bcd938640f8.mp4
+陶红-堂堂正正一辈子,http://em.21dtv.com/songs/60139263.mkv
+陶晶莹+曾慧兰-太委屈,http://em.21dtv.com/songs/60139262.mkv
+陶晶莹+奯淇组合+曾慧兰+姬紫兰-姐姐妹妹站起来,http://em.21dtv.com/songs/60139261.mkv
+陶静-风中芦苇荡,http://em.21dtv.com/songs/60144157.mkv
+陶辚竹-争奇斗艳,http://em.21dtv.com/songs/60145778.mkv
+陶钰玉-小寂寞,http://em.21dtv.com/songs/60138228.mkv
+陶钰玉-遇见爱,http://em.21dtv.com/songs/60139264.mkv
+陶喆+水汪汪的大眼睛-当爱已成往事,http://em.21dtv.com/songs/60145777.mkv
+陶喆+汪苏泷-心乱飞,http://em.21dtv.com/songs/60138227.mkv
+陶喆-黑色星期二,http://em.21dtv.com/songs/60145776.mkv
+陶喆-她来听我的演唱会,http://em.21dtv.com/songs/60145775.mkv
+陶醉+白水鉴心-情愿在爱中沦陷,http://em.21dtv.com/songs/60145779.mkv
+天然卷夏祭,https://vd3.bdstatic.com/mda-pb6cmxqdpjh7p1a4/sc/cae_h264/1675774662439529962/mda-pb6cmxqdpjh7p1a4.mp4
+驼铃,https://vd3.bdstatic.com/mda-kibteu2sd3etwc94/v1-cae/1080p/mda-kibteu2sd3etwc94.mp4?auth_key=1602763359-0-0-a22f001b95be18c527672048212a932a&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=4442&split=3793169
+汪峰+DJ佳楠-存在,http://em.21dtv.com/songs/60144629.mkv
+汪峰-那年我五岁,http://em.21dtv.com/songs/60146481.mkv
+汪峰-你走你的路,http://em.21dtv.com/songs/60128161.mkv
+汪峰-怒放的生命,http://em.21dtv.com/songs/60032787.mkv
+汪峰-我会在这儿等你,http://em.21dtv.com/songs/60138920.mkv
+汪峰-小鸟,http://em.21dtv.com/songs/60049679.mkv
+汪峰-一瞬间,http://em.21dtv.com/songs/60143647.mkv
+汪峰-雨天的回忆,http://em.21dtv.com/songs/60143648.mkv
+王菲-爱与痛的边缘,http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+王菲-容易受伤的女人(国语),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+王菲-执迷不悔,http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
+王杰+黄绮珊-爱得太多,http://em.21dtv.com/songs/60137888.mkv
+王杰-安妮,http://em.21dtv.com/songs/60137886.mkv
+王杰-不浪漫罪名,http://em.21dtv.com/songs/60137883.mkv
+王杰-她的背影,http://em.21dtv.com/songs/60137885.mkv
+王杰-为了爱梦一生,http://em.21dtv.com/songs/60137884.mkv
+王杰-英雄泪,http://em.21dtv.com/songs/60137887.mkv
+往后余生,https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
+往事只能回味,https://txmov2.a.kwimgs.com/upic/2022/06/01/06/BMjAyMjA2MDEwNjEyMjZfOTU2MzA3MDg4Xzc1NzE0NzcwMTc5XzJfMw==_b_B55a73f3d2ceffe4c8f6105e440e73c59.mp4?clientCacheKey=3x6icrhwkc744by_b.mp4&tt=b&di=24717162&bp=10000
+韦东明-醒来吧,http://em.21dtv.com/songs/60138236.mkv
+韦东明-遗落的阳台,http://em.21dtv.com/songs/60138235.mkv
+韦礼安-爱如空气,http://em.21dtv.com/songs/60139276.mkv
+韦明华+阿妮桑-定格幸福,http://em.21dtv.com/songs/60146841.mkv
+韦琪-备胎,http://em.21dtv.com/songs/60144165.mkv
+韦琪-单恋关系,http://em.21dtv.com/songs/60146842.mkv
+魏晨+RyanB-藤蔓之间,http://em.21dtv.com/songs/60138284.mkv
+魏晨-星辰大海是你,http://em.21dtv.com/songs/60146883.mkv
+魏晨-自我崇拜,http://em.21dtv.com/songs/60139302.mkv
+魏大勋-白桦林,http://em.21dtv.com/songs/60139300.mkv
+魏大勋-当我想你的时候,http://em.21dtv.com/songs/60139299.mkv
+魏菲儿-谷雨承康,http://em.21dtv.com/songs/60145825.mkv
+魏虹宁-新时代最可爱的人,http://em.21dtv.com/songs/60144228.mkv
+魏佳艺-不正经姑娘,http://em.21dtv.com/songs/60145821.mkv
+魏家林-液光,http://em.21dtv.com/songs/60144670.mkv
+魏妙如-妙不可言,http://em.21dtv.com/songs/60145823.mkv
+魏如萱+杜星萤-末路狂花,http://em.21dtv.com/songs/60145822.mkv
+魏如萱+马頔-星期三或礼拜三,http://em.21dtv.com/songs/60139301.mkv
+魏小也-太平公主,http://em.21dtv.com/songs/60145824.mkv
+魏新雨-翡翠心语,http://em.21dtv.com/songs/60144227.mkv
+魏新雨-想你如海,http://em.21dtv.com/songs/60144226.mkv
+魏新雨-再别康桥,http://em.21dtv.com/songs/60146882.mkv
+魏新雨-最美的情缘,http://em.21dtv.com/songs/60144671.mkv
+魏招进-向梦想前进,http://em.21dtv.com/songs/60144225.mkv
+魏哲鸣+常子-喜欢你的喜欢,http://em.21dtv.com/songs/60146881.mkv
+问花–周深(青蛇2),https://vd2.bdstatic.com/mda-mke7uj3851bdey5f/hd/cae_h264/1636959252058792218/mda-mke7uj3851bdey5f.mp4
+我等到花儿也谢了-林谦谦,https://vdse.bdstatic.com//881a3eec1f2f632ae9f2e8226df6065c.mp4
+我期待的不是雪-张妙格,https://vd2.bdstatic.com/mda-qb45sac8anwh1376/hd/cae_h264/1707204551077041569/mda-qb45sac8anwh1376.mp4
+我想要-小阿七,https://vd4.bdstatic.com/mda-pch4gnhbtua84gz6/576p/h264/1679109130495132516/mda-pch4gnhbtua84gz6.mp4
+雾虹-舞蹈,http://em.21dtv.com/songs/60144162.mkv
+相见难别亦难,https://vd2.bdstatic.com/mda-kewx4rt3fr4ur88u/sc/mda-kewx4rt3fr4ur88u.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1602769318-0-0-35dbbb28abd27b5b701775823dbba3ce&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=1187&split=972800
+萧敬腾-爱的大未来,http://em.21dtv.com/songs/60146652.mkv
+萧敬腾-河,http://em.21dtv.com/songs/60139064.mkv
+萧敬腾-亲爱的小孩,http://em.21dtv.com/songs/60072303.mkv
+辛晓琪+ALin-空窗,http://em.21dtv.com/songs/60138094.mkv
+辛晓琪-俩俩相忘,http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
+辛晓琪-亲爱的小孩,http://em.21dtv.com/songs/60077183.mkv
+辛晓琪-味道,http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
+徐佳莹+金志文-一样的月光,http://em.21dtv.com/songs/60137620.mkv
+徐佳莹-旅行的意义,http://em.21dtv.com/songs/60076514.mkv
+徐佳莹-完美落地,http://em.21dtv.com/songs/60146320.mkv
+徐佳莹-因爱闪光,http://em.21dtv.com/songs/60138743.mkv
+徐佳莹-最初的记忆,http://em.21dtv.com/songs/60137619.mkv
+徐小凤-故乡的雨,http://em.21dtv.com/songs/60019095.mkv
+徐小凤-黎明不要来,http://em.21dtv.com/songs/60026833.mkv
+徐小凤-流下眼泪前,http://em.21dtv.com/songs/60027719.mkv
+徐小凤-每日怀念你,http://em.21dtv.com/songs/60029044.mkv
+徐小凤-热情的沙漠,http://em.21dtv.com/songs/60036262.mkv
+徐小凤-深秋立楼头,http://em.21dtv.com/songs/60038343.mkv
+徐小凤-深秋立楼头,http://em.21dtv.com/songs/60038344.mkv
+许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+许巍+叶蓓-流浪途中爱上你,http://em.21dtv.com/songs/60143921.mkv
+许巍-纯粹,http://em.21dtv.com/songs/60013384.mkv
+许巍-纯真,http://em.21dtv.com/songs/60013403.mkv
+许巍-蓝莲花,http://em.21dtv.com/songs/60026063.mkv
+许巍-漫步,http://em.21dtv.com/songs/60028561.mkv
+许巍-少年,http://em.21dtv.com/songs/60038121.mkv
+许巍-时光,http://em.21dtv.com/songs/60039096.mkv
+许巍-四季,http://em.21dtv.com/songs/60145589.mkv
+薛凯琪-520,http://em.21dtv.com/songs/60145571.mkv
+薛凯琪-远远关心,http://em.21dtv.com/songs/60145572.mkv
+薛之谦+大张伟-意外,http://em.21dtv.com/songs/60139090.mkv
+薛之谦+林乐仪-时间煮雨,http://em.21dtv.com/songs/60138035.mkv
+薛之谦+毛不易-一半,http://em.21dtv.com/songs/60145570.mkv
+薛之谦-凤凰花千年恋,http://em.21dtv.com/songs/60145569.mkv
+薛之谦-王子公主,http://em.21dtv.com/songs/60143903.mkv
+薛之谦-小孩,http://em.21dtv.com/songs/60139089.mkv
+薛之谦-一半,http://em.21dtv.com/songs/60138034.mkv
+薛之谦-遗憾,http://em.21dtv.com/songs/60146669.mkv
+雪晗-雨荷,http://em.21dtv.com/songs/60138232.mkv
+雪山阿佳,https://txmov2.a.kwimgs.com/upic/2022/05/15/21/BMjAyMjA1MTUyMTM4MDFfOTU2MzA3MDg4Xzc0NTE3MTQ4NDE2XzJfMw==_b_B4c0462b674c8dd550827427f5f508232.mp4?clientCacheKey=3xkcfjmdw2rxwv4_b.mp4&tt=b&di=7a61dca2&bp=10000
+雪十郎-伤过的心,http://em.21dtv.com/songs/60146834.mkv
+雪十郎-我的好老婆,http://em.21dtv.com/songs/60146835.mkv
+雪无影-可惜你走了,http://em.21dtv.com/songs/60138231.mkv
+雪中情,https://vd4.bdstatic.com/mda-kgmbmhvx8vx73v9w/v1-cae/sc/mda-kgmbmhvx8vx73v9w.mp4?auth_key=1602766785-0-0-ed739cb8d0e7ab57a452c1523554645f&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=967&split=941198
+颜福伟-明日话今天,http://em.21dtv.com/songs/60030133.mkv
+颜佳欣-云顶,http://em.21dtv.com/songs/60139286.mkv
+颜力妃-完美的一天,http://em.21dtv.com/songs/60144175.mkv
+颜铭蔚-华佗,http://em.21dtv.com/songs/60145799.mkv
+颜裕林-兄弟你累了吗,http://em.21dtv.com/songs/60139287.mkv
+颜裕林-再见吧脂肪,http://em.21dtv.com/songs/60139288.mkv
+颜振豪+麒麟BABY-不要走留下来,http://em.21dtv.com/songs/60146855.mkv
+颜卓灵-BABYSTOP,http://em.21dtv.com/songs/60146854.mkv
+颜卓灵-闪光,http://em.21dtv.com/songs/60144176.mkv
+雁南飞,https://vd3.bdstatic.com/mda-mej2eayk0509mtid/cae_h264/1621476941744306578/mda-mej2eayk0509mtid.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1632626742-0-0-cb3ef5b81cc90c3bcc04af43a8b1d410&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=
+杨坤+黄渤-大叔也不错,http://em.21dtv.com/songs/60145258.mkv
+杨坤-分不开,http://em.21dtv.com/songs/60145255.mkv
+杨坤-干了这杯波本,http://em.21dtv.com/songs/60145256.mkv
+杨坤孤独颂,http://em.21dtv.com/songs/60146426.mkv
+杨坤-里约热内卢,http://em.21dtv.com/songs/60026879.mkv
+杨坤-美丽的一天,http://em.21dtv.com/songs/60029246.mkv
+杨坤-替身,http://em.21dtv.com/songs/60145257.mkv
+杨坤-游击队之歌,http://em.21dtv.com/songs/60146427.mkv
+杨澜-草原天路,http://em.21dtv.com/songs/60146437.mkv
+杨澜-欢天喜地歌儿飞,http://em.21dtv.com/songs/60146436.mkv
+杨千桦-WONDERWOMAN,http://em.21dtv.com/songs/60146421.mkv
+杨千嬅+丁子高-平行线,http://em.21dtv.com/songs/60146420.mkv
+杨千嬅+叶晓粤-平凡之路,http://em.21dtv.com/songs/60145254.mkv
+杨千嬅+叶雪如+周怡+吴昊煜-大城大事,http://em.21dtv.com/songs/60137742.mkv
+杨千嬅+叶雪如-可惜我是水瓶座,http://em.21dtv.com/songs/60137741.mkv
+杨千嬅+于梓贝-可惜我是水瓶座,http://em.21dtv.com/songs/60145253.mkv
+杨千嬅-你还爱我吗,http://em.21dtv.com/songs/60031733.mkv
+杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
+杨宗纬-浮生千山路,http://em.21dtv.com/songs/60146429.mkv
+杨宗纬-生命被你照亮,http://em.21dtv.com/songs/60138857.mkv
+杨宗纬-天龙八部,http://em.21dtv.com/songs/60137751.mkv
+杨宗纬-越过山丘,http://em.21dtv.com/songs/60138858.mkv
+叶丽仪-今宵多珍重,http://em.21dtv.com/songs/60023927.mkv
+叶倩文-冲动,http://em.21dtv.com/songs/60012844.mkv
+叶倩文-我的爱对你说,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+一开始说陪你到老的人,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTIyNDdfOTU2MzA3MDg4Xzc0ODAyMzE4MjUxXzJfMw==_b_B34d1d70d885847ad6b3d230bdb8a841e.mp4?clientCacheKey=3xuq9chbp7xnh86_b.mp4&tt=b&di=24710a0b&bp=10000
+一开始说陪你到老的人现在他还在吗-于洋,https://vdse.bdstatic.com//324af9047ee4ce6e3f0c86d22aed52df.mp4
+一路生花,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTIzMjZfOTU2MzA3MDg4Xzc0ODAyMzM2MTg0XzJfMw==_b_Be5527eb67c325ba55f9c099f838e34c7.mp4?clientCacheKey=3xuhb64ar55bqv2_b.mp4&tt=b&di=24710a0b&bp=10000
+一千个伤心的理由-王俊、余乐,https://vd3.bdstatic.com/mda-marm2117gk8nww0i/sc/cae_h264_nowatermark/1611644958/mda-marm2117gk8nww0i.mp4
+一曲相思-阿悠悠,https://vd3.bdstatic.com/mda-ki7sjxd6gz7s9zgz/hd/mda-ki7sjxd6gz7s9zgz.mp4
+一生有意义,https://vd2.bdstatic.com/mda-kfifhc47xmeqj52j/v1-cae/1080p/mda-kfifhc47xmeqj52j.mp4?auth_key=1602767014-0-0-8efcce5353714274d848b7226319ce26&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=2271&split=1995197
+驿动的心英文版,https://vd3.bdstatic.com/mda-ndria3yivejc3qfp/hd/bd265_cae_v4_delogo/1651018960183729329/mda-ndria3yivejc3qfp.mp4
+颖宝儿-存在,http://em.21dtv.com/songs/60144174.mkv
+于洋-奶奶,http://em.21dtv.com/songs/60138442.mkv
+于洋-桃花美人,http://em.21dtv.com/songs/60143111.mkv
+于洋-我的老矿,http://em.21dtv.com/songs/60138443.mkv
+于洋-重说爱,http://em.21dtv.com/songs/60144740.mkv
+于梓贝-模特,http://em.21dtv.com/songs/60138440.mkv
+于梓贝-普通朋友,http://em.21dtv.com/songs/60144739.mkv
+雨蝶,https://vd2.bdstatic.com/mda-kfdnve1w7e73c1jr/v1-cae/1080p/mda-kfdnve1w7e73c1jr.mp4?auth_key=1602767550-0-0-e84958f52723aced751a95f75255814f&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=8797_2&sle=1&sl=3941&split=3389553
+雨霏-爸妈是我心中的天,http://em.21dtv.com/songs/60145784.mkv
+雨霏-春暖花开,http://em.21dtv.com/songs/60145783.mkv
+雨霏-失去爱情错过你,http://em.21dtv.com/songs/60145781.mkv
+雨霏-我要陪你变老,http://em.21dtv.com/songs/60145782.mkv
+雨歌-情深缘浅,http://em.21dtv.com/songs/60146831.mkv
+雨禾-红尘情花开,http://em.21dtv.com/songs/60146832.mkv
+雨花石、,https://txmov2.a.kwimgs.com/upic/2022/06/15/06/BMjAyMjA2MTUwNjM1MTBfOTU2MzA3MDg4Xzc2ODAxOTAyMjI2XzJfMw==_b_B7adad3846903282e1275712860e91f3b.mp4?clientCacheKey=3xep5waav9ctiz9_b.mp4&tt=b&di=24710b6c&bp=10000
+雨霖枫-唱尽伤心,http://em.21dtv.com/songs/60138229.mkv
+雨霖枫-宁负天下不负你,http://em.21dtv.com/songs/60138230.mkv
+雨露-天长地久只是传说,http://em.21dtv.com/songs/60145785.mkv
+雨露-新一曲红尘,http://em.21dtv.com/songs/60144161.mkv
+雨侨-花季,http://em.21dtv.com/songs/60144158.mkv
+雨柔+望海高歌-永不分离,http://em.21dtv.com/songs/60139270.mkv
+雨阳-男人也会哭,http://em.21dtv.com/songs/60139271.mkv
+雨中百合-爱的渡口一直等着你,http://em.21dtv.com/songs/60144329.mkv
+雨中的恋人们-黄凯芹,https://vd3.bdstatic.com/mda-miqfg6axm8kf2a68/hd/cae_h264/1632567825678633121/mda-miqfg6axm8kf2a68.mp4
+雨中相思-龙千玉,http://txmov2.a.yximgs.com/upic/2020/11/25/16/BMjAyMDExMjUxNjAwNDRfMTU0MDc1NjUwOF8zOTc3MTI2OTA2MF8yXzM=_b_B0652e68c50f21d5cb6bdda5dbc7a3c13.mp4
+雨宗林+王羽泽+小军-谁懂男人心,http://em.21dtv.com/songs/60144160.mkv
+雨宗林-不配,http://em.21dtv.com/songs/60139267.mkv
+雨宗林-此情不渝,http://em.21dtv.com/songs/60139269.mkv
+雨宗林-幸福满满,http://em.21dtv.com/songs/60139268.mkv
+雨宗林-幸福太昂贵,http://em.21dtv.com/songs/60144159.mkv
+庾澄庆+董姿彦-老实情歌+靠近,http://em.21dtv.com/songs/60146271.mkv
+庾澄庆+吴莫愁+金池+王韵壹-热情的沙漠,http://em.21dtv.com/songs/60071078.mkv
+庾澄庆+卓猷燕-安静,http://em.21dtv.com/songs/60146270.mkv
+庾澄庆-猴喜翻,http://em.21dtv.com/songs/60146269.mkv
+庾澄庆-热情的沙漠,http://em.21dtv.com/songs/60036267.mkv
+庾澄庆组学员-热情的沙漠,http://em.21dtv.com/songs/60081431.mkv
+郁可唯-水中央,http://em.21dtv.com/songs/60138121.mkv
+郁可唯-未至,http://em.21dtv.com/songs/60139174.mkv
+郁可唯-我好想你,http://em.21dtv.com/songs/60144010.mkv
+郁可唯-小小天涯,http://em.21dtv.com/songs/60138120.mkv
+袁娅维+PGONE-BURN,http://em.21dtv.com/songs/60145576.mkv
+袁娅维+艾福杰尼-一见如故,http://em.21dtv.com/songs/60145577.mkv
+袁娅维+邓鼓-亲爱的朋友,http://em.21dtv.com/songs/60146671.mkv
+袁娅维-ROLL,http://em.21dtv.com/songs/60146670.mkv
+袁娅维-问情,http://em.21dtv.com/songs/60143908.mkv
+缘起-周深(青蛇1),https://vdse.bdstatic.com//aeb0616f23b8eb3566777e1e8c17b8ae.mp4
+张碧晨+杜海涛-凉凉,http://em.21dtv.com/songs/60137597.mkv
+张碧晨+赵丽颖-望,http://em.21dtv.com/songs/60137598.mkv
+张碧晨+赵天宇-白月光,http://em.21dtv.com/songs/60145113.mkv
+张碧晨-渡红尘,http://em.21dtv.com/songs/60146930.mkv
+张碧晨-如果一切没有发生过,http://em.21dtv.com/songs/60143412.mkv
+张靓颖+NEYO-ANGELSANDHARMONY,http://em.21dtv.com/songs/60145118.mkv
+张靓颖+TIMBALAND-DUSTMYSHOULDERSOFF,http://em.21dtv.com/songs/60145119.mkv
+张靓颖+李秉成+王艺陶+卢昶宇-画心,http://em.21dtv.com/songs/60137609.mkv
+张靓颖+李秉成-终于等到你,http://em.21dtv.com/songs/60137608.mkv
+张靓颖+权振东-亲爱的小孩,http://em.21dtv.com/songs/60069469.mkv
+张靓颖-给不起的爱,http://em.21dtv.com/songs/60137607.mkv
+张靓颖-玲珑,http://em.21dtv.com/songs/60138730.mkv
+张靓颖-请让爱情相信你,http://em.21dtv.com/songs/60138731.mkv
+张靓颖-热情的沙漠,http://em.21dtv.com/songs/60087855.mkv
+张靓颖-日落大道,http://em.21dtv.com/songs/60138729.mkv
+张靓颖-十里桃花,http://em.21dtv.com/songs/60143430.mkv
+张磊-故意,http://em.21dtv.com/songs/60143413.mkv
+张磊-一厢情愿的不舍,http://em.21dtv.com/songs/60146306.mkv
+张磊-因为一个人,http://em.21dtv.com/songs/60138717.mkv
+张清芳-纯粹,http://em.21dtv.com/songs/60013385.mkv
+张清芳-时间的滋味,http://em.21dtv.com/songs/60039131.mkv
+张珊珊-LION,http://em.21dtv.com/songs/60146304.mkv
+张珊珊-刚刚好,http://em.21dtv.com/songs/60143411.mkv
+张韶涵+我是赞助商派来的-复刻回忆,http://em.21dtv.com/songs/60145121.mkv
+张韶涵-是否爱过我,http://em.21dtv.com/songs/60145120.mkv
+张婉清-浪人情歌,http://em.21dtv.com/songs/60143394.mkv
+张婉清-因为单身的缘故,http://em.21dtv.com/songs/60145092.mkv
+张信哲+陈沁-白月光,http://em.21dtv.com/songs/60137578.mkv
+张信哲+伍思凯-特别的爱给特别的你,http://em.21dtv.com/songs/60137577.mkv
+张信哲+伊黎哈穆+闪烁+陈沁-过火,http://em.21dtv.com/songs/60137576.mkv
+张信哲-爱如潮水,http://em.21dtv.com/songs/60137573.mkv
+张信哲-别怕我伤心,http://em.21dtv.com/songs/60137572.mkv
+张信哲-过火,http://em.21dtv.com/songs/60137574.mkv
+张信哲-见坏就收,http://em.21dtv.com/songs/60145086.mkv
+张信哲-亲爱的小孩,http://em.21dtv.com/songs/60119496.mkv
+张信哲-时间都去哪儿了,http://em.21dtv.com/songs/60146280.mkv
+张信哲-说,http://em.21dtv.com/songs/60138694.mkv
+张信哲-逃生,http://em.21dtv.com/songs/60137575.mkv
+张学友+许慧欣-流星下的愿,http://em.21dtv.com/songs/60027735.mkv
+张学友-你是爱我的,http://em.21dtv.com/songs/60031991.mkv
+张学友-停格,http://em.21dtv.com/songs/60137584.mkv
+赵传-看不见的地方,http://em.21dtv.com/songs/60143963.mkv
+赵传-快乐似神仙,http://em.21dtv.com/songs/60025784.mkv
+谪仙-伊格赛听/叶里,https://vdse.bdstatic.com//886e60a17ff501301404ebbebde3c988.mp4
+甄妮+MELODY-梦中的妈妈,http://em.21dtv.com/songs/60029774.mkv
+甄妮-绿岛小夜曲,http://em.21dtv.com/songs/60028156.mkv
+甄妮-明日话今天,http://em.21dtv.com/songs/60030135.mkv
+甄妮-七级半地震,http://em.21dtv.com/songs/60033743.mkv
+甄妮-热情的沙漠,http://em.21dtv.com/songs/60036264.mkv
+征途-张杰,https://vdse.bdstatic.com//f4818f131b890e065df16b6fdb173c46.mp4
+执迷不悔–刘惜君,https://vd3.bdstatic.com/mda-ne2q5iji4vf1qpbm/hd/cae_h264_delogo/1651597628776115583/mda-ne2q5iji4vf1qpbm.mp4
+致青春-王菲,https://vdse.bdstatic.com//92462d18aa23857958610347a6aafa90.mp4
+周笔畅+VAVA-RAPSTAR,http://em.21dtv.com/songs/60144929.mkv
+周笔畅+给你点颜色-十字街头,http://em.21dtv.com/songs/60146139.mkv
+周笔畅+赵天宇-岁月神偷,http://em.21dtv.com/songs/60144931.mkv
+周笔畅+周震南-TIMEZONE,http://em.21dtv.com/songs/60144930.mkv
+周笔畅-FASCINATION,http://em.21dtv.com/songs/60144925.mkv
+周笔畅-七分钟好女孩七分钟坏女孩,http://em.21dtv.com/songs/60144926.mkv
+周笔畅-神秘的塞班岛,http://em.21dtv.com/songs/60144928.mkv
+周笔畅-无所事事,http://em.21dtv.com/songs/60138559.mkv
+周笔畅-用尽我的一切奔向你,http://em.21dtv.com/songs/60138560.mkv
+周笔畅-自然醒,http://em.21dtv.com/songs/60146138.mkv
+周蕙+王栎鑫-风铃,http://em.21dtv.com/songs/60138563.mkv
+周蕙-可惜,http://em.21dtv.com/songs/60138562.mkv
+周蕙-如果没有你,http://em.21dtv.com/songs/60036826.mkv
+周杰伦+陈奕迅-谢谢侬^印第安老斑鸠,http://em.21dtv.com/songs/60138555.mkv
+周杰伦+陈颖恩+肖敏晔+朱文婷-乌克丽丽,http://em.21dtv.com/songs/60146131.mkv
+周杰伦+达布希勒图+张鑫+李硕-想你就写信+彩虹,http://em.21dtv.com/songs/60146130.mkv
+周杰伦-告白气球,http://em.21dtv.com/songs/60146129.mkv
+庄心妍+DJ阿远-真的不容易,http://em.21dtv.com/songs/60144619.mkv
+庄心妍+贺敬轩-再遇不到你这样的人,http://em.21dtv.com/songs/60143378.mkv
+庄心妍-恨嫁,http://em.21dtv.com/songs/60145077.mkv
+庄心妍-流着泪说分手,http://em.21dtv.com/songs/60137558.mkv
+庄心妍-你在哪里,http://em.21dtv.com/songs/60137552.mkv
+庄心妍-暖暖的依靠,http://em.21dtv.com/songs/60137556.mkv
+庄心妍-热恋过后,http://em.21dtv.com/songs/60145078.mkv
+庄心妍-他,http://em.21dtv.com/songs/60137551.mkv
+庄心妍-天眼,http://em.21dtv.com/songs/60137553.mkv
+庄心妍-我不相信,http://em.21dtv.com/songs/60137555.mkv
+庄心妍-屋檐下的浪漫,http://em.21dtv.com/songs/60137554.mkv
+庄心妍-行李,http://em.21dtv.com/songs/60137559.mkv
+庄心妍-以后的以后,http://em.21dtv.com/songs/60144495.mkv
+庄心妍-最后一次,http://em.21dtv.com/songs/60137557.mkv
+卓依婷-爱拼才会赢,http://vd3.bdstatic.com/mda-jfreugw1pcza8xr1/mda-jfreugw1pcza8xr1.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-爱情一阵风,http://vd3.bdstatic.com/mda-jf5fre7jvd0q3rfu/mda-jf5fre7jvd0q3rfu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-采红菱,http://vd3.bdstatic.com/mda-jfdvpsg280t986rz/mda-jfdvpsg280t986rz.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-大家一起来DJ,http://vd3.bdstatic.com/mda-jf1jfkgj3qte7h96/mda-jf1jfkgj3qte7h96.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-歹路不通行,http://vd3.bdstatic.com/mda-imigfktdeeseud4j/mda-imigfktdeeseud4j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-电话情思,http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-东南西北风,http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-杜十娘,http://vd3.bdstatic.com/mda-jekst5s3c341xwyd/mda-jekst5s3c341xwyd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-橄榄树,http://vd3.bdstatic.com/mda-jfagwdhxb30ymr13/mda-jfagwdhxb30ymr13.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-旧情也绵绵,http://vd3.bdstatic.com/mda-jfje0s0z33b0c9vf/mda-jfje0s0z33b0c9vf.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-看不见温柔,http://vd3.bdstatic.com/mda-jeqg6s6gc0ietmst/mda-jeqg6s6gc0ietmst.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-浪人情歌,http://vd3.bdstatic.com/mda-jetdgjum2nxdvtmu/mda-jetdgjum2nxdvtmu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-流星雨,http://vd3.bdstatic.com/mda-jfap39wqmi2yisu6/mda-jfap39wqmi2yisu6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-鲁冰花,http://vd3.bdstatic.com/mda-jf8fbjprnf1fvpxm/mda-jf8fbjprnf1fvpxm.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-美酒加咖啡,http://vd3.bdstatic.com/mda-jfrred8ck6pnh6bq/mda-jfrred8ck6pnh6bq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-梦醒十分,http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-免失志,http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-莫辜负好时光,http://vd3.bdstatic.com/mda-jfkkh6m5u47trvqc/mda-jfkkh6m5u47trvqc.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-男性的本领,http://vd3.bdstatic.com/mda-jesk2p0h96hjvbsd/mda-jesk2p0h96hjvbsd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-萍聚,http://vd3.bdstatic.com/mda-jenmbx88uk365k40/mda-jenmbx88uk365k40.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷--山不转水转,http://vd3.bdstatic.com/mda-jb7pfvgc6wuivhqi/mda-jb7pfvgc6wuivhqi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-同一首歌,http://vd3.bdstatic.com/mda-jf1j2af0dji6ju83/mda-jf1j2af0dji6ju83.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-蜗牛与黄鹂鸟,http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-无聊的爱情,http://vd3.bdstatic.com/mda-jfkhu7bksxcqjq2z/mda-jfkhu7bksxcqjq2z.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-无情的班机,http://vd3.bdstatic.com/mda-jeqjsqimdzvytgvv/mda-jeqjsqimdzvytgvv.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-无言的结局,http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-谢谢你的爱,http://vd3.bdstatic.com/mda-jf2fuh2yhd0txff0/mda-jf2fuh2yhd0txff0.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-心挂意无处用,http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-夜来香,http://vd3.bdstatic.com/mda-jfai9k0sxf0nisvq/mda-jfai9k0sxf0nisvq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-雨过天晴,http://vd3.bdstatic.com/mda-jfbggf264f55hv4m/mda-jfbggf264f55hv4m.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷-捉泥鳅,http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 
 
 
