@@ -1,8 +1,8 @@
 王元修爱看的,#genre#
 
 
-羽毛球直播，https://dmd-fifajs-h5-ikuweb-hb.youku.com/fifa_jieshuo/YMQ-Court3HB_sjb5720.m3u8?title=8194225&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-abr&quality=2&ccode=live05010101&expire=21600&psid=40A281BFCDAAB3E1837529F0FA8341DC&ups_client_netip=106.117.110.216&ups_ts=1748916485&ups_userid=0&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8194225_8119724&fn=YMQ-Court3HB_sjb5720&vkey=A5bd1260c006a00cc23cffa4f0ad6fcb3
-魅力足球,http://goo.bkpcp.top/mg/mlzq
+羽毛球直播1，https://dmd-fifajs-h5-ikuweb-hb.youku.com/fifa_jieshuo/YMQ-Court3HB_sjb5720.m3u8?title=8194225&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-abr&quality=2&ccode=live05010101&expire=21600&psid=40A281BFCDAAB3E1837529F0FA8341DC&ups_client_netip=106.117.110.216&ups_ts=1748916485&ups_userid=0&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8194225_8119724&fn=YMQ-Court3HB_sjb5720&vkey=A5bd1260c006a00cc23cffa4f0ad6fcb3
+羽毛球直播2,https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb5m.m3u8?title=8194239&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-abr&quality=2&multi_raw_stream=YMQ-Court2HB&ccode=live05010101&expire=21600&psid=B6B9C2D3437800FCFA05B62B4A2BBF8B&ups_client_netip=240e:342:41d:101:8970:edeb:7d2a:8ae&ups_ts=1748917410&ups_userid=0&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8194239_8119738&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa&vkey=B07b1170bc648a4a5ced67edd952c5f7b&cug=10&t=3a4f126191680ee
 
 CCTV1,http://goo.bkpcp.top/mg/cctv1
 CCTV2,http://goo.bkpcp.top/mg/cctv2
