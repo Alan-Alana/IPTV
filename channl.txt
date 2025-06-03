@@ -1,7 +1,7 @@
 王元修爱看的,#genre#
 
 
-羽毛球直播，https://dmd-fifajs-h5-ikuweb-hb.youku.com/fifa_jieshuo/YMQ-Court1HB_sjb5720.m3u8?title=8194057&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-abr&quality=2&ccode=live05010101&expire=21600&psid=3F18F4C0ED37DA63BEE3432B68D7D325&ups_client_netip=106.117.117.181&ups_ts=1748663103&ups_userid=0&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8194057_8119607&fn=YMQ-Court1HB_sjb5720&vkey=A416f2c9ca843904d6c8d0e10a91441f7
+羽毛球直播，https://dmd-fifajs-h5-ikuweb-hb.youku.com/fifa_jieshuo/YMQ-Court3HB_sjb5720.m3u8?title=8194225&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-abr&quality=2&ccode=live05010101&expire=21600&psid=40A281BFCDAAB3E1837529F0FA8341DC&ups_client_netip=106.117.110.216&ups_ts=1748916485&ups_userid=0&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8194225_8119724&fn=YMQ-Court3HB_sjb5720&vkey=A5bd1260c006a00cc23cffa4f0ad6fcb3
 魅力足球,http://goo.bkpcp.top/mg/mlzq
 
 CCTV1,http://goo.bkpcp.top/mg/cctv1
