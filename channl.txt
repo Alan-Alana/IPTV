@@ -214,8 +214,13 @@ CCTV15,webview://https://tv.cctv.com/live/cctv15/
 CCTV16,webview://https://tv.cctv.com/live/cctv16/
 CCTV17,webview://https://tv.cctv.com/live/cctv17/
 
-
-
+临时直播源,#genre#
+CCTV1,https://tvpull.careryun.com/live/6affc23769b9b98ae2aef4a030603d8b.m3u8?txSecret=546b58aab0437c65e8b55d3fbfc33513&txTime=683f97c5
+CCTV2,https://tvpull.careryun.com/live/84e2198828007870a4e8f5499964888c.m3u8?txSecret=e04704a6dacc2bdbda126df01757bd50&txTime=683f97c5
+CCTV3,https://tvpull.careryun.com/live/02b04ee89a7bea25b7778c181285fd0b.m3u8?txSecret=340f95c335ea9d03535aeadb367e65f6&txTime=683f97c5
+CCTV5,https://tvpull.careryun.com/live/2fe3f8cc14c276a4d713fd6b9842e787.m3u8?txSecret=15470873d5c1593455c5b8f6369cdb4b&txTime=683f97c5
+CCTV5+,https://tvpull.careryun.com/live/481df449d0406ba63091dc0322d33c2a.m3u8?txSecret=0b26a4419e4e19e0615efb6ecc3d0838&txTime=683f97c5
+CCTV13,https://tvpull.careryun.com/live/78766fb89f154be74a98cb4c5586d46f.m3u8?txSecret=ba65f2f105d24edad4c40c10780f1c8a&txTime=683f97c5
 
 
 
