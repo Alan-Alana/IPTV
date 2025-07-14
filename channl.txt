@@ -2,7 +2,8 @@
 
 
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-
+咪咕视频4K-1,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226989/1.m3u8
+咪咕视频4K-2,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226991/1.m3u8
 CCTV1,http://139.155.142.13:9177/miguHD.php?id=CCTV1
 CCTV1,http://139.155.142.13:9177/migu.php?id=cctv1
 CCTV2,http://139.155.142.13:9177/miguHD.php?id=CCTV2
@@ -951,23 +952,7 @@ XXXX影院,http://zzy789.xyz/douyu1.php?id=508118
 庆余年,http://rihou.cc:555/huyad.php?id=11352960
 庆余年,http://120.77.28.4:8648/douyu.php?id=5062195
 庆余年,http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
-庆余年一轮播,http://fmbox.cc/huya.php?id=11352960
-庆余年二轮播,http://fmbox.cc/huya.php?id=23740156
-传闻中的芊芊,http://fmbox.cc/huya.php?id=21059608
-如懿传电视剧,http://fmbox.cc/huya.php?id=29465868
-芈月传电视剧,http://fmbox.cc/huya.php?id=11352975
-延禧攻略轮播,http://fmbox.cc/huya.php?id=26355864
-与凤行电视剧,http://fmbox.cc/huya.php?id=26355866
-柳舟记电视剧,http://fmbox.cc/huya.php?id=23860039
-开端电视轮播,http://fmbox.cc/huya.php?id=11342397
-我爱男保姆播,http://fmbox.cc/huya.php?id=29581262
-渗透电视轮播,http://fmbox.cc/huya.php?id=30080244
-亮剑电视轮播,http://fmbox.cc/huya.php?id=30080238
-雪豹电视轮播,http://fmbox.cc/huya.php?id=29580970
-科幻Fans轮播,http://fmbox.cc/douyu.php?id=3508304
-科幻解说轮播,http://fmbox.cc/douyu.php?id=9338839
-科幻梦工场播,http://fmbox.cc/huya.php?id=15152155
-娱乐扒叔轮播,http://fmbox.cc/douyu.php?id=9624581
+
 芈月传,http://124.248.69.76:26781/huya/11352975
 渗透,http://124.248.69.76:26781/huya/30080244
 知否知否,https://lunbo.freetv.top/yy/21881901
@@ -1050,11 +1035,13 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰中文,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-中天新闻,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
 TVBS新闻,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-凤凰资讯,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -1062,7 +1049,7 @@ TVBS新闻,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-5.m3u8
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
 凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-1.ctv
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
