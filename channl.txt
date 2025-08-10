@@ -1,22 +1,6 @@
 王元修爱看的,#genre#
 
-睛彩竞技,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227047/index.m3u8
-睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
-先锋乒羽[768*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
-先锋乒羽[785*576],http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
-先锋乒羽[785*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-
-CCTV-16超4k,http://qjrhc.jydjd.top:2911/udp/225.1.1.4:7523
-CCTV-16超4k,http://qjrhc.jydjd.top:2911/udp/225.1.101.130:7523
-CCTV-4K超清,http://qjrhc.jydjd.top:2911/udp/225.1.1.1:7523
-CCTV-4K超清,http://qjrhc.jydjd.top:2911/udp/225.1.101.109:7523
-
-CCTV-16超4k,http://119.32.12.17:2901/udp/225.1.1.4:7523
-CCTV-16超4k,http://119.32.12.17:2901/udp/225.1.101.130:7523
-CCTV-4K超清,http://119.32.12.17:2901/udp/225.1.1.1:7523
-CCTV-4K超清,http://119.32.12.17:2901/udp/225.1.101.109:7523
-
 
 
 CCTV1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
@@ -25,10 +9,10 @@ CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=bba30d3de9747a366e
 CCTV4,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=0e58a5254d757cf643d81d67e86ebcbfa4913ea0b5edb5e2fcf37c06cc9da87e8241017be46dad6b0111b9475d4f580257654485e770bd338d4a984cfd2f9e9b5b78766c8c5673592832fa9af6
 CCTV5,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=8e5821d948e6f191e54662c217936d23a3a86406451e08615460606f37586fca8c0ff3cc90c73abdf1817f5634491ea79d0a3795b2e2a4478c4c7b57216ace978fa2ef91cf17be509a3903b443
 CCTV5+,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=5863f1593b0f0f6f115d993e0098d56e37e657ae40b6054f56395b2581e8c731f0fac2d1225e9d02a42e249a850e84f06329b167c6f1671eccced793b541cc0de3e869a9a1d9b2615e696c5b3c
-CCTV06,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=875f2054386175091f3ab33a96af0cd3cc81605502627a968c0ef5293a39cd5e9eb59eb95a4e6559fe82887c081269329f0a5ce0819edbc6ca5e43be905f461ad8cbf6e45577fc445f99b5e408
-CCTV07,https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=e3c6d49b2e4a8f801e985cb8c3a94b2225c30916b2039f6501421a0691a308685a4b8836c887f373599974560d84f26b29c5e72d5b59f0be6198bff863865978b3caab49c9a5d695ee4c8b9c52
-CCTV08,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=75d48a18f4d199b2ead018174afe2158f17d12cd31781d1c560c8ff9be4379095e6ce20f6adf174246205d79d8a54ff2c6aac55b25e75818da1a1951d719d4d49599f836113c91451674ffa8c5
-CCTV09,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=6e7f17d3ebba481cbb892e63afbeec916bda63a7baba691c9078faea2f4e2f7533e0519771eb090b1fa4652dd3292025f7bb924a17c51f8a4bee116c1ab81fb130597b0b4c658f5e782e61aff8
+CCTV6,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=875f2054386175091f3ab33a96af0cd3cc81605502627a968c0ef5293a39cd5e9eb59eb95a4e6559fe82887c081269329f0a5ce0819edbc6ca5e43be905f461ad8cbf6e45577fc445f99b5e408
+CCTV7,https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=e3c6d49b2e4a8f801e985cb8c3a94b2225c30916b2039f6501421a0691a308685a4b8836c887f373599974560d84f26b29c5e72d5b59f0be6198bff863865978b3caab49c9a5d695ee4c8b9c52
+CCTV8,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=75d48a18f4d199b2ead018174afe2158f17d12cd31781d1c560c8ff9be4379095e6ce20f6adf174246205d79d8a54ff2c6aac55b25e75818da1a1951d719d4d49599f836113c91451674ffa8c5
+CCTV9,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=6e7f17d3ebba481cbb892e63afbeec916bda63a7baba691c9078faea2f4e2f7533e0519771eb090b1fa4652dd3292025f7bb924a17c51f8a4bee116c1ab81fb130597b0b4c658f5e782e61aff8
 CCTV10,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=1e79cffee4cf5f80d924f17e208dd3b3c94846bf1636c18d478b0c02e63d02b8c0a9a6ca8bad28de63adc428f68496e1eb08876c2ad7877ef1240b94c1522b3954fcdbeae492fb8213c70bbcd2
 CCTV11,https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=e82dd09b24b73a1050e052e414fc4099bbe4ca18ca68aaed7f10a203bc4e374e19c9c375af0d7ef89dca8aa6fa69752ad9a844a802594c969e0b3f87c1beddf9a530d94764638dab13e7235425
 CCTV12,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=306e08c911c151711966a00311489f94355017a0e4e4b0d0bf5e32e9d4ffb71f30e867c0c6808cd7d207c8d1588bc30ef492045f03eae13e78d166071c1fc652e76d1e28e1b779a82a3147433e
@@ -52,10 +36,10 @@ CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
 CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-CCTV06,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
-CCTV07,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
-CCTV08,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
-CCTV09,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
 CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
 CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
