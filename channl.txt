@@ -3,23 +3,24 @@
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
 
- CCTV1综合,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=91e30fe1bc4955b25f782e85aa0b0b7c355dd056e6bfef2e741a9cf4019211f54483e9a88ef18a4496532da1267c5555318c6800f8d7bf5e60db916a20a6365179090e6f8f6d2f5cc434fc9df9
- CCTV2财经,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=47db59f03e4a48e763e59836f515c6cca86ddf597ac28702525f5c1cdb6f1309eb1a6872e0799a1bd5ea81b015f3748aa06dd45f4dd34a0b070f0a04a42b23ea06d3e789cc3d8722906a1584d9
- CCTV3综艺,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=a2d68cc614b39d6433f4d45b229f23fed1e8ac039395e6dcb84b597f7c5043747d6f80787c779b3254247ffce9f9facbd81f4b20c7722809cca022513487b7c14740d72e4e498ed32a56d27894
- CCTV4中文国际,https://mursor.ottiptv.cc/migu/631780421.m3u8?migutoken=5b450edec70e254c4d5f4dbfc74f80b375f6efb46dfea5f2913cbb9d6e10f79bf89fd3007afbdceb7ea376e1d40c9d5d442ba61f6875bf22e1ab099fbb9380d44684cbc23cabbbe02758b3d65c
- CCTV5体育,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=582f860906ba759a1497b9a682bb8fcfbd85ca04c599da85d7d3f0fea170c8a3d1d73ee0f8fb13126bf824000a189d6aacf37189e50573a361f5e55345ad32099352417f814e2c273d2e17657a
- CCTV5+体育赛事,https://mursor.ottiptv.cc/migu/641886773.m3u8?migutoken=9a4b1da6baefe0cadb54ef7727694ed9b74792c53470f495f933207e9f1e7c6bf4b23189cbb89a7d5527a5b639c094895c9b47fa4640970aefac7f2105c1b8cefd034ec5aef05a18902562e1e8
- CCTV6电影,https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=97ea643f5cf2a5a030a419b9e7c1ac7a05c1684ed9029c9f2703dbbb0b51602d70b993885dabd5e8d55d30f3a9c7b630767ad5263f2fed960e484bf290c21902b1fff0e391adf1bcdf1f606b82
- CCTV7国防军事,https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=6da340a901fa1f59a79f60cc803d66b9e8fbf624c92086ebed88a96598a102e0357c504bda27827c1e8b9454c07e5e1d99bc86d2aa22b96d2f2c313074631b98b9b9213fb4b4f518142c6724b4
- CCTV8电视剧,https://mursor.ottiptv.cc/migu/624878356.m3u8?migutoken=43d5a597816df42a022f422222bfa3e00aad90cbb821e03f13b2022d28cd9899035a7310f56c0f48aa01420c2d66474f574d696b6b2b1c93724fcd04045574dcc2924f66fc9177f1141ffa2eb8
- CCTV9纪录,https://mursor.ottiptv.cc/migu/673168140.m3u8?migutoken=3fcafae7308d7b0b44dcc0492f994c3c9dec78d2afb31ec1351bcb3c060c8061a2629e9d8a65aaf9de7a18e6071b97385904b8251358fd7b660a5ba9ecbc1b5577b261cea35a5925b288bc0030
- CCTV10科教,https://mursor.ottiptv.cc/migu/624878405.m3u8?migutoken=599a845dd0c6cc96af4b278dc482ca191f8dc11e95e913fae7141862fe313ccf46304fe802879113f188b6d1630b1266e2cb2281c0951e49f1b184f5d695f48191f0c12402dda7e5953c6f219c
- CCTV11戏曲,https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=384582e2c56c0f1b555386c3f24fab92d02b2a5a0d15b1081d8d4fce9bff7ea5b5f6a93f253da3d456bff0a8f00d6ca31cae0faa9a65d799c3e2e81d3d1179d12fdb77d43abd706c41cecacab9
- CCTV12社会与法,https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=0e5b57352a350b1087ef626d182efc56ff54728267f713b78dbbca4b6044b9b76e84fa49e934f4cf81955669337f1487d36f6f3b39a7f74d4bef14cd8ccb20539e911d666fea90be142f79157a
- CCTV13新闻,https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=bba5e42898e085e498e470fb0ab08eaf580b752aeaacb55c24ca52e4667af9bb5f5b73af9570ada1f3b05514b29df6cf8222e17914d7216386cf96224c4da09bc9e1b9b3184ab924d91798519c
- CCTV14少儿,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=95b6ed240ebbc1b4c575adb696834bd7c614bc09f9b05603c548defb07b50d65cb9d869a2ef8bcba7dd4c31dda846e1a5474660adc51b6c4fdd12f2736857e04f5de3454f8b15b2303a9332493
- CCTV15音乐,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=b331d96562e4456e17eeb1ee5a8816d8d32f288ef31ddb39ff8c85102e95df86273e8b8660afb7a4f0a0bbc7fab0be93184467bacb8af30aa2e148475f96acefe0b58ddd9ad9ea55029c8fafdc
- CCTV17农业农村,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=2ff4bb53778418edcdbeef76bf95ffaed7bfb3866269ad35278fcaf49db4c323092095e2455cf7698b2c931922db551312103469082db45c3fc9bf77e6586025a376a6e330beee10bdecb43511
+CCTV1,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-1HD/index.m3u8
+CCTV2,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-2HD/index.m3u8
+CCTV3,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-3HD/index.m3u8
+CCTV4,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-4HD/index.m3u8
+CCTV5,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-5HD/index.m3u8
+CCTV-5+,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-5TYSSHD/index.m3u8
+CCTV6,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-6HD/index.m3u8
+CCTV7,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-7HD/index.m3u8
+CCTV8,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-8HD/index.m3u8
+CCTV9,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-9HD/index.m3u8
+CCTV10,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-10HD/index.m3u8
+CCTV11,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-11HD/index.m3u8
+CCTV12,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-12HD/index.m3u8
+CCTV13,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-13HD/index.m3u8
+CCTV14,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-14HD/index.m3u8
+CCTV15,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-15HD/index.m3u8
+CCTV16,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-16HD/index.m3u8
+CCTV17,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-17HD/index.m3u8
 
 
 
