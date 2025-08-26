@@ -4,7 +4,47 @@
 二号场地,https://hlslive-tx-cdn.ysp.cctv.cn/E016AEF9934FFF697F9B38A649583E085EE3B0D344C4585A37D4E905101AAAA0F534C1131B0F720579E3C9FF96926916361856EB19B7062F6A9AE04223E592ECC3D0294DCA85BD7DF74F691C93D4C4070FCDEA0C16A45C32F6F8E6893EF9804644D53A19ADAFED30117CE599B07FE23E/2028224503.m3u8?from=player&svrtime=1756206528&pid=600206866&cdn=5510&revoi=&app_id=519748109&guid=mdfi09q7_yjpf0m8p35&ysign=fa86d96c02280b112d596ae2302c24a4&ytime=1756206528&ytype=1
 三号场地,https://115-231-148-24.bytefcdnrd.com/huyalive/2356-0-0-2479087855024-10057-A-0-1.flv?302_type=cold_aggr&a_block=1&ctype=huya_live&dMod=wcs-1&domain=txdirect.flv.huya.com&fs=bgct&ratio=2000&redirect_from=pod.cn-cn1434g1.33964.nss&sdkPcdn=1_1&sdk_sid=1756206586476&seqid=2955864590003&sv=2508220801&t=100&u=1199108276305&ver=1&wsSecret=d117a72cb52aa5a063487693001dc51e&wsTime=68ad9728
 四号场地,https://1-180-8-29.bytefcdnrd.com/huyalive/2356-0-0-2479087855026-10057-A-0-1.flv?302_type=cold_aggr&a_block=1&ctype=huya_live&dMod=wcs-1&domain=tx.flv.huya.com&fs=bgct&ratio=2000&redirect_from=pod.cn-cn1185g2.27631.nss&sdkPcdn=1_1&sdk_sid=1756206674232&seqid=2955864677760&sv=2508220801&t=100&u=1199108276305&ver=1&wsSecret=7203204203629e0a2c25736f7d5493b8&wsTime=68ad9780
+
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+
+CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
+CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8
+CCTV3,http://183.222.242.31:8088/hls/3/index.m3u8
+CCTV4,http://183.222.242.31:8088/hls/4/index.m3u8
+CCTV5,http://183.222.242.31:8088/hls/5/index.m3u8
+CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
+CCTV6,http://183.222.242.31:8088/hls/6/index.m3u8
+CCTV7,http://183.222.242.31:8088/hls/7/index.m3u8
+CCTV8,http://183.222.242.31:8088/hls/8/index.m3u8
+CCTV9,http://183.222.242.31:8088/hls/9/index.m3u8
+CCTV10,http://183.222.242.31:8088/hls/10/index.m3u8
+CCTV11,http://183.222.242.31:8088/hls/11/index.m3u8
+CCTV12,http://183.222.242.31:8088/hls/12/index.m3u8
+CCTV13,http://183.222.242.31:8088/hls/13/index.m3u8
+CCTV14,http://183.222.242.31:8088/hls/14/index.m3u8
+CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8
+
+CCTV1,http://106.53.99.30/tv/hot.php?id=cctv1
+CCTV2,http://106.53.99.30/tv/hot.php?id=cctv2
+CCTV3,http://106.53.99.30/tv/hot.php?id=cctv3
+CCTV4,http://106.53.99.30/tv/hot.php?id=cctv4
+CCTV5,http://106.53.99.30/tv/hot.php?id=cctv5
+CCTV5+,http://106.53.99.30/tv/hot.php?id=cctv5p
+CCTV6,http://106.53.99.30/tv/hot.php?id=cctv6
+CCTV7,http://106.53.99.30/tv/hot.php?id=cctv7
+CCTV8,http://106.53.99.30/tv/hot.php?id=cctv8
+CCTV9,http://106.53.99.30/tv/hot.php?id=cctv9
+CCTV10,http://106.53.99.30/tv/hot.php?id=cctv10
+CCTV11,http://106.53.99.30/tv/hot.php?id=cctv11
+CCTV12,http://106.53.99.30/tv/hot.php?id=cctv12
+CCTV13,http://106.53.99.30/tv/hot.php?id=cctv13
+CCTV14,http://106.53.99.30/tv/hot.php?id=cctv14
+CCTV15,http://106.53.99.30/tv/hot.php?id=cctv15
+CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
+
+CCTV1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+CCTV5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
+CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 
 CCTV1,http://171.124.45.162:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://222.135.142.75:3283/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -409,7 +449,7 @@ CCTV14,http://myddns.com.cn:9999/udp/233.50.201.124:5140
 CCTV15,http://myddns.com.cn:9999/udp/233.50.201.15:5140
 CCTV16,http://myddns.com.cn:9999/udp/233.50.200.112:5140
 CCTV16,http://myddns.com.cn:9999/udp/233.50.201.192:5140
-CCTV16 4K,http://myddns.com.cn:9999/udp/233.50.201.63:5140
+CCTV16,http://myddns.com.cn:9999/udp/233.50.201.63:5140
 CCTV17,http://myddns.com.cn:9999/udp/233.50.200.113:5140
 
 CCTV1,http://myddns.com.cn:9999/udp/233.50.202.21:5140
@@ -430,7 +470,7 @@ CCTV13,http://myddns.com.cn:9999/udp/233.50.201.13:5140
 CCTV14,http://myddns.com.cn:9999/udp/233.50.201.14:5140
 CCTV17,http://myddns.com.cn:9999/udp/233.50.201.35:5140
 
-CTV1,http://202.111.192.14:5146/rtp/238.1.78.166:7200
+CCTV1,http://202.111.192.14:5146/rtp/238.1.78.166:7200
 CCTV2,http://202.111.192.14:5146/rtp/238.1.78.235:7752
 CCTV3,http://202.111.192.14:5146/rtp/238.1.78.170:7232
 CCTV4,http://202.111.192.14:5146/rtp/238.1.78.236:7760
@@ -491,44 +531,7 @@ CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
 
-CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
-CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8
-CCTV3,http://183.222.242.31:8088/hls/3/index.m3u8
-CCTV4,http://183.222.242.31:8088/hls/4/index.m3u8
-CCTV5,http://183.222.242.31:8088/hls/5/index.m3u8
-CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
-CCTV6,http://183.222.242.31:8088/hls/6/index.m3u8
-CCTV7,http://183.222.242.31:8088/hls/7/index.m3u8
-CCTV8,http://183.222.242.31:8088/hls/8/index.m3u8
-CCTV9,http://183.222.242.31:8088/hls/9/index.m3u8
-CCTV10,http://183.222.242.31:8088/hls/10/index.m3u8
-CCTV11,http://183.222.242.31:8088/hls/11/index.m3u8
-CCTV12,http://183.222.242.31:8088/hls/12/index.m3u8
-CCTV13,http://183.222.242.31:8088/hls/13/index.m3u8
-CCTV14,http://183.222.242.31:8088/hls/14/index.m3u8
-CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8
 
-CCTV1,http://106.53.99.30/tv/hot.php?id=cctv1
-CCTV2,http://106.53.99.30/tv/hot.php?id=cctv2
-CCTV3,http://106.53.99.30/tv/hot.php?id=cctv3
-CCTV4,http://106.53.99.30/tv/hot.php?id=cctv4
-CCTV5,http://106.53.99.30/tv/hot.php?id=cctv5
-CCTV5+,http://106.53.99.30/tv/hot.php?id=cctv5p
-CCTV6,http://106.53.99.30/tv/hot.php?id=cctv6
-CCTV7,http://106.53.99.30/tv/hot.php?id=cctv7
-CCTV8,http://106.53.99.30/tv/hot.php?id=cctv8
-CCTV9,http://106.53.99.30/tv/hot.php?id=cctv9
-CCTV10,http://106.53.99.30/tv/hot.php?id=cctv10
-CCTV11,http://106.53.99.30/tv/hot.php?id=cctv11
-CCTV12,http://106.53.99.30/tv/hot.php?id=cctv12
-CCTV13,http://106.53.99.30/tv/hot.php?id=cctv13
-CCTV14,http://106.53.99.30/tv/hot.php?id=cctv14
-CCTV15,http://106.53.99.30/tv/hot.php?id=cctv15
-CCTV16,http://106.53.99.30/tv/hot.php?id=cctv16
-
-CCTV1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
-CCTV5,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8
-CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 
 
 
