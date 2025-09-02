@@ -1,9 +1,49 @@
 王元修爱看的,#genre#
 
-羽毛球决赛,https://hlslive-tx-2-cdn.ysp.cctv.cn/8C86A399FDA24F9E42E1846724D5060B869C205F157A4B7C02C71EC33903FE36A2767843534D37A2A1BA813415A759EFC34E0BBD9C1886633C66B754DC02EA2AF7B22646BC109B48D9B50247D221939501CEA63B9358DFDC1B4A669A7C595A65307DD43010618CB030F48D87DAD1891C/2028272603.m3u8?from=player&svrtime=1756642714&pid=600206709&cdn=5512&revoi=&app_id=519748109&guid=m00g0eej_eaghordk64&ysign=5a40d7a24068a13a1d60dc883cc98060&ytime=1756642714&ytype=1
-羽毛球决赛2,http://play.cbalive.weibisai.com/live/3989485418196061_AiHD.m3u8?txSecret=2fc3d8820a53b64f9b0a039258211584&txTime=68B56090
-
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+
+CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
+CCTV3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+CCTV4,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
+CCTV5,http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+CCTV6,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
+CCTV7,http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
+CCTV8,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+CCTV9,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
+CCTV10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
+CCTV11,http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
+CCTV12,http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
+CCTV13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
+CCTV14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
+CCTV15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
+CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
+CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
+CCTV5+,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
+CCTV1,http://60.174.40.117:85/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://60.174.40.117:85/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://60.174.40.117:85/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://60.174.40.117:85/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://60.174.40.117:85/tsfile/live/0005_1.m3u8?key=txiptv
+
+CCTV6,http://60.174.40.117:85/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://60.174.40.117:85/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://60.174.40.117:85/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://60.174.40.117:85/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://60.174.40.117:85/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://60.174.40.117:85/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://60.174.40.117:85/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://60.174.40.117:85/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://60.174.40.117:85/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://60.174.40.117:85/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
+CCTV17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
+CCTV16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?=txiptv
+CCTV5,http://112.46.85.60:8009/hls/503/index.m3u8
+CCTV5,http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c
+CCTV5+,http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f8566518e97cd59f827e367318341fa56132b91af956b4e1cd85f255dd26352c1e9611c76770d0ba4afaf07d71eb65ec9859b3d8239dd7806fb2b21c9410b3e062eab2fcc
+CCTV5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=4f1a9fcd002d1813b494eddd61778e103dbe130f4abb409e9032be9917dfd1871014d622a729fd6ffc4e1c376330de3f42c3691e2b49d12f7eb77bdf1887e67a9e6ad438d269a4408f0b3c6bcb
+
 
 CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
 CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8
@@ -279,33 +319,6 @@ CCTV14,http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8
 CCTV15,http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8
 CCTV17,http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8
 
-CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226231/index.m3u8
-CCTV1,http://111.20.33.70/PLTV/88888893/224/3221226239/index.m3u8#p3p://173.208.176.178:31809/60232b5f00007bc37850649979e379df
-CCTV2,http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
-CCTV2,http://111.20.33.70/PLTV/88888893/224/3221226224/index.m3u8#http://u3v.cn/5VEYzx
-CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226397/index.m3u8
-CCTV3,http://111.20.33.70/PLTV/88888893/224/3221226398/index.m3u8#http://u3v.cn/5O8LuQ
-CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226191/index.m3u8
-CCTV4,http://111.20.33.70/PLTV/88888893/224/3221226223/index.m3u8#http://m6z.cn/5VEYzn
-CCTV5,http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
-CCTV5,http://111.20.33.70/PLTV/88888893/224/3221226396/index.m3u8#http://m6z.cn/5z1J9J
-CCTV5+,http://111.20.33.70/PLTV/88888893/224/3221226221/index.m3u8
-CCTV6,http://111.20.33.70/PLTV/88888893/224/3221226393/index.m3u8
-CCTV6,http://111.20.33.70/PLTV/88888893/224/3221226011/index.m3u8#http://m6z.cn/6xbpLi
-CCTV7,http://111.20.33.70/PLTV/88888893/224/3221226192/index.m3u8
-CCTV7,http://111.20.33.70/PLTV/88888893/224/3221226248/index.m3u8#http://m6z.cn/6idbMy
-CCTV8,http://111.20.33.70/PLTV/88888893/224/3221226391/index.m3u8
-CCTV8,http://111.20.33.70/PLTV/88888893/224/3221226407/index.m3u8#http://m6z.cn/63bbE4
-CCTV9,http://111.20.33.70/PLTV/88888893/224/3221226197/index.m3u8#http://m6z.cn/6aGYHR
-CCTV10,http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8#http://m6z.cn/5O8LuG
-CCTV11,http://111.20.33.70/PLTV/88888893/224/3221226240/index.m3u8#http://m6z.cn/5GCB1h
-CCTV12,http://111.20.33.70/PLTV/88888893/224/3221226190/index.m3u8
-CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
-CCTV14,http://111.20.33.70/PLTV/88888893/224/3221226193/index.m3u8
-CCTV16,http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
-CCTV17,http://111.20.33.70/PLTV/88888893/224/3221226198/index.m3u8
-CCTV17,http://111.20.33.70/PLTV/88888893/224/3221226208/index.m3u8
-
 
 
 
@@ -333,24 +346,7 @@ CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
+
 
 
 
@@ -404,6 +400,24 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 咪视通-44,http://tv.7k7v.com/itv/3000000010000027691.m3u8
 咪视通-45,http://tv.7k7v.com/itv/3000000010000031669.m3u8
 
+CCTV1,http://go.bkpcp.top/mg/cctv1
+CCTV2,http://go.bkpcp.top/mg/cctv2
+CCTV3,http://go.bkpcp.top/mg/cctv3
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV7,http://go.bkpcp.top/mg/cctv7
+CCTV8,http://go.bkpcp.top/mg/cctv8
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV10,http://go.bkpcp.top/mg/cctv10
+CCTV11,http://go.bkpcp.top/mg/cctv11
+CCTV12,http://go.bkpcp.top/mg/cctv12
+CCTV13,http://go.bkpcp.top/mg/cctv13
+CCTV14,http://go.bkpcp.top/mg/cctv14
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV16,http://go.bkpcp.top/mg/cctv16
+CCTV17,http://go.bkpcp.top/mg/cctv17
 
 
 
