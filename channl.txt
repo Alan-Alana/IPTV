@@ -1,9 +1,7 @@
 王元修爱看的,#genre#
 
-阅兵直播,http://jackgao.top:35455/bilibili/8178490
-阅兵直播,http://jackgao.top:35455/douyin/870887192950
-阅兵直播,http://jackgao.top:35455/bilibili/22142427
-
+1号场地,https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court1HB_sjb5720.m3u8?title=8198296&ver=1.0.0&uid=1854086878&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-abr&quality=2&multi_raw_stream=YMQ-Court1HB&ccode=live05010101&expire=21600&psid=27F0ABC65338698B2C4E50FF17276484&ups_client_netip=106.117.105.101&ups_ts=1757411207&ups_userid=1854086878&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8198296_8123401&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa&cug=10&t=730c09e4f66d6a9&vkey=Bd54866ddfc413adc396e455c466a2a00
+2号场地,https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb5720.m3u8?title=8198305&ver=1.0.0&uid=1854086878&log_type=log_type&aliyun_uuid=yKGkIAMYRgEBASQOA0LoiJJf&cdnQuality=h265-720p&quality=4&multi_raw_stream=YMQ-Court2HB&ccode=live05010101&expire=21600&psid=941F8F2217134C6B3049BE5C62A8F0B7&ups_client_netip=106.117.105.101&ups_ts=1757411680&ups_userid=1854086878&utid=yKGkIAMYRgEBASQOA0LoiJJf&vid=8198305_8123410&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court2HB_sjb5720&vkey=B76a87fc65145c2eb01536b08dcc93c77&cug=10&t=7a4d02c11fdf034&rid=2000000061623EAA38CF964F3F51D04756D0C70600000000
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
