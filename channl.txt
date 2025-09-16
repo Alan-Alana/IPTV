@@ -1,5 +1,10 @@
 王元修爱看的,#genre#
 
+1号场地,http://play.cbalive.weibisai.com/live/4006063330089061_AiHD.m3u8?txSecret=050db70b9e86e7b7336484dfcc72744b&txTime=68C9EBF0
+2号场地,http://play.cbalive.weibisai.com/live/4006063477589061_AiHD.m3u8?txSecret=34202117d11e61d09e6a2ac1ea25f4ab&txTime=68C9EBF0
+3号场地,http://play.cbalive.weibisai.com/live/4006063598923061_AiHD.m3u8?txSecret=080a6a7d97470bae71d6aa54e57f52fa&txTime=68C9EBF0
+
+
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
