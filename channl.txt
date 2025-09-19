@@ -1,11 +1,27 @@
 王元修爱看的,#genre#
 
-1号场地,http://play.cbalive.weibisai.com/live/4006064645147061_AiHD.m3u8?txSecret=d1a787ac852e1ce11458bccbd677b908&txTime=68CC8EF0
-2号场地,http://play.cbalive.weibisai.com/live/4006064796557061_AiHD.m3u8?txSecret=3f313872fb32d2342c2e310a0b088c41&txTime=68CC8EF0
-3号场地,http://play.cbalive.weibisai.com/live/4006064924547061_AiHD.m3u8?txSecret=3d411f096b4d992d1edd11fd52abdebe&txTime=68CC8EF0
-
 
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+
+CCTV1,http://120.76.248.139/live/bfgd/4200000201.m3u8
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
+CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
+CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
+CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
+CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
+CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
+CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
+CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
+
+
 
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
