@@ -3,6 +3,12 @@
 央视1号,https://hlsliveali-cdn.ysp.cctv.cn/5221EB991BD25895A54710D30FCB43BC4F75BC4072804FF0472A9FBC57DFED4A05C6497DE8F04137FD1212C2E70C254861060E53612F550C34D45D0B3FBD230EA9197DBCD4213FAF45C9ACED4091D03B4ABE45317A1853C7BA0C333B50F1B6D2120BD4636D7F0DF545F32C86128F6F9B/2028415003.m3u8?from=player&svrtime=1758352150&pid=600207943&cdn=5506&revoi=&app_id=519748109&guid=m00g0eej_eaghordk64&ysign=f81596a968db9b93ccf17d891af89b4f&ytime=1758352150&ytype=1
 羽协1号,http://play.cbalive.weibisai.com/live/4006065953005061_AiHD.m3u8?txSecret=b485556b2d6b618dee845d41ac69485d&txTime=68CF4000
 
+林丹vs李宗伟 2012伦敦,https://upos-sz-estgoss.bilivideo.com/upgcxcode/91/88/29927148891/29927148891-1-192.mp4?e=ig8euxZM2rNcNbRMhzdVhwdlhWKzhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&platform=html5&mid=0&gen=playurlv3&og=ali&oi=2947683238&deadline=1758363511&trid=b0f5095af87b4007a8b16800e096b3fh&os=estgoss&upsig=17be9f39d2143383e12b024489c617eb&uparams=e,uipk,nbs,platform,mid,gen,og,oi,deadline,trid,os&bvc=vod&nettype=0&bw=1148801&buvid=&build=0&dl=0&f=h_0_0&agrr=1&orderid=0,1
+
+李宗伟 vs 谌龙 - 2014全英,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/85/29/1060902985/1060902985-1-208.mp4?e=ig8euxZM2rNcNbhgnwdVhwdlhzN3hwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&gen=playurlv3&os=estghw&oi=144233936&mid=0&nbs=1&platform=html5&deadline=1758364123&og=hw&trid=8a2f222b8c6e4b8289bac1409761992O&uipk=5&upsig=3a17db79fba079cae574c53a6a82a107&uparams=e,gen,os,oi,mid,nbs,platform,deadline,og,trid,uipk&bvc=vod&nettype=1&bw=2624687&agrr=1&buvid=&build=7330300&dl=0&f=O_0_0&orderid=0,3
+
+林丹vs李宗伟 2012全英,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/29/86/28702278629/28702278629-1-192.mp4?e=ig8euxZM2rNcNbRV7zdVhwdlhWdahwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&trid=f82a837f6abc4c258890f0b4882a582O&deadline=1758364255&gen=playurlv3&og=cos&nbs=1&oi=144233936&uipk=5&platform=html5&os=estgcos&upsig=7b690c76074c5fff494618f4f49f5268&uparams=e,mid,trid,deadline,gen,og,nbs,oi,uipk,platform,os&bvc=vod&nettype=1&bw=863351&agrr=1&buvid=&build=7330300&dl=0&f=O_0_0&orderid=0,3
+
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 
 CCTV1,http://120.76.248.139/live/bfgd/4200000201.m3u8
