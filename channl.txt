@@ -1,5 +1,19 @@
 央视频道,#genre#
 
+CCTV1,https://6663.luyazo.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1756266807-0-0-8c4ca6bb3d80148bb53c1f4cae92b26d
+CCTV2,https://6663.luyazo.com/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8?auth_key=1756266836-0-0-23818bf0260ffc5513d2c52546170a2d
+CCTV3,https://6663.luyazo.com/livetv/hlcc/cSGhRw7Hg/cSGhRw7Hg_live.m3u8?auth_key=1756266863-0-0-f7b31fd3c0e61a73afb662160b981d96
+CCTV4,https://6663.luyazo.com/livetv/hlcc/8rd2RQ7Ng/8rd2RQ7Ng_live.m3u8?auth_key=1756266890-0-0-be8dd49928881ddcf74850eff9d207aa
+CCTV5,https://6663.luyazo.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1756266921-0-0-c980775f013612d85a4758efb97fabc4
+CCTV5+,https://6663.luyazo.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1756266937-0-0-33bb9c95be9914da6d6c52039673ce89
+CCTV6,https://6663.luyazo.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8?auth_key=1756266973-0-0-611bc714de46cb8f7cb758d38d953845
+CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV8,https://6663.luyazo.com/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8?auth_key=1756267014-0-0-51688d07840b5ba34f9375e8ecefb166
+CCTV9,https://6663.luyazo.com/livetv/hlcc/NzboRw7Hg/NzboRw7Hg_live.m3u8?auth_key=1756267029-0-0-18bc5bfdef185660486c80e9ed2cdb77
+CCTV10,https://6663.luyazo.com/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8?auth_key=1756267057-0-0-7d83048d4522bffc2578880cda9b5f13
+CCTV16,https://6663.luyazo.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1756266953-0-0-c0b2027bbc8c2f1ba5ac824b0dfdbd57
+
+
 CCTV1,http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
 CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8
