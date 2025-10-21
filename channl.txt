@@ -1,6 +1,9 @@
+
+更新时间,#genre#
+
+10月20日更新,https://radio.pull.hebtv.com/live/hebyy.m3u8
+
 央视频道,#genre#
-
-
 
 CCTV1,http://hxwangcong.x3322.net:26000/udp/239.112.205.59:5140
 CCTV2,http://hxwangcong.x3322.net:26000/udp/239.112.205.78:5140
@@ -3898,8 +3901,3 @@ MTV欣赏,#genre#
 
 
 
-
-
-
-更新时间,#genre#
-10月19日更新,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
