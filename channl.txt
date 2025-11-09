@@ -3,7 +3,7 @@
 
 更新时间,#genre#
 
-请使用天光云影否则WEB源无法播放，https://radio.pull.hebtv.com/live/hebxw.m3u8
+请使用天光云影否则WEB源无法播放,https://radio.pull.hebtv.com/live/hebxw.m3u8
 11月9日更新,https://radio.pull.hebtv.com/live/hebyy.m3u8
 
 央视频道,#genre#
