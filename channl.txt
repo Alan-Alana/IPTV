@@ -730,6 +730,7 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 凤凰卫视,http://free.cnlive.club/channel/n496e6eec.m3u8
+凤凰卫视,http://27.41.245.32:801/hls/205/index.m3u8
 凤凰资讯,http://free.cnlive.club/channel/n4966a4fb.m3u8
 凤凰香港,http://free.cnlive.club/channel/n49654430.m3u8
 中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
