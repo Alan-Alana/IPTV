@@ -644,6 +644,19 @@ CHC影迷电影,http://69.30.245.50/live/chcym.m3u8
 周润发,http://74.91.26.218:82/live/vlzrf.m3u8
 周星驰,http://74.91.26.218:82/live/vlzxc.m3u8
 
+庆余年,https://live.ottiptv.cc/huya/23740156
+庆余年,https://live.ottiptv.cc/huya/11352960
+亮剑,https://live.ottiptv.cc/huya/30080238
+斗破苍穹连播,https://live.ottiptv.cc/huya/11336572
+斗罗大陆连播,https://live.ottiptv.cc/huya/11352906
+仙逆连播,https://live.ottiptv.cc/huya/21059565
+雍正王朝,https://live.ottiptv.cc/huya/11342439
+延禧,https://live.ottiptv.cc/huya/26355864
+倚天屠龙,https://live.ottiptv.cc/huya/11342403
+都挺好,https://live.ottiptv.cc/huya/21059594
+水浒传,https://live.ottiptv.cc/huya/26355860
+天龙八部,https://live.ottiptv.cc/huya/20985816
+
 
 
 
