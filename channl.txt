@@ -4,7 +4,7 @@
 更新时间,#genre#
 
 删除WEB源用酷9更好,https://radio.pull.hebtv.com/live/hebxw.m3u8
-3月15日更新,https://radio.pull.hebtv.com/live/hebyy.m3u8
+3月31日更新,https://radio.pull.hebtv.com/live/hebyy.m3u8
 
 
 🏀咪视界直播,#genre#
@@ -526,16 +526,20 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
+凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 凤凰香港,https://sys.lysvc.cc/iptv_test/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&t=1772756218&token=f9fb354d708b6f81b24c003f385ee5fe
 
 澳视澳门,http://r.jdshipin.com/n2YZI
 澳视卫星,http://r.jdshipin.com/QFhCq
 台湾+,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -560,17 +564,19 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
-TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
-NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
-NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
-美亚电影台,http://74.91.26.218:82/live/mydy.m3u8
-天映频道,http://74.91.26.218:82/live/typd.m3u8
-天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 
+翡翠台,https://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台,https://php.jdshipin.com/smt.php?id=Jade_xue
+无线新闻,https://php.jdshipin.com/smt.php?id=inews_twn
+TVBPLUS,https://php.jdshipin.com/smt.php?id=j2_twn
+明珠台,https://php.jdshipin.com/smt.php?id=pearl_twn
+凤凰香港,https://php.jdshipin.com/smt.php?id=hkphoenix_twn
+HOYTV,https://php.jdshipin.com/smt.php?id=hoycaijing_twn
+RTHK31,https://php.jdshipin.com/smt.php?id=rhk31_twn
+viutv,https://php.jdshipin.com/smt.php?id=viu1_twn
+RTHK32,https://php.jdshipin.com/smt.php?id=rhk32_twn
+凤凰中文,https://php.jdshipin.com/smt.php?id=phoenixtv_hd
+凤凰资讯,https://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 
 
 
