@@ -4,7 +4,7 @@
 更新时间,#genre#
 
 删除WEB源用酷9更好,https://radio.pull.hebtv.com/live/hebxw.m3u8
-3月31日更新,https://radio.pull.hebtv.com/live/hebyy.m3u8
+6月7日更新,https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 
 
 🏀咪视界直播,#genre#
@@ -62,7 +62,74 @@
 咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
 
 
+体育频道测试,#genre#
+
+CCTV5,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20260607062022&Channel_ID=0116_2600037000-99000-200300220108188&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=113.6.228.147&SecurityKey=20260607062022&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7cab47bc041967d6839a4bb28666160e
+CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+CCTV5+,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20260607062051&Channel_ID=0116_2600037000-99000-200300220108189&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=113.6.228.148&SecurityKey=20260607062051&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=25ff66172d49c8aa0fbee8103c7fd7fb
+
+
 央视频道,#genre#
+
+CCTV1,http://207.56.13.146:81/cdnlive/cctv1.m3u
+CCTV2,http://207.56.13.146:81/cdnlive/cctv2.m3u8
+CCTV3,http://207.56.13.146:81/cdnlive/cctv3.m3u8
+CCTV4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
+CCTV6,http://207.56.13.146:81/cdnlive/cctv6.m3u8
+CCTV7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
+CCTV8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
+CCTV9,http://207.56.13.146:81/cdnlive/cctv9.m3u8
+CCTV10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
+CCTV11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
+CCTV12,http://207.56.13.146:81/cdnlive/cctv12.m3u8
+CCTV13,http://207.56.13.146:81/cdnlive/cctv13.m3u8
+CCTV14,http://207.56.13.146:81/cdnlive/cctv14.m3u8
+CCTV15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
+CCTV16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
+CCTV17,http://207.56.13.146:81/cdnlive/cctv17.m3u8
+
+CCTV1,http://124.77.202.8:49155/608807420
+CCTV2,http://124.77.202.8:49155/631780532
+CCTV3,http://124.77.202.8:49155/624878271
+CCTV4,http://124.77.202.8:49155/631780421
+CCTV5,http://124.77.202.8:49155/641886683
+CCTV5+,http://124.77.202.8:49155/641886773
+CCTV6,http://124.77.202.8:49155/624878396
+CCTV7,http://124.77.202.8:49155/673168121
+CCTV8,http://124.77.202.8:49155/624878356
+CCTV9,http://124.77.202.8:49155/673168140
+CCTV10,http://124.77.202.8:49155/624878405
+CCTV11,http://124.77.202.8:49155/667987558
+CCTV12,http://124.77.202.8:49155/673168185
+CCTV13,http://124.77.202.8:49155/608807423
+CCTV14,http://124.77.202.8:49155/624878440
+CCTV15,http://124.77.202.8:49155/673168223
+CCTV17,http://124.77.202.8:49155/673168256
+
+CCTV1,http://173.208.212.130:8181/1080p/cctv1.m3u8
+CCTV2,http://173.208.212.130:8181/1080p/cctv2.m3u8
+CCTV3,http://173.208.212.130:8181/1080p/cctv3.m3u8
+CCTV4,http://173.208.212.130:8181/1080p/cctv4.m3u8
+CCTV5,http://173.208.212.130:8181/1080p/cctv5.m3u8
+CCTV6,http://173.208.212.130:8181/1080p/cctv6.m3u8
+CCTV7,http://173.208.212.130:8181/1080p/cctv7.m3u8
+CCTV8,http://173.208.212.130:8181/1080p/cctv8.m3u8
+CCTV9,http://173.208.212.130:8181/1080p/cctv9.m3u8
+CCTV10,http://173.208.212.130:8181/1080p/cctv10.m3u8
+CCTV11,http://173.208.212.130:8181/1080p/cctv11.m3u8
+CCTV12,http://173.208.212.130:8181/1080p/cctv12.m3u8
+CCTV13,http://173.208.212.130:8181/1080p/cctv13.m3u8
+CCTV14,http://173.208.212.130:8181/1080p/cctv14.m3u8
+CCTV15,http://173.208.212.130:8181/1080p/cctv15.m3u8
+CCTV16,http://173.208.212.130:8181/1080p/cctv16.m3u8
+CCTV17,http://173.208.212.130:8181/1080p/cctv17.m3u8
+CCTV-5+,http://173.208.212.130:8181/1080p/cctv5p.m3u8
+
+
+
+
+
 
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
@@ -181,14 +248,14 @@ CCTV17,http://69.30.246.194/live/cctv17.m3u8
 
 
 
-CCTV-1HD,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV-2HD,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-CCTV-3HD,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV-4HD,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV-5HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV-5+HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-CCTV-6HD,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-CCTV-7HD,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 
 CCTV1,http://go.bkpcp.top/mg/cctv1$migu
 CCTV2,http://go.bkpcp.top/mg/cctv2$migu
@@ -209,7 +276,86 @@ CCTV15,http://go.bkpcp.top/mg/cctv15$migu
 CCTV16,http://go.bkpcp.top/mg/cctv16$migu
 CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 
-C
+
+⚽🏀足球直播,#genre#
+阿哲解密美加墨,https://live06.zuqiu106.com/live/64634795.m3u8
+主播阿呆,https://live06.zuqiu106.com/live/45947183.m3u8
+阿炮,https://live06.zuqiu106.com/live/86644976.m3u8
+航哥解说,https://live06.zuqiu106.com/live/02603691.m3u8
+奈奈,https://live06.zuqiu106.com/live/36571087.m3u8
+小杜杜,https://live06.zuqiu106.com/live/66619329.m3u8
+热巴,https://live06.zuqiu106.com/live/10397139.flv
+阿梨,https://live06.zuqiu106.com/live/52765809.m3u8
+蜜糖,https://live06.zuqiu106.com/live/39492499.m3u8
+夜猫,https://live06.zuqiu106.com/live/13882370.m3u8
+森林聊球,https://live06.zuqiu106.com/live/15781071.m3u8
+天禄,https://live06.zuqiu106.com/live/47337902.m3u8
+山鸡,https://live06.zuqiu106.com/live/95005714.m3u8
+老马聊球,https://live06.zuqiu106.com/live/03735870.m3u8
+欢喜宝哥,https://live06.zuqiu106.com/live/99354599.m3u8
+老班长,https://live06.zuqiu106.com/live/95826850.m3u8
+利哥,https://live06.zuqiu106.com/live/73853999.m3u8
+小北聊球,https://live06.zuqiu106.com/live/25364189.m3u8
+威少,https://live06.zuqiu106.com/live/23048255.m3u8
+暖暖,https://live06.zuqiu106.com/live/58398678.m3u8
+城北徐公,https://live06.zuqiu106.com/live/15960426.m3u8
+阿酷,https://live06.zuqiu106.com/live/42573743.m3u8
+足球六六,https://live06.zuqiu106.com/live/81400757.m3u8
+六哥,https://live06.zuqiu106.com/live/60487662.m3u8
+赖斯,https://live06.zuqiu106.com/live/64907352.m3u8
+若林,https://live06.zuqiu106.com/live/32168392.m3u8
+豆豆,https://live06.zuqiu106.com/live/36664869.m3u8
+可可,https://live06.zuqiu106.com/live/57260225.m3u8
+章鱼妹,https://live06.zuqiu106.com/live/11533559.m3u8
+米苏,https://live06.zuqiu106.com/live/25685442.m3u8
+多金妹妹,https://live06.zuqiu106.com/live/45743553.m3u8
+老于,https://live06.zuqiu106.com/live/98011824.m3u8
+卡尔,https://live06.zuqiu106.com/live/03646838.m3u8
+奉先,https://live06.zuqiu106.com/live/56185622.m3u8
+希希,https://live06.zuqiu106.com/live/08624066.m3u8
+茉莉,https://live06.zuqiu106.com/live/98871911.m3u8
+阿哲,https://live06.zuqiu106.com/live/64634795.m3u8
+桃妖,https://live06.zuqiu106.com/live/96158820.m3u8
+梦梦,https://live06.zuqiu106.com/live/79821231.m3u8
+
+大飞,https://live13.zubmhu.com/live/18344034.m3u8
+软软,https://live13.zubmhu.com/live/77737905.m3u8
+薇月,https://live13.zubmhu.com/live/47782968.m3u8
+兔兔,https://live13.zubmhu.com/live/97310381.m3u8
+二狗,https://live13.zubmhu.com/live/75241502.m3u8
+阿久,https://live13.zubmhu.com/live/61705985.m3u8
+红单杰克,https://live13.zubmhu.com/live/39399728.m3u8
+草莓,https://live13.zubmhu.com/live/10102989.m3u8
+甜甜,https://live13.zubmhu.com/live/80777298.m3u8
+飞哥侃球,https://live13.zubmhu.com/live/66138126.m3u8
+悠米,https://live13.zubmhu.com/live/71225643.m3u8
+小辣椒,https://live13.zubmhu.com/live/77683984.m3u8
+小优,https://live13.zubmhu.com/live/15546880.m3u8
+图图,https://live13.zubmhu.com/live/07824186.m3u8
+苍井优,https://live13.zubmhu.com/live/69227368.m3u8
+茶茶,https://live13.zubmhu.com/live/25006395.m3u8
+鹰击长空,https://live13.zubmhu.com/live/70692098.m3u8
+可馨,https://live13.zubmhu.com/live/14371201.m3u8
+六六侃球,https://live13.zubmhu.com/live/99460265.m3u8
+米莱,https://live13.zubmhu.com/live/73448574.m3u8
+总舵主,https://live13.zubmhu.com/live/74457427.m3u8
+纯纯,https://live13.zubmhu.com/live/88730672.m3u8
+东北哈兰德,https://live13.zubmhu.com/live/01404647.m3u8
+小妖精,https://live13.zubmhu.com/live/60882706.m3u8
+探长,https://live13.zubmhu.com/live/84799094.m3u8
+曼曼,https://live13.zubmhu.com/live/46979041.m3u8
+油油,https://live13.zubmhu.com/live/51273596.m3u8
+云朵,https://live13.zubmhu.com/live/31746045.m3u8
+依依,https://live13.zubmhu.com/live/22447630.m3u8
+奶龙,https://live13.zubmhu.com/live/03218778.m3u8
+老豹,https://live13.zubmhu.com/live/61061076.m3u8
+十安,https://live13.zubmhu.com/live/05624449.m3u8
+小骚包,https://live13.zubmhu.com/live/10448297.m3u8
+精彩回放1,https://live13.zubmhu.com/live/13868592.m3u8
+精彩回放2,https://live13.zubmhu.com/live/90984583.m3u8
+精彩回放3,https://live13.zubmhu.com/live/47622665.m3u8
+
+
 
 
 
@@ -578,6 +724,15 @@ RTHK32,https://php.jdshipin.com/smt.php?id=rhk32_twn
 凤凰中文,https://php.jdshipin.com/smt.php?id=phoenixtv_hd
 凤凰资讯,https://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 
+翡翠台,http://cdn6.163189.xyz/163189/fct
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://cdn6.163189.xyz/163189/fct4k
+翡翠一台(TVB1),http://cdn6.163189.xyz/163189/tvb1
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 
 
 
