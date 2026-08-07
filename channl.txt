@@ -11,18 +11,26 @@
 
 
 
-体育频道,#genre#
-CCTV5,http://82.156.243.185:36888/av3a/cctv5.m3u8
-CCTV5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
-CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-CCTV5,http://60.10.139.113:8801/hls/5/index.m3u8
-CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
-CCTV5+,http://82.156.243.185:36888/av3a/cctv5p.m3u8
-CCTV5+,http://82.156.243.185:36888/av3a/cctv5pn.m3u8
-CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV5+,http://60.10.139.113:8801/hls/15/index.m3u8
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+夜空央视,#genre#
+CCTV1,http://go.061899.xyz/mg/cctv1
+CCTV1,http://zmgd.zyrnet.com:8888/hls/1/index.m3u8
+CCTV2,http://go.061899.xyz/mg/cctv2
+CCTV3,http://go.061899.xyz/mg/cctv3
+CCTV4,http://go.061899.xyz/mg/cctv4
+CCTV5,http://111.170.156.74:3344/央视/cctvapp.php?id=CCTV54d61bd11c9a343b782b3381a3c3f6540H
+CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV6,http://go.061899.xyz/mg/cctv6
+CCTV7,http://go.061899.xyz/mg/cctv7
+CCTV8,http://go.061899.xyz/mg/cctv8
+CCTV9,http://go.061899.xyz/mg/cctv9
+CCTV10,http://go.061899.xyz/mg/cctv10
+CCTV11,http://go.061899.xyz/mg/cctv11
+CCTV12,http://go.061899.xyz/mg/cctv12
+CCTV13,http://go.061899.xyz/mg/cctv13
+CCTV14,http://go.061899.xyz/mg/cctv14
+CCTV15,http://go.061899.xyz/mg/cctv15
+CCTV16,http://go.061899.xyz/mg/cctv16
+CCTV17,http://go.061899.xyz/mg/cctv17
 
 央视频道,#genre#
 
@@ -249,89 +257,6 @@ CCTV16,http://go.bkpcp.top/mg/cctv16$migu
 CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 
 
-⚽🏀足球直播,#genre#
-阿哲解密美加墨,https://live06.zuqiu106.com/live/64634795.m3u8
-主播阿呆,https://live06.zuqiu106.com/live/45947183.m3u8
-阿炮,https://live06.zuqiu106.com/live/86644976.m3u8
-航哥解说,https://live06.zuqiu106.com/live/02603691.m3u8
-奈奈,https://live06.zuqiu106.com/live/36571087.m3u8
-小杜杜,https://live06.zuqiu106.com/live/66619329.m3u8
-热巴,https://live06.zuqiu106.com/live/10397139.flv
-阿梨,https://live06.zuqiu106.com/live/52765809.m3u8
-蜜糖,https://live06.zuqiu106.com/live/39492499.m3u8
-夜猫,https://live06.zuqiu106.com/live/13882370.m3u8
-森林聊球,https://live06.zuqiu106.com/live/15781071.m3u8
-天禄,https://live06.zuqiu106.com/live/47337902.m3u8
-山鸡,https://live06.zuqiu106.com/live/95005714.m3u8
-老马聊球,https://live06.zuqiu106.com/live/03735870.m3u8
-欢喜宝哥,https://live06.zuqiu106.com/live/99354599.m3u8
-老班长,https://live06.zuqiu106.com/live/95826850.m3u8
-利哥,https://live06.zuqiu106.com/live/73853999.m3u8
-小北聊球,https://live06.zuqiu106.com/live/25364189.m3u8
-威少,https://live06.zuqiu106.com/live/23048255.m3u8
-暖暖,https://live06.zuqiu106.com/live/58398678.m3u8
-城北徐公,https://live06.zuqiu106.com/live/15960426.m3u8
-阿酷,https://live06.zuqiu106.com/live/42573743.m3u8
-足球六六,https://live06.zuqiu106.com/live/81400757.m3u8
-六哥,https://live06.zuqiu106.com/live/60487662.m3u8
-赖斯,https://live06.zuqiu106.com/live/64907352.m3u8
-若林,https://live06.zuqiu106.com/live/32168392.m3u8
-豆豆,https://live06.zuqiu106.com/live/36664869.m3u8
-可可,https://live06.zuqiu106.com/live/57260225.m3u8
-章鱼妹,https://live06.zuqiu106.com/live/11533559.m3u8
-米苏,https://live06.zuqiu106.com/live/25685442.m3u8
-多金妹妹,https://live06.zuqiu106.com/live/45743553.m3u8
-老于,https://live06.zuqiu106.com/live/98011824.m3u8
-卡尔,https://live06.zuqiu106.com/live/03646838.m3u8
-奉先,https://live06.zuqiu106.com/live/56185622.m3u8
-希希,https://live06.zuqiu106.com/live/08624066.m3u8
-茉莉,https://live06.zuqiu106.com/live/98871911.m3u8
-阿哲,https://live06.zuqiu106.com/live/64634795.m3u8
-桃妖,https://live06.zuqiu106.com/live/96158820.m3u8
-梦梦,https://live06.zuqiu106.com/live/79821231.m3u8
-
-大飞,https://live13.zubmhu.com/live/18344034.m3u8
-软软,https://live13.zubmhu.com/live/77737905.m3u8
-薇月,https://live13.zubmhu.com/live/47782968.m3u8
-兔兔,https://live13.zubmhu.com/live/97310381.m3u8
-二狗,https://live13.zubmhu.com/live/75241502.m3u8
-阿久,https://live13.zubmhu.com/live/61705985.m3u8
-红单杰克,https://live13.zubmhu.com/live/39399728.m3u8
-草莓,https://live13.zubmhu.com/live/10102989.m3u8
-甜甜,https://live13.zubmhu.com/live/80777298.m3u8
-飞哥侃球,https://live13.zubmhu.com/live/66138126.m3u8
-悠米,https://live13.zubmhu.com/live/71225643.m3u8
-小辣椒,https://live13.zubmhu.com/live/77683984.m3u8
-小优,https://live13.zubmhu.com/live/15546880.m3u8
-图图,https://live13.zubmhu.com/live/07824186.m3u8
-苍井优,https://live13.zubmhu.com/live/69227368.m3u8
-茶茶,https://live13.zubmhu.com/live/25006395.m3u8
-鹰击长空,https://live13.zubmhu.com/live/70692098.m3u8
-可馨,https://live13.zubmhu.com/live/14371201.m3u8
-六六侃球,https://live13.zubmhu.com/live/99460265.m3u8
-米莱,https://live13.zubmhu.com/live/73448574.m3u8
-总舵主,https://live13.zubmhu.com/live/74457427.m3u8
-纯纯,https://live13.zubmhu.com/live/88730672.m3u8
-东北哈兰德,https://live13.zubmhu.com/live/01404647.m3u8
-小妖精,https://live13.zubmhu.com/live/60882706.m3u8
-探长,https://live13.zubmhu.com/live/84799094.m3u8
-曼曼,https://live13.zubmhu.com/live/46979041.m3u8
-油油,https://live13.zubmhu.com/live/51273596.m3u8
-云朵,https://live13.zubmhu.com/live/31746045.m3u8
-依依,https://live13.zubmhu.com/live/22447630.m3u8
-奶龙,https://live13.zubmhu.com/live/03218778.m3u8
-老豹,https://live13.zubmhu.com/live/61061076.m3u8
-十安,https://live13.zubmhu.com/live/05624449.m3u8
-小骚包,https://live13.zubmhu.com/live/10448297.m3u8
-精彩回放1,https://live13.zubmhu.com/live/13868592.m3u8
-精彩回放2,https://live13.zubmhu.com/live/90984583.m3u8
-精彩回放3,https://live13.zubmhu.com/live/47622665.m3u8
-
-
-
-
-
-
 
 
 
@@ -511,6 +436,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 
 电视剧频道,#genre#
 
+爱奇艺,https://cdn.qd.je/163189/iqiyi
 庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
 庆余年,http://zzy789.xyz/douyu1.php?id=7812810
 庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960
@@ -523,7 +449,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 亮剑,https://live.ottiptv.cc/huya/30080238
 斗破苍穹连播,https://live.ottiptv.cc/huya/11336572
 斗罗大陆连播,https://live.ottiptv.cc/huya/11352906
-仙逆连播,https://live.ottiptv.cc/huya/21059565
+仙逆连播,https://live.ottiptv.cc/huya/30080215
 雍正王朝,https://live.ottiptv.cc/huya/11342439
 延禧,https://live.ottiptv.cc/huya/26355864
 倚天屠龙,https://live.ottiptv.cc/huya/11342403
