@@ -4,7 +4,7 @@
 更新时间,#genre#
 
 删除WEB源用酷9更好,https://radio.pull.hebtv.com/live/hebxw.m3u8
-6月29日更新,https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
+8月13日更新,https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 
 
 
@@ -456,7 +456,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 都挺好,https://live.ottiptv.cc/huya/21059594
 水浒传,https://live.ottiptv.cc/huya/26355860
 天龙八部,https://live.ottiptv.cc/huya/20985816
-
+83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
 延禧攻略,https://live.ottiptv.cc/huya/26355864
 琅琊榜,#http://zby.xjqxz.top/lyb/live.m3u8
 新三国,https://live.ottiptv.cc/huya/11352944
@@ -490,10 +490,10 @@ CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记续集,http://www.douzhicloud.site:35455/douyu/3113309
 我是特种兵之利刃出鞘,https://live.ottiptv.cc/yy/37999586
-狂飙,https://live.ottiptv.cc/yy/1355142167
- 三国演义,https://live.ottiptv.cc/huya/11602081
+狂飙,https://live.ottiptv.cc/yy/1354806550
+三国演义,https://live.ottiptv.cc/huya/11602081
 西游记,https://live.ottiptv.cc/huya/26355861
- 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 乌龙闯情关,https://live.ottiptv.cc/huya/26355767
 柳舟计,https://live.ottiptv.cc/huya/23860039
 与凤行,https://live.ottiptv.cc/huya/26355866
