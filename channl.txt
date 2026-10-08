@@ -35,6 +35,26 @@ CCTV15,http://173.208.234.146/live/cctv15.m3u8
 CCTV16,http://173.208.234.146/live/cctv16.m3u8
 CCTV17,http://173.208.234.146/live/cctv17.m3u8
 
+CCTV1,http://173.208.212.130:8181/720p/cctv1.m3u8#http://139.227.221.147:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://173.208.212.130:8181/720p/cctv2.m3u8#http://139.227.221.147:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://173.208.212.130:8181/720p/cctv3.m3u8#http://139.227.221.147:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://173.208.212.130:8181/720p/cctv4.m3u8#http://139.227.221.147:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV4亚洲,http://173.208.212.130:8181/720p/cctv4.m3u8#http://139.227.221.147:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://173.208.212.130:8181/720p/cctv5.m3u8#http://139.227.221.147:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5+,http://173.208.212.130:8181/720p/cctv5p.m3u8
+CCTV6,http://173.208.212.130:8181/720p/cctv6.m3u8#http://139.227.221.147:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://173.208.212.130:8181/720p/cctv7.m3u8#http://139.227.221.147:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://173.208.212.130:8181/720p/cctv8.m3u8#http://139.227.221.147:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://173.208.212.130:8181/720p/cctv9.m3u8#http://139.227.221.147:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://173.208.212.130:8181/720p/cctv10.m3u8#http://139.227.221.147:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://173.208.212.130:8181/720p/cctv11.m3u8#http://139.227.221.147:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://173.208.212.130:8181/720p/cctv12.m3u8#http://139.227.221.147:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://173.208.212.130:8181/720p/cctv13.m3u8#http://139.227.221.147:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://173.208.212.130:8181/720p/cctv14.m3u8#http://139.227.221.147:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://173.208.212.130:8181/720p/cctv15.m3u8#http://139.227.221.147:9901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV16,http://173.208.212.130:8181/720p/cctv16.m3u8
+CCTV17,http://173.208.212.130:8181/720p/cctv17.m3u8
+
 
 CCTV1,http://go.bkpcp.top/mg/cctv1$migu
 CCTV2,http://go.bkpcp.top/mg/cctv2$migu
@@ -227,8 +247,16 @@ CCTV17,http://go.bkpcp.top/mg/cctv17$migu
 广东卫视,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8$订阅源-1920x1080
 广东卫视,http://113.57.93.165:9900/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 
+轮播,#genre#
 
-
+成龙,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl#http://107.150.60.122/live/lbcl.m3u8
+周润发,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf#http://107.150.60.122/live/lbzrf.m3u8
+周星驰,http://107.150.60.122/live/lbzxc.m3u8
+林正英,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy#http://107.150.60.122/live/lblzy.m3u8
+陈翔六点半,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hycxldb
+邵氏1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbsswx
+邵氏2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssdz
+邵氏3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssxj
 
 
 
